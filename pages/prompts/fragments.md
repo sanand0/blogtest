@@ -38,6 +38,12 @@ For research papers, HN/Reddit/WhatsApp/Discord threads, other hard-to-digest co
 
 Other styles: Feynman, Tim Harford, Randall Munroe, etc. See [styles](/blog/prompts/styles/).
 
+## Explain quotes
+
+```markdown
+Sing the beauty of these words, and their meaning. (I don't really mean sing. I mean, write in a way that'd really make me appreciate the beauty. But without going overboard. I mean, some wicked humor is always welcome! In fact, I'd love for you to think about who some of the best authors are who achieve this balance and write in THEIR style.)
+```
+
 ## Read between Lines
 
 Use on press releases, contracts, policies.
