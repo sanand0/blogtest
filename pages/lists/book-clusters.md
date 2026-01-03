@@ -196,5 +196,6 @@ Here are books I'd like to cluster:
 - The Silk Roads (Peter Frankopan, 2015)
 - The Beginning of Infinity: Explanations That Transform the World (David Deutsch, 2011)
 - The Causes of Evolution (JBS Haldane, 1932)
+- Daedalus (JBS Haldane, 1924)
 - Umberto Eco. The Name of the Rose.
 - Primo Levi - The Periodic Table.
