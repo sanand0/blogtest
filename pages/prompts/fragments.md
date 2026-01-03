@@ -26,7 +26,11 @@ Then rewrite it in their style.
 ## Book summary
 
 ```markdown
-ELI15. Comprehensively and engagingly summarize and fact-check, writing in Malcolm Gladwell's style, the book:
+Comprehensively and engagingly summarize and fact-check, writing in Malcolm Gladwell's style (ELI15), the book:
+```
+
+```markdown
+Comprehensively and engagingly summarize, compare and fact-check, writing in Malcolm Gladwell's style (ELI15), the books:
 ```
 
 ## Malcolm Gladwell Style
