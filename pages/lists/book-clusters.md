@@ -197,5 +197,8 @@ Here are books I'd like to cluster:
 - The Beginning of Infinity: Explanations That Transform the World (David Deutsch, 2011)
 - The Causes of Evolution (JBS Haldane, 1932)
 - Daedalus (JBS Haldane, 1924)
-- Umberto Eco. The Name of the Rose.
-- Primo Levi - The Periodic Table.
+- The Name of the Rose (Umberto Eco, 1980)
+- The Periodic Table (Primo Levi, 1975)
+- Seeing What Others Don't: The Remarkable Ways We Gain Insights (Gary Klein, 2013)
+- Awe: The New Science of Everyday Wonder and How It Can Transform Your Life (Dacher Keltner, 2016)
+- Infectious Generosity: The Ultimate Idea
