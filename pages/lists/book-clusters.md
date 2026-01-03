@@ -195,4 +195,6 @@ Here are books I'd like to cluster:
 
 - The Silk Roads (Peter Frankopan, 2015)
 - The Beginning of Infinity: Explanations That Transform the World (David Deutsch, 2011)
-- JBS Haldane
+- JBS Haldane: "Spaceship Earth". "Scum on Earth".
+- Umberto Eco. The Name of the Rose.
+- Primo Levi - The Periodic Table.
