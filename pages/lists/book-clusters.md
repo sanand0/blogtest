@@ -201,4 +201,8 @@ Here are books I'd like to cluster:
 - The Periodic Table (Primo Levi, 1975)
 - Seeing What Others Don't: The Remarkable Ways We Gain Insights (Gary Klein, 2013)
 - Awe: The New Science of Everyday Wonder and How It Can Transform Your Life (Dacher Keltner, 2016)
-- Infectious Generosity: The Ultimate Idea
+- Quiet: The Power of Introverts in a World That Can't Stop Talking (Susan Cain, 2012)
+- Guns, Germs, and Steel: The Fates of Human Societies (Jared Diamond, 1997)
+- The Power of Now (Eckhart Tolle, 1997)
+- Maybe You Should Talk to Someone (Lori Gottlieb, 2019)
+- Think and Grow Rich (Napoleon Hill, 1937)
