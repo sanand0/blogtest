@@ -2,25 +2,41 @@
 
 Content and build pipeline for https://s-anand.net/
 
-## Repo structure
+## Source files
+
+Content:
 
 - `pages/`: Standalone pages as Markdown (`pages/slug.md`).
   - [Home page](pages/s-anand.md)
+  - Pages can be nested: `pages/lists/slug.md`
 - `posts/`: Blog posts as Markdown (`posts/yyyy/slug.md`).
 - `assets/`: Converted media files used by posts (WebP/OPUS). Served at `/blog/assets/`.
+
+Configuration & Code:
+
+- `metadata.yml` for taxonomies (categories, tags), and author info
+- `hugo.toml`: Hugo site configuration
+- `setup.sh`: Build script to generate content and build site
+- `.github/workflows/deploy.yml`: Deployment workflow for GitHub Pages.
 - `layouts/`: Hugo layout overrides for theme customizations.
 - `static/`: Static files (CSS overrides, favicon assets).
 - `themes/PaperMod/`: Hugo theme sources (vendored).
 - `scripts/`: Conversion and utility scripts.
-- `.github/workflows/deploy.yml`: Deployment workflow for GitHub Pages.
 
-Generated files:
+Auto-generated (DO NOT edit!):
 
-- `content/`: Generated Hugo content (posts/pages + taxonomy and archive index pages).
+- `content/`: Contains Hugo content (posts/pages + taxonomy and archive index pages).
 - `public/`: Build output (deployed to GitHub Pages).
 
-Run this script to build the site:
+**After editing source files**, rebuild with:
 
 ```bash
 bash setup.sh
 ```
+
+This runs:
+
+1. `scripts/build_content.py` - generates `content/` from `posts/`, `pages/`, and `metadata.yml`
+2. `hugo` - builds static site to `public/blog/`
+3. Post-processing scripts for comments and feed normalization
+4. Copies special pages to `public/` root

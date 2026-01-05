@@ -45,6 +45,7 @@ cleanDestinationDir = true
     target = "static/assets"
 
 [params]
+  logoURL = "/"
   description = "Technology, education and fun"
   defaultTheme = "light"
   disableThemeToggle = false

@@ -4,7 +4,8 @@
             {{- $label_text := (site.Params.label.text | default site.Title) }}
             {{- $base_path := (urls.Parse site.BaseURL).Path | strings.TrimSuffix "/" -}}
             {{- if site.Title }}
-            <a href="{{ partial "rel_link.html" (dict "from" . "to" site.Home.RelPermalink) }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
+            {{- $home_url := site.Params.logoURL | default site.Home.RelPermalink -}}
+            <a href="{{ partial "rel_link.html" (dict "from" . "to" $home_url) }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
                 {{- if site.Params.label.icon }}
                 {{- $img := resources.Get site.Params.label.icon }}
                 {{- if $img }}
@@ -59,7 +60,7 @@
                     </svg>
                 </button>
                 {{- end }}
-                
+
                 {{- if (not site.Params.disableLangToggle) }}
                     {{- $lang := .Lang}}
                     {{- $separator := or $label_text (not site.Params.disableThemeToggle)}}
