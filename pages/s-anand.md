@@ -28,6 +28,11 @@ TO ASK ME **ADVICE**, please write down your exact question. Then call me.
 
 TO **WORK WITH ME** on open-source projects, [send a pull request](https://github.com/sanand0/).
 
+**GET UPDATES**
+
+[**RSS** Feed](/blog/index.xml). Visit "Categories" at the bottom for category-specific feeds. \
+[**Email** Newsletter](https://groups.google.com/g/s-anand) via Google Groups.
+
 **RECENT POSTS**
 
 {{< recent-posts count="10" >}}

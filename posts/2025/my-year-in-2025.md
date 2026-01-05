@@ -9,13 +9,13 @@ categories:
 
 Here's the report card for my [2025 goals bingo](/blog/my-year-in-2024/).
 
-| Domain     | Repeat              | Stretch                                             | New                                          |
-| ---------- | ------------------- | --------------------------------------------------- | -------------------------------------------- |
-| People     | 🟢 Better husband   | 🔴 Meet all first cousins<br>🟢Interview 10 experts | 🔴 Live with a stranger                      |
-| Education  | 🟢 50 books         | 🟢 Teach 5,000 students                             | 🟢 Run a course only with AI                 |
-| Technology | 🟢 20 data stories  | 🔴 LLM Foundry: 5K MaU<br>🟢300 days of GitHub      | 🔴 Build a robot<br>🟢 Co-present with an AI |
-| Health     | 🟢 300 days of yoga | 🔴 80 heart points/day<br>🔴Bike 1,000 km           | 🟢 Vipassana                                 |
-| Wealth     | 🔴 Buy low          | 🔴 Beat inflation 5%                                | 🟢 Donate $10K<br>🔴 Fund a startup          |
+| Domain     | Repeat              | Stretch                                              | New                                          |
+| ---------- | ------------------- | ---------------------------------------------------- | -------------------------------------------- |
+| People     | 🟢 Better husband   | 🔴 Meet all first cousins<br>🟢 Interview 10 experts | 🔴 Live with a stranger                      |
+| Education  | 🟢 50 books         | 🟢 Teach 5,000 students                              | 🟢 Run a course only with AI                 |
+| Technology | 🟢 20 data stories  | 🔴 LLM Foundry: 5K MaU<br>🟢 300 days of GitHub      | 🔴 Build a robot<br>🟢 Co-present with an AI |
+| Health     | 🟢 300 days of yoga | 🔴 80 heart points/day<br>🔴 Bike 1,000 km           | 🟢 Vipassana                                 |
+| Wealth     | 🔴 Buy low          | 🔴 Beat inflation 5%                                 | 🟢 Donate $10K<br>🔴 Fund a startup          |
 
 The "Education" and "Technology" rows have a **BINGO**! Repeat goals were easier than new goals were easier than strech goals (no surprise). 11/20 wins means I'm picking realistic _and_ ambitious goals.
 
