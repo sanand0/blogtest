@@ -18,9 +18,8 @@ uv run scripts/postprocess_feed_paths.py public/blog
 # Copy special pages
 cp public/blog/s-anand/index.html public/
 cp -R public/blog/calvin/ public/
-cp -R p/ public/
 
-# Ideas for other pages:
+# Ideas for other pages that we could copy to public/ directly:
 #   /p/ is a Medium/WordPress convention
 #   /i/ for images, assets
 #   /s/ for static / special pages

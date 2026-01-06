@@ -107,4 +107,4 @@ But these are the more obvious ones. I had [Claude list what AI agents can be "h
   - What's the minimum viable test before I commit to [major change]?
   - I've tried [interventions]. Synthesize: what actually works for me?
 
-[AI Advisory Cabinet](https://files.s-anand.net/images/2026-01-06-ai-advisory-cabinet.webp)
+![AI Advisory Cabinet](https://files.s-anand.net/images/2026-01-06-ai-advisory-cabinet.webp)

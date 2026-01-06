@@ -20,7 +20,7 @@ So far, I've applied this at different levels - and I'm sure there are more poss
 3. **A sentence**. I can take a single proverb like [忙しいほど幸せ](/blog/the-busier-you-are-the-happier-you-are/) or a [Kural](https://en.wikipedia.org/wiki/Kural) like [அடக்கம் அமரருள் உய்க்கும்](/blog/humility-elevates-divinity/) and turn it into an essay that makes me cry.
 4. **Multiple books**. I can [compare and fact-check](https://claude.ai/public/artifacts/8e5076f4-84c9-497a-ad38-d5654ae3f3b4) multiple books on the same topic, e.g. [Make It Stick](https://www.goodreads.com/book/show/18770267-make-it-stick), [A Mind for Numbers](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers), [Ultralearning](https://www.goodreads.com/book/show/44770129-ultralearning), and [How to Take Smart Notes](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes).
 
-But I suspect this is just the beginning. AI opens up [many more reading styles](/blog/prompts/reading-styles.md). For example:
+But I suspect this is just the beginning. AI opens up [many more reading styles](/blog/prompts/reading-styles/). For example:
 
 - **Reviews over time**. Could we read [Lolita](https://www.goodreads.com/book/show/9216051-lolita) along with the 1950s interpretation, the 1970s feminist critique, the postcolonial turn, the contemporary reassessment? Understanding how meaning evolves over time?
 - **Character story**. Reading just the sub-novel of a single character, e.g. [Hoid](https://coppermind.net/wiki/Hoid) across the [Cosmere](https://coppermind.net/wiki/Cosmere)?
