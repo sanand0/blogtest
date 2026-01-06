@@ -5,6 +5,8 @@ lastmod: "2024-01-04T11:15:56Z"
 categories:
   - how-i-do-things
   - top-10-lists
+tags:
+  - book
 wp_id: 3493
 ---
 

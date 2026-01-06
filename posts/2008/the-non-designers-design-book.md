@@ -3,6 +3,8 @@ title: The Non-Designers Design Book
 date: "2008-08-15T12:00:00Z"
 categories:
   - visualisation
+tags:
+  - book
 wp_id: 43
 ---
 

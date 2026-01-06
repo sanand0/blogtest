@@ -1,0 +1,424 @@
+---
+title: Reading Styles
+date: 2026-01-06T12:19:46+08:00
+---
+
+## Analogies from Photography
+
+- Lens & Focal Length
+  - **Wide-angle**: Summarization, capturing entire book in compressed form
+  - **Telephoto/Zoom**: Deep-diving into a single paragraph or phrase
+  - **Macro**: Examining word choice, etymology, the texture of individual sentences
+  - **Fisheye**: Reading through an intentionally distorted or exaggerated lens (conspiracy theorist reading, devil's advocate)
+  - **Tilt-shift**: Selective focus on a minor character or subplot while blurring the "main" story into background
+  - **Prime lens (fixed)**: Committing to one interpretive framework throughout (Marxist reading, feminist reading, psychoanalytic)
+  - **Anamorphic**: Stretching the text across a different genre or medium—novel as screenplay, as podcast script
+- Exposure & Light
+  - **Long exposure**: Tracing how an idea or theme flows through the entire text, blurring individual scenes into thematic streams
+  - **Short/fast exposure**: Capturing the essence of a chapter in a single crisp sentence
+  - **HDR (High Dynamic Range)**: Combining multiple interpretations—cynical, generous, neutral—into one reading that captures the full range of meaning
+  - **Bracketing**: Generating three versions: oversimplified, balanced, and hyperdetailed
+  - **Overexposure**: Deliberately naive reading, taking everything at face value
+  - **Underexposure**: Leaving mystery intact, refusing to explain, preserving ambiguity
+  - **Low-light/Night vision**: Reading subtext, what's implied but never stated
+  - **Backlighting/Silhouette**: Defining a character purely by contrast—what they're *not*
+- Focus Techniques
+  - **Shallow depth of field**: Sharp focus on one character's arc while the rest becomes soft context
+  - **Deep focus**: Everything equally analyzed—plot, theme, historical context, craft—simultaneously
+  - ⭐ **Rack focus**: Dynamically shifting attention: first you see the plot, then *snap*, the political allegory sharpens into view.
+    A dynamic mode where you're reading a scene and can *snap* focus between layers—foreground (what's literally happening), midground (character psychology), background (historical allegory)—without losing your place. Like a documentary that keeps pulling focus between interview subject and archival footage, but for text. This makes layered meaning navigable rather than requiring you to hold it all in mind.
+  - **Soft focus**: Gentle, forgiving reading that smooths over flaws
+  - ⭐ **Focus stacking**: Multiple AI passes at different depths, then merged into one maximally clear interpretation
+    Multiple AI passes at different "depths"—plot summary, thematic analysis, stylistic commentary, historical context, critical reception—algorithmically merged into one maximally clear understanding. Currently you get these separately; focus stacking would produce a synthetic reading that's sharp at every depth simultaneously, the way focus-stacked photos show both foreground flower and distant mountain crisply.
+  - **Bokeh**: Beautiful, aesthetic blur of context while one element glows in sharp focus
+  - **Autofocus**: AI autonomously finding what's most important to focus on
+  - **Manual focus**: Reader directing AI exactly where to look
+- Camera Movement
+  - **Panning**: Following one thread (a motif, a relationship) across the entire book
+  - **Tracking shot**: Moving alongside a character's journey in continuous narration
+  - **Dolly zoom (Vertigo effect)**: Simultaneously zooming into detail while pulling back for context—understanding at two scales at once, disorienting and revelatory
+  - **Timelapse**: Condensing a 600-page epic into a 3-minute narrative arc
+  - **Slow motion**: Expanding a single pivotal moment across pages of analysis
+  - **Steadicam**: Smooth, continuous reading that maintains consistent perspective despite complex material
+  - **Handheld/shaky**: Raw, immediate, emotional engagement without polish
+- Color & Tone
+  - **Black and white**: Stripping away style to reveal pure argument structure
+  - **Color grading**: Emotional reinterpretation—making a tragedy feel more melancholic, a comedy more vibrant
+  - **Instagram filters**: Style transfer—rewriting in Wodehouse's voice, or Hemingway's, or a comedian's
+  - **Saturation boost**: Amplifying emotional intensity, making stakes feel higher
+  - **Desaturation**: Academic, neutral, emotionally flattened rendering
+  - **Color correction**: Removing authorial bias, presenting "just the facts"
+  - **Sepia/vintage**: Adding historical patina, reading as if it were from its original era
+  - **Cross-processing**: Deliberately "wrong" processing—reading a romance as horror, a tragedy as farce
+- Composition
+  - **Cropping**: Extracting only relevant sections for a specific purpose
+  - **Rule of thirds**: Structural analysis—where are the pivot points?
+  - **Leading lines**: Following argumentative threads to their conclusions
+  - **Framing**: Contextualizing within a specific frame—"read this as postcolonial critique"
+  - **Negative space**: Analyzing what's *not* said, the silences, the omissions
+  - **Symmetry**: Finding mirror structures, parallels, patterns
+  - **Golden ratio**: Identifying the mathematically "perfect" structural proportions
+  - **Dutch angle**: Deliberately unsettling, off-kilter interpretation
+- Post-Processing
+  - **Retouching**: Editing for clarity—simplifying convoluted sentences
+  - **Compositing**: Merging multiple books/sources into one synthetic view
+  - ⭐ **Double exposure**: Overlaying two texts to see ghostly resonances—*1984* superimposed on current news.
+    Overlaying two texts to reveal ghostly resonances neither possesses alone. Feed in *Frankenstein* and *Do Androids Dream of Electric Sheep?* simultaneously and see where they speak to each other—not as academic comparison but as visual superimposition where consonances literally glow. This could become a native way of experiencing literary influence, making visible what scholars spend careers articulating.
+  - **Masking**: Selectively applying treatments—modernize dialogue but preserve description
+  - **Sharpening**: Making fuzzy arguments crisper
+  - **Noise reduction**: Removing tangential digressions
+  - **Clone stamp**: Filling gaps—"write the chapter the author should have included"
+  - **Liquify/warp**: Morphing the text to fit a different structure
+  - **Layers**: Maintaining separate interpretations that can be toggled on/off
+- Panorama & Stitching
+  - **Panorama**: Seamlessly connecting all books in a series into one continuous view
+  - **Photo sphere/360°**: Complete contextual immersion—author biography, historical period, reception history, influence
+  - **Vertical panorama**: Tracing an idea from ancient roots to modern manifestations
+  - **Stitching**: Combining fragmented readings from multiple sessions into coherent whole
+  - **Gigapixel**: Impossibly detailed—every sentence annotated, every reference traced
+- Specialized & Scientific Photography
+  - **Infrared**: Revealing hidden structures—detecting ghostwriters, AI assistance, unconscious influences
+  - ⭐ **Thermal imaging**: Heat-mapping emotional or argumentative intensity across the text.
+    Heat-mapping a book to show where emotional intensity peaks, where arguments get heated, where the author is most invested versus going through motions. Imagine scanning a memoir and immediately seeing the chapters that burn hot, or mapping a philosophical text to find where the author's certainty wavers. This turns reading into topographical exploration.
+  - **X-ray**: Seeing through to the skeleton—pure plot structure without flesh
+  - **UV fluorescence**: Revealing what fluoresces under scrutiny—detecting purple prose, propaganda
+  - **Microscopy**: Sentence-level craft analysis at extreme magnification
+  - **Satellite imagery**: Genre-level or era-level patterns—zoomed out so far individual books are pixels
+  - **LIDAR/depth mapping**: Mapping the "topology" of a text—where it's dense, where it's flat
+  - **Schlieren photography**: Visualizing invisible disturbances—where does the author's certainty waver?
+  - **High-speed capture**: Catching fleeting moments readers usually miss
+  - **Forensic photography**: Evidence-based reading—"let's determine exactly what happened"
+- Temporal & Archival
+  - **Restoration**: Modernizing archaic language while preserving meaning
+  - **Colorization**: Adding modern context to historical works
+  - **Aging/distressing**: Adding historical distance—"how would this have read in 1850?"
+  - **Before/after**: Showing original vs. interpreted versions side by side
+  - ⭐ **Time-lapse of decay**: Tracing how interpretations of a text have changed over decades
+    Watching how a text has been read across decades, compressed into navigable sequence. For *Lolita* or *Heart of Darkness*, see the 1950s reading, the 1970s feminist critique, the postcolonial turn, the contemporary reassessment—not as static summaries but as an animated evolution. This makes interpretive history experiential rather than scholarly, showing that meaning is something that develops over time rather than inhering in the text.
+  - **Photo dating**: Determining when something was written based on stylistic markers
+- Social & Contextual
+  - **Portrait**: Character study—deep dive into one person
+  - **Group photo**: Ensemble analysis—how characters relate as a system
+  - **Landscape**: World-building analysis—the setting as subject
+  - **Documentary**: Factual extraction—just the events, verifiable claims
+  - **Street photography**: Catching candid, unguarded moments—where the author's mask slips
+  - **Photojournalism**: Extracting the newsworthy—"what does this book tell us about now?"
+  - **Fashion photography**: Surface aesthetics—just the style, the vibe
+  - **Abstract**: Pure conceptual interpretation, divorced from literal content
+  - **Selfie**: Reading for self-reflection—"what does my reaction reveal about me?"
+- Metadata & Technical
+  - **EXIF data**: Background information—when written, what tools used, revision history
+  - **RAW vs. JPEG**: Original text vs. processed/interpreted version
+  - **Resolution**: Level of analytical detail
+  - **Compression**: Lossy summarization vs. lossless abridgment
+  - **Watermarking**: Marking AI-assisted interpretations as such
+  - **Batch processing**: Applying the same analysis to dozens of books automatically
+- Collaborative & Social
+  - **Photo album**: Curating a personal collection of highlights
+  - **Contact sheet**: Quick previews of all chapters before selecting
+  - **Photo wall/collage**: Thematic arrangement of quotes and moments
+  - **Collaborative editing**: Multiple AIs or human+AI jointly interpreting
+  - **Crowdsourced mosaic**: Many readers' interpretations forming one larger picture
+
+## Analogies to Photography
+
+
+- Verification & Fact-Checking: This entire category is fascinating because it treats text as testimony to be cross-examined rather than artifact to be observed. Photography can't verify its subject's claims.
+  - **Fact-checking claims** 🟡 Forensic photography: But forensic photography documents evidence; it doesn't verify truth against external reality
+  - **Source verification** 🔴: Photography has no equivalent of "checking if a quote is real"
+  - **Internal consistency checking** 🔴: Does Chapter 3 contradict Chapter 17? No photographic parallel
+  - **Anachronism detection** 🟡 Photo dating: But dating identifies *when*; anachronism detection catches errors
+  - **Quote/attribution verification** 🔴: "Did Einstein really say this?"
+  - **Statistical claim validation** 🔴: "Is that 40% figure accurate?"
+  - **Logic checking** 🔴: "Does this argument actually follow?"
+  - **Detecting circular reasoning** 🔴
+  - **Checking if "studies show" is real** 🔴
+- Continuation & Extension: This category has no photography parallel because photography is fundamentally **indexical**—it records what exists. Text generation is **generative**—it creates what doesn't exist. This is a profound ontological difference.
+  - **Rewriting the ending** 🔴 Photography captures; it doesn't rewrite reality
+  - **Continuing past the end** 🟡 Extrapolating timelapse? But that's prediction of physics, not narrative
+  - **Writing prequels** 🔴
+  - **Writing sequels** 🔴
+  - **"What if" alternate paths** 🔴: What if Gatsby survived?
+  - **Deleted scenes** 🟡 Outtakes exist: But photos don't *generate* new outtakes
+  - **The chapter the author should have written** 🔴:
+  - **Filling gaps between books in a series** 🔴:
+  - **Writing from a minor character's POV** 🔴: The servants' version of *Pride and Prejudice*
+  - **Expanding a single sentence into a scene** 🟡 Zooming in: But zoom reveals what's there; this *generates* what isn't
+- ⭐ Character Interaction: This entire category is **simulation**—treating characters as agents that can be instantiated and run. No photographic equivalent exists because photographs cannot be interrogated as interlocutors.
+  - **Chatting with characters** 🔴 "Ask Elizabeth Bennet about her marriage"
+  - **Character interviews** 🔴 Structured Q&A with Hamlet
+  - **Character therapy sessions** 🔴 "Let's unpack your relationship with your mother, Hamlet"
+  - **Character advice column** 🔴 "What would Atticus Finch tell me about this situation?"
+  - **Character debates** 🔴 Raskolnikov vs. Javert on justice
+  - **Character in modern situation** 🔴 "How would Sherlock Holmes investigate this tweet?"
+  - **Character personality typing** 🟡 Portrait analysis: But this generates psychological profiles, not observes them
+  - **Character relationship mapping** 🟡 Group photo composition: Weak parallel
+  - **Generating character backstory** 🔴 What was Boo Radley's childhood like?
+  - **Projecting character futures** 🔴
+- Translation & Transformation
+  - **Language translation** 🟢 Color space conversion: Converting RGB to CMYK preserves image while changing encoding
+  - **Time-period modernization** 🟢 Restoration/colorization: Making old accessible to contemporary eyes
+  - **Time-period archaization** 🟢 Aging/vintage filters: Adding historical patina
+  - **Cultural adaptation** 🟡 Localization exists: But adapting a Japanese novel for Indian readers goes deeper
+  - **Medium adaptation (novel → screenplay)** 🟡 Photo → print conversion?: Weak; this is more like sculpture → painting
+  - **Audience adaptation (adult → YA)** 🔴 Photography doesn't have "audience versions"
+  - **Register shifting (formal ↔ casual)** 🟡 Color grading?: Loose parallel
+  - **Simplification for accessibility** 🟡 Compression: But lossy compression isn't intentional simplification
+  - **Elaboration for depth** 🔴 Making a terse text more explanatory
+  - **Dialect/voice transformation** 🟢 Filters/style transfer
+  - **Verse ↔ prose conversion** 🔴
+- Annotation & Reference
+  - **Auto-generating footnotes** 🟡 EXIF/metadata: But footnotes explain; metadata just records
+  - **Glossary creation** 🔴
+  - **Timeline extraction** 🟡 Timelapse ordering: But this extracts narrative time, not capture time
+  - **Map generation** 🟡 Aerial photography: But this generates from description, not captures from above
+  - **Family tree extraction** 🔴
+  - **Index creation** 🟡 Tagging/keywording: Similar function
+  - **Internal cross-referencing** 🔴: "This echoes page 47"
+  - **External cross-referencing** 🔴: "This alludes to Milton"
+  - **Allusion detection & explanation** 🔴
+  - **Historical context injection** 🔴 "In 1847, when this was written..."
+  - **Dramatis personae generation** 🟡 Contact sheet: Loose parallel—thumbnail of each character
+  - **Vocabulary difficulty mapping** 🔴
+- Questioning & Dialogue: This entire category is **dialogic**—reading becomes conversation. Photography is monologic; you can study a photo but it won't answer back.
+  - **Ask anything about the book** 🔴 "Why did she leave?"
+  - **Generate discussion questions** 🔴 For book clubs
+  - **Socratic dialogue about themes** 🔴 Being questioned into deeper understanding
+  - **Devil's advocate challenges** 🔴 "But couldn't you argue that Snape was actually...?"
+  - **Comprehension quizzing** 🔴
+  - **"Explain like I'm 5/15/expert"** 🟡 Resolution adjustment: Very loose
+  - **Debate simulation** 🔴 Two AI voices arguing opposing interpretations
+  - **Guided inquiry** 🔴 AI leading you to discover themes yourself
+  - **What questions should I be asking?** 🔴 Meta-questioning
+  - **Why is this considered great?** 🔴
+- Personalization & Adaptation: Personalization is **reader-centric** rather than text-centric. Photography adapts to viewing conditions (screen calibration) but not to viewer psychology.
+  - **Reading level adjustment** 🟡 Resolution scaling: Weak parallel
+  - **Pace adjustment** 🟡 Frame rate? Very weak
+  - **Content warnings** 🔴 "Chapter 7 contains violence"
+  - **Trigger filtering/softening** 🔴 Reducing graphic content
+  - **Interest-based highlighting** 🟡 Selective focus: "Highlight the economics parts"
+  - ⭐ **Relevance to reader's situation** 🔴 "I'm going through a divorce—what speaks to me here?"
+  - **Learning-style adaptation** 🔴 More examples for concrete thinkers, more abstraction for theoretical
+  - **Reader's existing knowledge calibration** 🔴 "Skip what I already know"
+  - **Mood-based curation** 🔴 "I'm sad—which parts will help?"
+  - **Time-budget adaptation** 🟡 Cropping? "I have 20 minutes—what can I get?"
+  - **Goal-based filtering** 🔴 "I only care about the leadership lessons"
+- Creative Transformation
+  - **Parody** 🟡 Photoshop parody: But textual parody is generative, not manipulative
+  - **Pastiche** 🟡 Style mimicry: Closer parallel
+  - **Genre shifting** 🔴 *Pride and Prejudice* as horror
+  - **Tone shifting** 🟢 Color grading
+  - **POV shifting** 🔴 First person → third person
+  - **Tense shifting** 🔴 Past → present tense
+  - **Mashup with other works** 🟢 Compositing: *Pride and Prejudice and Zombies*
+  - **Fanfiction scaffolding** 🔴 AI structures, human writes
+  - **"Fix" problematic elements** 🔴 Update dated attitudes
+  - **Sympathetic villain retelling** 🔴 Sauron's perspective
+  - **Unreliable narrator made reliable** 🔴
+  - **Reliable narrator made unreliable** 🔴
+- Structural Analysis
+  - **Plot diagramming** 🟡 Composition analysis
+  - **Three-act structure mapping** 🔴
+  - **Save the Cat beat sheet extraction** 🔴
+  - **Scene breakdown** 🟡 Contact sheet
+  - **Pacing visualization** 🟡 Histogram? Rhythm over time
+  - **Tension arc graphing** 🟡 Exposure curve: Loose
+  - **Narrative nesting visualization** 🔴 Stories within stories
+  - **Flashback/flashforward mapping** 🔴 Temporal structure
+  - **Parallel plotline visualization** 🔴
+  - **Chapter function labeling** 🔴 "This is setup; this is payoff"
+- Comparative Reading
+  - **Compare two books** 🟢 Side-by-side comparison
+  - **Compare editions/translations** 🟢 Before/after
+  - **Compare book to its adaptation** 🟡 Photo vs. painting? Different media comparison
+  - **Influence tracing** 🟢 Double exposure: What of X is visible in Y?
+  - **Plagiarism detection** 🟡 Image matching
+  - **"More like this" recommendations** 🟡 Similar image search
+  - **Where does this fit in the genre?** 🟡 Satellite view: Positioning in landscape
+  - **What was this responding to?** 🔴 Intertextual context
+  - **What responded to this?** 🔴 Legacy tracing
+  - **How does this author's work evolve?** 🟢 Timelapse
+- Critical & Meta Reading
+  - **Authorial intent analysis** 🟡 Forensic analysis: Weak
+  - **Bias detection** 🟡 Color cast detection
+  - **Propaganda identification** 🟡 Manipulation detection
+  - **Unreliable narrator detection** 🔴
+  - **Ideological positioning** 🔴
+  - **What's missing?** 🟢 Negative space analysis
+  - **Who is the implied reader?** 🔴 Who was this written for?
+  - **What assumptions does this make?** 🔴
+  - **Deconstructive reading** 🔴 Where does the text undermine itself?
+  - **Symptomatic reading** 🟡 Infrared/UV: Revealing hidden patterns
+  - **Reception history** 🟢 Timelapse: How readings have changed
+  - **Why was this controversial?** 🔴
+- Practical Extraction: This category treats books as **ore to be refined**—extracting usable material from narrative matrix.
+  - **Recipe extraction** 🔴 From novels featuring food
+  - **Actionable advice extraction** 🔴 "Just tell me what to do"
+  - **Framework extraction** 🔴 The mental model, stripped of examples
+  - **Quote extraction** 🟢 Cropping
+  - **Example extraction** 🟡 Selection
+  - **Checklist generation** 🔴
+  - **Decision tree extraction** 🔴
+  - **Key argument extraction** 🟡 Highlight detection
+  - **Counter-argument extraction** 🔴 What's the best case against this?
+  - **"What would X do?" extraction** 🔴 Distilling a philosopher's method
+- Audio/Visual Generation
+  - **Audiobook generation** 🟡 Slideshow? Different modality
+  - **Soundtrack suggestion** 🔴 Music to read this to
+  - **Illustration generation** 🟡 Photo illustration: But this generates from text
+  - **Scene visualization** 🟡 Recreation photography: Staging what's described
+  - **Character portraits** 🟡 Composite imaging
+  - **Map generation** 🔴 Visual from textual description
+  - **Infographic generation** 🔴
+  - **Book trailer creation** 🟡 Photo montage
+  - **Animated summary** 🟡 Timelapse: Very loose
+- Memory & Retention: This category is about **encoding into human memory**—photography analogy fails because photos externalize memory rather than help encode it.
+  - **Flashcard generation** 🔴
+  - **Spaced repetition scheduling** 🔴
+  - **Memory palace construction** 🔴 Spatial mnemonics
+  - **Mnemonic generation** 🔴
+  - **Quiz generation** 🔴
+  - **Key concept extraction** 🟡 Highlight detection
+  - **"What did I read last time?"** 🔴 Session continuity
+  - **Personal connection prompting** 🔴 "How does this relate to your life?"
+  - **Teaching back verification** 🔴 "Explain this back to me"
+  - **Incremental summarization** 🔴 Building summary as you go
+- Navigation & Search
+  - **"Find the part where..."** 🟡 Content-based image retrieval
+  - **Semantic search** 🟡 Visual similarity search
+  - **Mood-based navigation** 🔴 "Find the hopeful parts"
+  - **"Skip to the good parts"** 🔴 Reader-defined "good"
+  - **"What can I skip?"** 🔴
+  - **"Where does it get interesting?"** 🔴
+  - **Back-reference finding** 🔴 "Who is this character again?"
+  - **Forward-reference finding** 🔴 "Will this matter later?" (spoiler-controlled)
+  - **Thematic navigation** 🔴 "Take me to all the water imagery"
+  - **Argument navigation** 🔴 "Where's the evidence for this claim?"
+- Repair & Completion
+  - **Plot hole filling** 🟡 Content-aware fill: But photos fill visual gaps; this fills logical gaps
+  - **Explaining confusing passages** 🔴
+  - **Resolving contradictions** 🔴
+  - **Completing unfinished works** 🟡 Restoration/completion: But those work from evidence; this generates
+  - **"Fixing" bad writing** 🟡 Retouching
+  - **Continuity error correction** 🔴
+  - **Reconstructing lost works** 🟡 Photo reconstruction: From fragments and references
+  - **Translating untranslated works** 🟡 Colorization: Adding what wasn't there
+- Simulation & Counterfactual: This category is **modal**—exploring possible worlds. Photography is locked to the actual.
+  - ⭐ **What if character chose differently?** 🔴 Branching narrative
+  - **What if set in different era?** 🔴
+  - **What if different author wrote this?** 🔴 Hemingway's *Harry Potter*
+  - **What if this were true?** 🔴 Taking fiction as premise for reasoning
+  - **What if protagonist met character from another book?** 🔴
+  - **Run the story forward** 🔴 Simulate consequences of ending
+  - **Run the story backward** 🔴 What would have had to happen for this to occur?
+  - ⭐ **Stress-test the world-building** 🔴 "What happens if everyone uses this magic?"
+  - **Economic/political simulation** 🔴 Would this fictional society actually work?
+- Social & Collaborative
+  - **Book club facilitation** 🔴 Mediating group discussion
+  - **Argument mediation** 🔴 When readers disagree about interpretation
+  - **Reading together with AI commentary** 🔴 Real-time annotation while reading
+  - **Teaching assistant mode** 🔴 Guiding a class through text
+  - **Parent-child reading support** 🔴 Age-appropriate explanation
+  - **Collaborative annotation** 🟡 Shared albums
+  - **Interpretation voting/consensus** 🔴
+  - **Connecting readers with similar interpretations** 🔴
+- Meta-Reading
+  - **Should I read this?** 🔴 Personalized recommendation with reasoning
+  - **What will I get from this?** 🔴 Outcome preview
+  - **Is this worth finishing?** 🔴
+  - **What's the fastest path to understanding?** 🔴 Optimal reading order
+  - **How should I read this?** 🔴 Reading strategy recommendation
+  - **What should I read next?** 🟡 Similar image search
+  - **What should I have read first?** 🔴 Prerequisite identification
+  - **What am I missing without context X?** 🔴
+  - **Map my reading history** 🟡 Photo library organization
+  - **Reading goal tracking** 🔴
+- ⭐ Epistemological & Truth-Oriented
+  - **What can I actually conclude from this?** 🔴 Epistemic audit
+  - **What's opinion vs. fact here?** 🔴
+  - **What's the confidence level?** 🔴
+  - **What evidence would change this?** 🔴 Falsifiability check
+  - **What's the steel-man version?** 🔴 Best possible interpretation
+  - **What's the weakest link in this argument?** 🔴
+  - **How would a skeptic respond?** 🔴
+  - **What's being left out?** 🟢 Negative space
+  - **Who benefits from this framing?** 🔴
+
+## Slices
+
+- Smaller Than a Sentence: These micro-slices are useful because great writers compress enormous meaning into tiny spaces. AI can decompress them.
+  - **A single word**: Etymology, connotation drift, what this word meant when written vs. now. Why did Austen use "condescension" as a compliment? Why does the Quran use *that* Arabic word?
+  - **A phrase or idiom**: "The banality of evil"—three words that contain an entire philosophical argument. Unpack it across pages.
+  - **A name**: Why is the character called "Raskolnikov"? What does "Galadriel" encode? Names as compressed meaning.
+  - **A punctuation choice**: Why did Dickinson use that dash? Why is this a semicolon and not a period? The music of syntax.
+  - **A silence/gap**: The word that *should* be there but isn't. What's being avoided?
+- Between Sentence and Chapter
+  - **A paragraph**: The unit of a complete thought. Often the right size for "explain this to me"—more context than a sentence, less sprawl than a chapter.
+  - **A scene**: In fiction, the atomic unit of drama. One location, continuous time, complete emotional arc. Perfect for "rewrite this as comedy" or "what's really happening here psychologically?"
+  - **A single argument**: In non-fiction, the logical unit. "Just give me the argument on pages 47-52, fact-checked."
+  - **A dialogue exchange**: 10-20 lines of conversation. Perfect for "what's the subtext?" or "translate this to modern speech."
+  - **A set-piece**: The battle, the dinner party, the trial. Self-contained spectacle that can be analyzed as a unit.
+  - **A transition**: How does the author move from A to B? The craft of linkage, often invisible.
+- Between Chapter and Book
+  - **An arc**: Multiple chapters forming one movement—Pip's expectations rising, then falling. The unit of transformation.
+  - **A part/section**: Many books have explicit divisions. "Part II" often marks a tonal or temporal shift worth analyzing separately.
+  - **A subplot**: Follow *only* the Gloucester plot in *King Lear*. What story does that tell on its own?
+  - ⭐ **A character's journey**: Extract everything about one character across the whole book. Their private novel-within-the-novel.
+  - **A relationship**: Just the Elizabeth-Darcy interactions, chronologically. The romance stripped of everything else.
+  - **A motif**: Every mention of eyes in *The Great Gatsby*. Every meal in *In Search of Lost Time*. Pattern as slice.
+- Larger Than Multiple Books: These macro-slices are useful because they reveal patterns invisible at the single-book level. You're using AI as a literary historian.
+  - **An author's complete works**: "How does Murakami's treatment of loneliness evolve from *Norwegian Wood* to *Kafka on the Shore* to *1Q84*?" The author as subject, not the book.
+  - **A series**: Not just comparing books but treating the series as one mega-text. The *Discworld* as unified world, not 41 separate novels.
+  - **A genre**: "What are the actual rules of noir?" derived from 50 noir novels. Genre as emergent structure.
+  - **A period/movement**: "What did the Romantics actually believe?" across Wordsworth, Coleridge, Shelley, Keats. Movement as distributed argument.
+  - **A conversation across time**: *The Republic* → *Leviathan* → *Social Contract* → *Theory of Justice*. The 2,400-year conversation about political philosophy, traced.
+  - **A theme across literature**: "How has the figure of the monster evolved from Grendel to Frankenstein to Hannibal Lecter?" Theme as thread through centuries.
+  - **Parallel works**: Books written in the same year, knowing nothing of each other. 1922: *Ulysses*, *The Waste Land*, *Siddhartha*. What was in the air?
+- ⭐ Non-Linear Slices (The Most Interesting Category): Non-linear slices are powerful because they cut across the author's intended structure to reveal patterns the author may not have consciously intended.
+  - **All first sentences**: Of chapters, of paragraphs, of the book itself. How does this author begin things? What's the grammar of initiation?
+  - **All last sentences**: How does this author end? Land or launch? Resolve or open?
+  - **All dialogue by one character**: Strip away everything except what Hermione says. What emerges? Her vocabulary, her patterns, her evolution.
+  - **All descriptions of X**: Food. Weather. Architecture. Bodies. A vertical slice through the text revealing obsessions.
+  - **All metaphors**: What is compared to what? The author's implicit theory of correspondence.
+  - **All moments of emotion Y**: Every instance of fear, or joy, or shame. The emotional geography of the book.
+  - **Every instance of a word**: "Light" in *Paradise Lost*. "Money" in *Great Expectations*. Word as tracer dye.
+  - **The negative space**: What's never mentioned? What's conspicuously absent? The dog that didn't bark.
+  - **All foreshadowing**: Retrospectively: what was I being told that I didn't notice?
+  - **All unreliable moments**: Where should I not trust the narrator?
+- Temporal/Version Slices: Temporal slices treat the book as a process rather than an object. The text has a biography.
+  - **Draft vs. final**: When manuscripts are available: what did Fitzgerald cut from *Gatsby*? What did revision reveal about intent?
+  - **Multiple editions**: The 1818 vs. 1831 *Frankenstein*. What did Shelley change and why?
+  - **Original vs. translation(s)**: Comparing three translations of *The Odyssey* reveals what's interpretation vs. what's Homer.
+  - **Abridged vs. full**: What was deemed expendable? What do the cuts reveal about what's "essential"?
+  - **Annotated vs. bare**: Reading with scholarly apparatus vs. without. How does knowledge change experience?
+  - **Censored vs. uncensored**: *Lady Chatterley's Lover* as published vs. as written. What was unspeakable?
+- Relational Slices: Relational slices treat the book as a node in a network rather than an isolated object.
+  - **Book + its reviews**: Contemporary reception. What did 1851 readers think of *Moby-Dick*? Why did it fail?
+  - **Book + its criticism**: Scholarly apparatus. What have professionals found that I might miss?
+  - **Book + its influences**: Reading *Ulysses* alongside the *Odyssey* it's rewriting.
+  - **Book + what it influenced**: Reading *Neuromancer* alongside all the cyberpunk it spawned.
+  - **Book + author's biography**: What was Orwell's Burma experience, and how does it illuminate *Burmese Days*?
+  - **Book + historical context**: What was happening in 1932 when Huxley wrote *Brave New World*?
+  - **Book + its adaptation**: Novel alongside film. What was gained and lost?
+  - **Book + its controversy**: *Lolita* alongside the moral panic. *Satanic Verses* alongside the fatwa.
+- Reader-Centric Slices: Reader-centric slices treat the book as half of a relationship. The text is inert; the reading is alive.
+  - **What you highlighted**: Your past self's attention. Why did you mark that?
+  - **What you remember**: Without re-reading: what stuck? What does memory's curation reveal?
+  - ⭐ **What confused you**: Your points of friction. Often where the real learning is.
+  - **What you skipped**: What you chose to avoid. Why?
+  - **What changed you**: The passages that altered how you think or act.
+  - **Your marginalia**: Your past conversations with the text.
+  - **Your multiple readings**: How did this book feel at 20 vs. 40? The book as mirror of your evolution.
+- Structural Slices
+  - **The skeleton**: Pure plot, no flesh. "Just tell me what happens."
+  - **The flesh without skeleton**: Pure style, texture, voice. "Read me the beautiful parts."
+  - **The argument without evidence**: Claims only. "What is this book asserting?"
+  - ⭐ **The conversation position**: Claims only. "What is this arguing against?" Often more revealing than what it argues for.
+  - **The evidence without argument**: Data only. "What facts am I given?"
+  - ⭐ **The questions**: What is this book asking, even if it doesn't answer?
+  - **The answers**: What conclusions does it reach?
+  - ⭐ **The assumptions**: What must be true for this book to make sense?
+
+---
+
+Source: https://claude.ai/share/76d13e1f-86a2-43b8-9001-ed7f6a3b5ecb

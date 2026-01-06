@@ -4,6 +4,8 @@ date: "2006-04-21T12:00:00Z"
 lastmod: "2025-01-25T03:05:50Z"
 categories:
   - quizzes
+tags:
+  - book
 wp_id: 351
 ---
 

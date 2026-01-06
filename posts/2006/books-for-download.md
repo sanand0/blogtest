@@ -3,6 +3,8 @@ title: Books for download
 date: "2006-05-15T12:00:00Z"
 categories:
   - links
+tags:
+  - book
 wp_id: 316
 ---
 

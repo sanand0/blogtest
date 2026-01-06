@@ -4,6 +4,8 @@ date: "2025-12-27T02:54:41Z"
 lastmod: "2025-12-31T13:35:44Z"
 categories:
   - how-i-do-things
+tags:
+  - book
 wp_id: 4262
 ---
 

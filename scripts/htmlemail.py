@@ -170,7 +170,7 @@ def markdown_to_email_html(markdown_file: Path) -> tuple[str, str]:
                 font-size: 90%;
                 background-color: #f5f5f5;
                 border-radius: 3px;
-                font-family: 'Courier New', Courier, monospace;
+                font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
             }}
             pre {{
                 padding: 1em;

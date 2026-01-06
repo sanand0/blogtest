@@ -64,6 +64,17 @@ For advice on self-help, psychology, or anything timeless.
 Research best practices from modern research and ancient wisdom.
 ```
 
+## Expert Lens
+
+- What would an expert in this field check that beginners would miss?
+- In this context, what questions would an expert ask that a beginner would not know to?
+- What patterns would an expert in this field recognize that beginners would miss?
+- If this goes wrong, what are the most likely reasons?
+- How would an expert analyze this? At each step, explain what they are looking for and why.
+- Argue against this like a sceptic.
+- What would change your mind?
+- Ask me questions, Socratically, to discover the real need.
+
 ## Confession / Post-mortem
 
 ```markdown

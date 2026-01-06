@@ -5,6 +5,8 @@ lastmod: "2025-04-03T07:48:34Z"
 categories:
   - how-i-do-things
   - llms
+tags:
+  - book
 wp_id: 4000
 ---
 

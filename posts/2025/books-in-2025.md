@@ -4,6 +4,8 @@ date: "2025-12-31T07:21:27Z"
 categories:
   - how-i-do-things
   - top-10-lists
+tags:
+  - book
 ---
 
 ![Books in 2025](https://files.s-anand.net/images/2025-books.webp)

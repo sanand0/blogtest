@@ -2,6 +2,8 @@
 date: "2021-12-30T07:03:53Z"
 categories:
   - linkedin
+tags:
+  - book
 ---
 
 I read 52 #books in 2021.
