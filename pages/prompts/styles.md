@@ -1,7 +1,7 @@
 ---
-title: Developer Styles
-date: "2025-11-16T11:18:02Z"
-lastmod: "2025-12-30T05:24:53Z"
+title: Styles
+date: 2025-11-16T11:18:02Z
+lastmod: 2026-01-08T13:45:20+08:00
 classes: wrap-code
 ---
 
@@ -456,9 +456,16 @@ Artistic:
 #TODO Create a VISUAL catalog
 
 - Sketchnotes - Visual notes combining hand-drawn elements with text to capture ideas quickly
+- Graphic recording - Single cohesive landscape following a "path" metaphor where information follows the journey. Hand-drawn marker aesthetic, bold outlines with vibrant accent colors, connecting arrows and containers, visual synthesis, energetic flow, Neuland marker style, high contrast, flat illustration.
+- Visual metaphor - Pick ONE extended metaphor (a tree, an iceberg, a journey, a machine, ...) and map everything onto it
+- Editorial cartoons - Political/social commentary combining caricature with speech bubbles or captions
+- Data Art / Dear Data Style - Hand-drawn data visualization with personal, artistic encoding
+- Scientific Illustration Style - Botanical/anatomical precision applied to abstract concepts. Labels with leader lines, cross-sections, exploded views
 - Infographics - Data-driven visuals merging charts, icons, and text to explain complex information
 - Data visualizations - Charts and graphs pairing statistical information with visual representation
 - Comic books/graphic novels - Sequential narrative art combining illustrated panels with dialogue and captions
+- Bento-box notes - Neat grid of rounded rectangles, each "card" is one idea, with a title, takeaway, and example (visual)
+- Causal loop diagram - Concepts connected with +/– links, highlighting reinforcing and balancing feedback loops
 - Advertising design - Commercial visuals pairing persuasive imagery with marketing copy
 - Social media graphics - Digital templates merging photos, illustrations, and text for platforms like Instagram
 - Magazine layouts - Editorial spreads integrating photography, headlines, and body text
@@ -467,14 +474,12 @@ Artistic:
 - Presentation slides - Business/educational visuals combining data, images, and text
 - Memes - Internet culture images pairing photos/illustrations with captioned humor
 - Album/music covers - Artistic packaging combining band names with visual identity
-- Editorial cartoons - Political/social commentary combining caricature with speech bubbles or captions
 - Instructional diagrams - Technical or educational visuals pairing labeled illustrations with explanatory text
 - Zines - Self-published magazines mixing collage, drawings, and handwritten or typed text
 - Packaging design - Product containers integrating brand identity, imagery, and information
 - Signage/wayfinding - Environmental graphics combining symbols, directions, and text
 - Concert/gig posters - Event promotion combining decorative typography with illustrative elements
 - Storyboards - Film/animation planning combining sketched scenes with action notes
-- Graphic recording - Live event documentation capturing ideas through drawings and keywords
 - Visual essays - Journalistic narratives combining photography/illustration with extended text
 - Protest banners/signs - Activist art pairing slogans with symbolic imagery
 - Calligrams - Poetry arranged typographically to form images related to the text's meaning

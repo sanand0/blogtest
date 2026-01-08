@@ -43,9 +43,10 @@ Here are some pictures you may use.
 - **Laptop**: I use my laptop (Lenovo, Ubuntu, HDMI + USB3) to present. No audio. I need my laptop near the podium to type.
 - **Internet**: My demos need Internet. I can use mobile data but if the venue network is bad, please arrange WiFi.
 - **Security**: I don't carry ID. If security requires one, I'd appreciate an escort to take me through with my phone and laptop.
+- **Attire**: I wear round-neck T-shirts, jeans, and open sandals. Please allow this.
 - **Recording**: I encourage you to record my talk. Please share the recording with me.
 
 ## Fee / honorarium
 
-- I don't charge nor pay a fee for public talks. I only accept dry fruits or [donations to Wikipedia](https://donate.wikimedia.org/) as honorarium.
+- I don't charge nor pay a fee for public talks. I only accept dry fruits, [Wikipedia donations](https://donate.wikimedia.org/), or [GitHub donations](https://github.com/open-source/sponsors) as honorarium.
 - Contact me for corporate / private talks. I share sanitized recordings of my talks publicly.

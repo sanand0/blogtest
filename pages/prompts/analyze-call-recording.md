@@ -46,7 +46,7 @@ Write as a Markdown list of lists with no headings:
   - **[name of owner]**: action agreed on
   - ...
 - **Try out**:
-  - **[what to try]**: why it's high-impact, novel, and useful to me; first concrete step and a simple success metric in 1–4 weeks
+  - **[what to try]**: what exactly this is and why it's high-impact, novel, and useful
   - ⭐ **[top item to try]**: begin with a star for the top 3 bullets
 
 ## Transcript

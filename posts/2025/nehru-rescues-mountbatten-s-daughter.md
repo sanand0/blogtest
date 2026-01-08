@@ -1,6 +1,8 @@
 ---
 date: "2025-12-01T04:36:05Z"
 categories:
+  - llms
+  - funny
   - linkedin
 ---
 

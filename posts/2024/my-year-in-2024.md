@@ -9,7 +9,7 @@ wp_id: 3803
 
 ![My Year in 2024](/blog/assets/2024-12-30-my-year-in-2024.webp)
 
-<p>Here's the report card for my <a href="/blog/my-year-in-2023/">2024 resolutions</a>:</p>
+Here's the report card for my [2024 resolutions](/blog/my-year-in-2023/):
 
 - **Compound long-term goals, daily**. PASS. I managed to work continuously build on 6 areas in 2024:
   - **Blogging** about 50 posts on my [blog](https://s-anand.net/) and on [LinkedIn](https://www.linkedin.com/in/sanand0/)

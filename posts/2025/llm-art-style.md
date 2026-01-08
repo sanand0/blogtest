@@ -1,6 +1,7 @@
 ---
 date: "2025-09-14T00:00:00Z"
 categories:
+  - llms
   - linkedin
 ---
 
