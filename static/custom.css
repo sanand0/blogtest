@@ -145,3 +145,224 @@ footer.footer-meta {
   margin-top: 3rem;
   margin-bottom: 1rem;
 }
+
+/* Post Calendar - GitHub-style contribution calendar */
+.post-calendar {
+  margin: 2rem 0;
+}
+
+/* Wrapper with RTL direction to show most recent content first */
+.calendar-wrapper {
+  overflow-x: auto;
+  overflow-y: hidden;
+  direction: rtl;
+  margin-bottom: 10px;
+  scrollbar-color: var(--tertiary) var(--theme)
+}
+
+.calendar-graph {
+  position: relative;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 8px;
+  direction: ltr;
+  min-width: 700px;
+  width: fit-content;
+  padding: 8px;
+}
+
+.calendar-months {
+  grid-column: 2;
+  display: grid;
+  grid-template-columns: repeat(52, 11px);
+  gap: 3px;
+  height: 18px;
+  margin-bottom: 2px;
+  font-size: 10px;
+}
+
+.calendar-month {
+  display: flex;
+  align-items: center;
+  color: var(--secondary);
+  white-space: nowrap;
+  overflow: visible;
+}
+
+.calendar-weekdays {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  gap: 3px;
+  font-size: 9px;
+  color: var(--secondary);
+  padding-right: 6px;
+  text-align: right;
+  min-width: 12px;
+}
+
+.calendar-weekdays div {
+  height: 11px;
+  line-height: 11px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(52, 11px);
+  grid-template-rows: repeat(7, 11px);
+  gap: 3px;
+  grid-auto-flow: column;
+}
+
+.calendar-day {
+  width: 11px;
+  height: 11px;
+  border-radius: 2px;
+  cursor: default;
+  transition: all 0.15s ease;
+  display: block;
+  text-decoration: none;
+  border: 1px solid transparent;
+}
+
+a.calendar-day {
+  cursor: pointer;
+  box-shadow: none;
+}
+
+.calendar-day.level-0 {
+  background: #ebedf0;
+}
+
+.calendar-day.level-1 {
+  background: #9be9a8;
+}
+
+.calendar-day.level-2 {
+  background: #40c463;
+}
+
+.calendar-day.level-3 {
+  background: #30a14e;
+}
+
+.calendar-day.level-4 {
+  background: #216e39;
+}
+
+html[data-theme="dark"] .calendar-day.level-0 {
+  background: #161b22;
+}
+
+html[data-theme="dark"] .calendar-day.level-1 {
+  background: #0e4429;
+}
+
+html[data-theme="dark"] .calendar-day.level-2 {
+  background: #006d32;
+}
+
+html[data-theme="dark"] .calendar-day.level-3 {
+  background: #26a641;
+}
+
+html[data-theme="dark"] .calendar-day.level-4 {
+  background: #39d353;
+}
+
+.calendar-day.future {
+  background: transparent;
+  cursor: default;
+}
+
+a.calendar-day:hover:not(.future),
+a.calendar-day:focus:not(.future) {
+  border-color: var(--content);
+  transform: scale(1.2);
+  z-index: 10;
+  position: relative;
+}
+
+.calendar-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px solid var(--border);
+}
+
+.calendar-legend {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 11px;
+  color: var(--secondary);
+  margin-left: auto;
+}
+
+.legend-day {
+  width: 11px;
+  height: 11px;
+  border-radius: 2px;
+}
+
+.legend-day.level-0 {
+  background: #ebedf0;
+}
+
+.legend-day.level-1 {
+  background: #9be9a8;
+}
+
+.legend-day.level-2 {
+  background: #40c463;
+}
+
+.legend-day.level-3 {
+  background: #30a14e;
+}
+
+.legend-day.level-4 {
+  background: #216e39;
+}
+
+html[data-theme="dark"] .legend-day.level-0 {
+  background: #161b22;
+}
+
+html[data-theme="dark"] .legend-day.level-1 {
+  background: #0e4429;
+}
+
+html[data-theme="dark"] .legend-day.level-2 {
+  background: #006d32;
+}
+
+html[data-theme="dark"] .legend-day.level-3 {
+  background: #26a641;
+}
+
+html[data-theme="dark"] .legend-day.level-4 {
+  background: #39d353;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+  .post-calendar {
+    padding: 1rem;
+  }
+
+  .calendar-graph {
+    min-width: 600px;
+  }
+
+  .calendar-months {
+    font-size: 9px;
+  }
+}

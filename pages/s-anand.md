@@ -35,4 +35,6 @@ TO **WORK WITH ME** on open-source projects, [send a pull request](https://git
 
 **RECENT POSTS**
 
+{{< post-calendar >}}
+
 {{< recent-posts count="10" >}}

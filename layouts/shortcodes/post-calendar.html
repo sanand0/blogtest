@@ -1,0 +1,121 @@
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections -}}
+
+{{- /* Group posts by date and store counts */ -}}
+{{- $postsByDate := dict -}}
+{{- range $pages -}}
+  {{- if .Date -}}
+    {{- $dateKey := .Date.Format "2006-01-02" -}}
+    {{- $count := index $postsByDate $dateKey | default 0 -}}
+    {{- $postsByDate = merge $postsByDate (dict $dateKey (add $count 1)) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Calculate date range - last year ending with current week */ -}}
+{{- $now := now -}}
+
+{{- /* Adjust end date to include the full current week (end on Saturday) */ -}}
+{{- $endWeekday := int $now.Weekday -}}
+{{- $daysUntilSaturday := sub 6 $endWeekday -}}
+{{- if eq $endWeekday 0 -}}{{- /* Sunday is 0, Saturday is 6 days ahead */ -}}
+  {{- $daysUntilSaturday = 6 -}}
+{{- end -}}
+{{- $endDate := $now.AddDate 0 0 $daysUntilSaturday -}}
+
+{{- /* Go back 52 weeks from end date to start date */ -}}
+{{- $startDate := $endDate.AddDate 0 0 -363 -}}
+
+{{- /* Adjust to start on Sunday */ -}}
+{{- $startWeekday := int $startDate.Weekday -}}
+{{- if ne $startWeekday 0 -}}
+  {{- $startDate = $startDate.AddDate 0 0 (mul -1 $startWeekday) -}}
+{{- end -}}
+
+{{- /* Calculate number of weeks from start to end */ -}}
+{{- $daysDiff := $endDate.Sub $startDate -}}
+{{- $totalDays := div $daysDiff.Hours 24 -}}
+{{- $numWeeks := add (div (int $totalDays) 7) 1 -}}
+
+<div class="post-calendar">
+  <div class="calendar-wrapper">
+    <div class="calendar-graph">
+      <div class="calendar-months">
+        {{- $currentMonth := "" -}}
+        {{- range seq 0 (sub $numWeeks 1) -}}
+          {{- $weekStart := $startDate.AddDate 0 0 (mul . 7) -}}
+          {{- $monthName := $weekStart.Format "Jan" -}}
+          {{- if and (le $weekStart.Day 7) (ne $monthName $currentMonth) -}}
+            <div class="calendar-month" style="grid-column: {{ add . 1 }};">{{ $monthName }}</div>
+            {{- $currentMonth = $monthName -}}
+          {{- end -}}
+        {{- end -}}
+      </div>
+
+      <div class="calendar-weekdays">
+        <div>M</div>
+        <div></div>
+        <div>W</div>
+        <div></div>
+        <div>F</div>
+        <div></div>
+        <div></div>
+      </div>
+
+      <div class="calendar-grid" style="grid-template-columns: repeat({{ $numWeeks }}, 11px);">
+        {{- range $week := seq 0 (sub $numWeeks 1) -}}
+          {{- range $day := seq 0 6 -}}
+            {{- $currentDate := $startDate.AddDate 0 0 (add (mul $week 7) $day) -}}
+            {{- if le $currentDate $endDate -}}
+              {{- $dateKey := $currentDate.Format "2006-01-02" -}}
+              {{- $count := index $postsByDate $dateKey | default 0 -}}
+              {{- $level := 0 -}}
+              {{- if ge $count 1 -}}{{ $level = 1 -}}{{ end -}}
+              {{- if ge $count 2 -}}{{ $level = 2 -}}{{ end -}}
+              {{- if ge $count 3 -}}{{ $level = 3 -}}{{ end -}}
+              {{- if ge $count 5 -}}{{ $level = 4 -}}{{ end -}}
+
+              {{- $tooltip := "" -}}
+              {{- if eq $count 0 -}}
+                {{- $tooltip = printf "No posts on %s" ($currentDate.Format "Jan 2, 2006") -}}
+              {{- else if eq $count 1 -}}
+                {{- $tooltip = printf "1 post on %s" ($currentDate.Format "Jan 2, 2006") -}}
+              {{- else -}}
+                {{- $tooltip = printf "%d posts on %s" $count ($currentDate.Format "Jan 2, 2006") -}}
+              {{- end -}}
+
+              {{- $archiveURL := printf "/blog/%s/" ($currentDate.Format "2006/01/02") -}}
+
+              {{- if gt $count 0 -}}
+                <a href="{{ $archiveURL }}" class="calendar-day level-{{ $level }}"
+                   data-date="{{ $dateKey }}"
+                   data-count="{{ $count }}"
+                   title="{{ $tooltip }}"
+                   aria-label="{{ $tooltip }}">
+                </a>
+              {{- else -}}
+                <div class="calendar-day level-{{ $level }}"
+                     data-date="{{ $dateKey }}"
+                     data-count="{{ $count }}"
+                     title="{{ $tooltip }}">
+                </div>
+              {{- end -}}
+            {{- else -}}
+              <div class="calendar-day future"></div>
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      </div>
+    </div>
+  </div>
+
+  <div class="calendar-info">
+    <div class="calendar-legend">
+      <span>Less</span>
+      <div class="legend-day level-0"></div>
+      <div class="legend-day level-1"></div>
+      <div class="legend-day level-2"></div>
+      <div class="legend-day level-3"></div>
+      <div class="legend-day level-4"></div>
+      <span>More</span>
+    </div>
+  </div>
+</div>
