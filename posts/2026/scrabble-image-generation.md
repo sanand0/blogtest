@@ -11,7 +11,7 @@ AI image generation still has a _long_ way to go. Here are two images generated 
 
 ![](https://files.s-anand.net/images/2026-01-06-scrabble-dysfunctional-family-gemini.webp)
 
-It's probably showing off, spelling "DYSFUNCTIONAL" right. But "ABLOMY"? "PASSIAVE"? "RGUCT_SVA"? "SORDSP"? Most of the vertical letters are wrong. Some horizontals ("DTENSION"?) are off, too.
+It's probably showing off, with coffee stains, and spelling "DYSFUNCTIONAL" right. But "ABLOMY"? "PASSIAVE"? "RGUCT_SVA"? "SORDSP"? Most of the vertical letters are wrong. Some horizontals ("DTENSION"?) are off, too.
 
 Also: "Z" has 2 points? "C" has "C" points? "DOUBLE STTER SCORE"? "UUT SCORE SCORE" instead of "TRIPLE WORD SCORE"?
 
