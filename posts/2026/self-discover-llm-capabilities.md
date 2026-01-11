@@ -74,3 +74,5 @@ PS: [ChatGPT's response to this](https://chatgpt.com/share/6961c2ea-f7d4-800c-81
 <!-- https://chatgpt.com/c/69477805-b150-8321-bdf7-d654222f867c via Gramener ID -->
 
 ---
+
+[LinkedIn](https://www.linkedin.com/posts/sanand0_q-how-do-we-learn-what-we-can-do-with-ai-activity-7415939924937379841-Wrdp)

@@ -79,3 +79,5 @@ I'll add metrics in a few weeks. But here's **why** I added/changed:
 **What are YOUR plans?**
 
 [1]: https://tds.s-anand.net/
+
+[LinkedIn](https://www.linkedin.com/posts/sanand0_in-2025-i-took-up-20-goals-i-completed-activity-7412078900375289856-9Fnk)

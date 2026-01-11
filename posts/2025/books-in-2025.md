@@ -81,3 +81,5 @@ With a difference: [I used AI to read](/blog/i-count-ai-summarized-books-as-read
 - [Elantris (Elantris, #1)](https://www.goodreads.com/book/show/68427.Elantris) by Brandon Sanderson
 
 Here's the [list on GoodReads, sorted by read date](https://www.goodreads.com/review/list/39713492-s-anand?order=d&ref=nav_mybooks&shelf=read&sort=date_read).
+
+[LinkedIn](https://www.linkedin.com/posts/sanand0_%F0%9D%97%9C-%F0%9D%97%B0%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BB%F0%9D%98%81-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%98%80%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%87%F0%9D%97%B2%F0%9D%97%B1-%F0%9D%97%AF%F0%9D%97%BC%F0%9D%97%BC%F0%9D%97%B8%F0%9D%98%80-activity-7410515008419332096-iBZ9)

@@ -26,3 +26,5 @@ This is almost as bad. "FAKEHUY"? "MREGSUUEAHL"? The verticals are worse than th
 "INLAWS" are hanging outside the board. The "TRIPLE WORD" at the bottom right and bottom left are not at the corners, and are missing a "SCORE". More importantly, some of the letters aren't printed right.
 
 Overall, slightly fewer errors, but slightly poorer style, too.
+
+[LinkedIn](https://www.linkedin.com/posts/sanand0_ai-image-generation-still-has-a-%F0%9D%98%AD%F0%9D%98%B0%F0%9D%98%AF%F0%9D%98%A8-activity-7414972466193850369-vPl2)

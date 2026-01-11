@@ -55,3 +55,5 @@ And a dress code we were not aware of. ["Gentlemen must be in a shirt, covered s
 After 5 minutes of trying to persuade the gentle yet firm manager, I wished my family a happy new year and walked back home enjoying the fireworks along with _thousands_ of others on the streets.
 
 In open air. And open sandals.
+
+[LinkedIn](https://www.linkedin.com/posts/sanand0_my-sandals-landed-me-in-trouble-twice-in-activity-7413034862275694592-bkgb)

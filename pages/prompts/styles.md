@@ -575,6 +575,100 @@ https://claude.ai/chat/8cd25010-20d0-456c-b8fb-84e9a622f8a0
 - Truth & Beauty (Moritz Stefaner): Boutique studio balancing aesthetic excellence with analytical depth; emphasis on exploratory visualization for discovery; museum installations alongside digital projects; German precision with artistic sensibility; custom interactive tools for research and journalism; making data exploration beautiful.
 - Fathom Information Design: Boston studio creating exploratory visualization tools; emphasis on giving form to complex data for understanding; work spanning journalism, technology, and cultural institutions; Ben Fry co-founder bringing Processing heritage; large-scale data exploration interfaces; bridging design and data science.
 
+## Websites
+
+- 🔵 https://gemini.google.com/u/2/app/35376ba312690d54
+- 🟠 https://claude.ai/chat/70f821ef-8ac2-4f28-98de-25c4c7323b40
+- ⚪ https://chatgpt.com/c/69522438-aea4-8323-94b0-c8916f513de2
+
+Sites:
+
+- A24: 🔵 A moody, cinematic minimalism that relies on sparse layouts, ample whitespace, and distinctively small, mono-spaced type paired with large, uncropped film stills to create an atmosphere of mysterious, high-art exclusivity.
+- Active Theory (activetheory.net): 🟠 WebGL 3D experiences with cinematic motion, immersive full-screen interactions, smooth camera movements, particle systems, real-time rendering showcases, and cutting-edge web technology demonstrations.
+- Airbnb (airbnb.com): 🟠 Circular photography frames, warm coral accent color (Rausch Pink), Cereal typeface, card-based listings with soft shadows, immersive image-first browsing, and welcoming travel-lifestyle visual language.
+- Apple (apple.com): 🟠 Minimalist black/white backgrounds with dramatic product photography, San Francisco typeface in multiple weights, scroll-driven parallax animations, cinematic video headers, obsessive whitespace, and high-contrast text creating a museum-like premium showcase.
+- Arngren: ⚪ chaotic shop collage: overlapping images/text, tiny links, no visual hierarchy, “everything everywhere at once,” an accidental brutalist legend.
+- AWGE (awge.com): 🟠 A$AP Rocky's creative agency with brutalist minimal aesthetic, deliberately obscure navigation, anti-commercial design, and fashion-world enigmatic visual presence.
+- Balenciaga (balenciaga.com): 🟠 Fashion brutalism with stark product grids, minimal photography, utilitarian typography, anti-luxury aesthetic paradox, and high-fashion meets anti-design tension.
+- BASIC (basicagency.com): 🟠 Clean dark layouts with strategic whitespace, bold sans-serif typography, case-study-focused presentation, sophisticated motion design, premium brand positioning, and portfolio-as-product approach.
+- Berkshire Hathaway: 🔵 A hyper-functional corporate relic consisting of a static white background, Times New Roman text, simple bulleted hyperlinks, and a complete absence of images, CSS styling, or modern navigation elements.
+- Bloomberg Businessweek (bloomberg.com/businessweek): 🟠 Bold experimental editorial layouts with oversized typography, color-washed photography, unconventional headline treatments, magazine-cover-inspired web pages, kaleidoscopic modular grids, and fearless data visualization integration.
+- Bloomberg: 🔵 An avant-garde digital brutalism that mixes stark black-and-white grids with jarring neon highlights, bold oversized typography, exposed structural lines, and a deliberate lack of smoothing or shadows to create a frantic, data-heavy trading terminal vibe.
+- Bruno Simon: 🔵 A playful, physics-based 3D environment where the user navigates a toy car through a low-poly micro-world, using gaming controls to explore portfolio items physically placed as interactive landmarks in the terrain.
+- Brutalist Websites (brutalistwebsites.com): 🟠 Gallery of anti-aesthetic sites embracing raw HTML energy, system fonts, monochrome palettes, exposed infrastructure, clashing colors, and intentional rejection of web design conventions.
+- BUCK: ⚪ colorful studio punch: bold illustration, playful composition, energetic motion, “art department flex” without losing structure.
+- Cameron’s World: ⚪ GeoCities collage dream: layered GIF chaos, nostalgic textures, curated clutter, playful sound, “a love letter to early internet neighborhoods.”
+- Collins: ⚪ brand-led typography: big type, bold grids, confident negative space, art-direction-first case studies, minimal UI chrome.
+- Craigslist (craigslist.org): 🟠 Pure utilitarian HTML with Times New Roman-style serif links, dense blue hyperlink lists, zero visual decoration, white background, minimal CSS, and function-over-form classifieds efficiency that hasn't changed since 1996.
+- Critical Danger: 🟠 Conservation storytelling with strong typography, motion graphics interactivity, scroll-triggered animations, endangered species merchandise presentation, and purpose-driven design excellence.
+- David Carson Portfolio: 🟠 Grunge typography pioneer aesthetic with deconstructed layouts, layered imagery, rule-breaking type treatments, raw experimental energy, and anti-corporate graphic design rebellion.
+- Discord: ⚪ community energy: chunky typography, bold color blocks, playful illustrations, internet-native tone, product screenshots used like social proof.
+- Distill.pub: ⚪ research as interface: interactive figures, math as UI, elegant typography, deliberate pacing, “paper you can play with.”
+- Drudge Report: 🔵 A manic, news-aggregator aesthetic defined by a crowded three-column layout, monospace fonts, screaming all-caps headlines, flashing GIF sirens, and a chaotic high-contrast black-and-white visual rhythm.
+- Duolingo: ⚪ meme-native UI: bold colors, chunky type, character-first visuals, playful reward loops, energetic motion that feels like a game.
+- Economist (economist.com): 🟠 Red-and-white brand authority, serif editorial typography, data-rich chart integration, structured news hierarchy, and authoritative global journalism visual language.
+- Experiments with Google: ⚪ playful tech demos: single-idea pages, strong interaction hooks, lightweight UI, “learn by playing” structure.
+- Fantasy (fantasy.co): 🟠 Innovation consultancy aesthetic with clean dark interfaces, futuristic typography, strategic use of motion, product-design showcases, and technology-forward visual language.
+- Figma (figma.com): 🟠 Vibrant gradients with purple-to-pink color transitions, playful 3D illustrations, bold rounded typography, collaborative real-time cursor animations, bright accent colors, and creative tool energy with approachable professional polish.
+- Framer: ⚪ design-tool futurism: glossy gradients, kinetic previews, modular cards, punchy statements, “ship fast” energy with slick motion.
+- George Nakashima Woodworkers (nakashimawoodworkers.com): 🟠 Nature photography slideshows, woodworking craftsmanship quotes, organic earth-tone palette, zen-minimalist page structure, and artisan heritage visual storytelling.
+- GitHub: ⚪ dev-native professionalism: structured grids, code-friendly typography, subtle gradients, playful mascots used sparingly, utility always wins.
+- Glossier (glossier.com): 🟠 Millennial pink backgrounds, minimal product photography with negative space, lowercase typography, Instagram-native aesthetic, clean sans-serif fonts, and effortless beauty brand minimalism.
+- GOV.UK: 🔵 The ultimate accessible minimalism, using a specific heavy black font (GDS Transport) on white, distinct black header bars, and a rigorous, layout-agnostic focus on clarity, readability, and information architecture without a single unnecessary pixel.
+- Guillaume Tomasi Photography: 🟠 Mosaic hover-reveal galleries, surreal photography on flat empty backgrounds, hidden-until-interaction imagery, art gallery browsing experience, and mystery-driven portfolio UX.
+- Hacker News (news.ycombinator.com): 🟠 Monochrome orange header with basic HTML layout, Verdana typography, minimal hierarchy, dense text-only listings, no images, austere voting interface, and deliberate old-internet anti-design simplicity.
+- Headspace: ⚪ soft friendly minimalism: rounded forms, pastel gradients, calm animation, generous spacing, “breathing app” serenity as layout.
+- IKEA (ikea.com): 🟠 Blue-and-yellow brand colors, clean Scandinavian grid layouts, practical product photography, Noto Sans typography, functional navigation, and democratic design accessibility focus.
+- Information is Beautiful (informationisbeautiful.net): 🟠 Data visualization showcases with clean infographic aesthetics, color-coded categorical systems, print-quality web graphics, and educational information design.
+- Instrument: ⚪ modern editorial agency: clean grids, strong type, curated case studies, motion that signals taste, quiet authority.
+- Internet Archive: ⚪ library interface: functional density, archival seriousness, minimal marketing, “institutional utility with gentle nostalgia.”
+- JODI: ⚪ net-art disorientation: glitchy screens, ASCII/code aesthetics, confusing navigation, deliberate discomfort, “the browser as an art medium.”
+- Kappa Kontroll: 🟠 1980s Italian sportswear nostalgia with retro color blocking, vintage brand aesthetics translated digitally, and heritage streetwear visual identity.
+- Linear (linear.app): 🟠 Dark-mode-first interface with deep black backgrounds, subtle gradient glows in purple/blue, monospaced code typography where appropriate, glassmorphism effects, smooth microinteractions, lightning-fast perceived performance, and developer-focused minimal aesthetic.
+- LingsCars (lingscars.com): 🟠 Maximalist chaos with animated GIFs, flashing colors, Comic Sans-adjacent fonts, overlapping elements, intentionally overwhelming visual noise, multimedia embeds, and deliberate rule-breaking that paradoxically works commercially.
+- Locomotive: ⚪ smooth-scroll craft: elegant typography, impeccable timing, parallax done tastefully, bold imagery, premium studio confidence.
+- Lusion: ⚪ high-gloss interactive 3D: cinematic WebGL, tactile transitions, surreal product worlds, motion-led storytelling, “real-time graphics as brand.”
+- Mailchimp (mailchimp.com): 🟠 Quirky hand-drawn illustration style (Freddie mascot), Cavendish yellow brand color, playful Cooper Black-adjacent display type, whimsical animation, and approachable small-business-friendly personality.
+- Medium (medium.com): 🟠 Content-first minimalism with maximum readability, Charter serif typography, generous line-height and margins, subtle green accent color, clap/highlight interaction feedback, and distraction-free reading environment aesthetic.
+- Motherf—ing Website: ⚪ minimalist satire: single-column rant, system fonts, no decoration, aggressive clarity, “performance and accessibility as rebellion.”
+- Notion (notion.so): 🟠 Clean off-white backgrounds with playful hand-drawn emoji illustrations, friendly rounded sans-serif typography, modular block-based visual language, soft shadows, bright accent colors, and workspace flexibility aesthetic that feels collaborative yet personal.
+- NYT “Snow Fall”: ⚪ magazine-grade longform: full-bleed media, elegant typography, immersive scroll pacing, maps/graphics as narrative beats, cinematic restraint.
+- Obys Agency: ⚪ edgy brutal-luxe: oversized type, high contrast, provocative layouts, motion with bite, “fashion editorial meets web.”
+- Our World in Data: ⚪ academic-but-friendly: clean charts, sober typography, heavy citations, utilitarian UI that privileges exploration over vibes.
+- Paula Scher / Pentagram Partner: 🟠 Large-scale typographic systems, bold public-space graphics aesthetic, map-inspired layered information, expressive lettering, and institutional design gravitas.
+- Pentagram (pentagram.com): 🟠 Classic design authority with refined grid systems, editorial typography, black-and-white project photography, sophisticated restraint, case-study deep-dives, and timeless institutional design elegance.
+- Poolsuite: 🔵 A sun-drenched "internet retro" OS interface mimicking a 1986 Macintosh desktop, featuring pastel pinks and teals, pixelated icons, floating video windows playing VHS footage, and a nostalgic, vaporwave summer leisure aesthetic.
+- Radiohead W.A.S.T.E. (wasteheadquarters.com): 🟠 Deliberately stark and antagonistic to modern design, perfunctory navigation, raw HTML aesthetic, minimal visual concession, and band's artistic vision of digital presence.
+- Raycast (raycast.com): 🟠 Dark mode with vibrant gradient icon arrays, macOS-native visual language, crisp SF Pro typography, keyboard shortcut badges, frosted glass panels, smooth transition animations, and power-user productivity aesthetic.
+- Resn (resn.co.nz): 🟠 Award-winning interactive experiences with playful animations, unexpected microinteractions, bold color choices, experimental navigation patterns, and boundary-pushing creative technology.
+- Reuters Graphics: ⚪ clarity-first data journalism: restrained palettes, highly legible charts, “show your work” annotation, minimal ornament, maximal comprehension.
+- Seth's Blog (seths.blog): 🟠 Text-only minimalism with permanent sidebar navigation, blue underlined hyperlinks, zero decoration, white background, readable sans-serif body text, and old-school blogger aesthetic prioritizing ideas over design.
+- Shopify (shopify.com): 🟠 Friendly gradient backgrounds in greens and purples, rounded UI elements, playful merchant illustrations, approachable sans-serif typography, and entrepreneurship-empowering optimistic aesthetic.
+- Slack: ⚪ colorful friendliness: vibrant palettes, big shapes, illustration + UI mixes, high readability, playful motion without feeling chaotic.
+- Space Jam (1996 site): ⚪ pure mid-90s web: tiled backgrounds, tiny GIF buttons, frames-era navigation, loud icons, joyous awkwardness preserved in amber.
+- Spotify (Wrapped-era experiences): ⚪ kinetic collage: big type, loud color, motion-led storytelling, personalized data as celebration, “you are the headline.”
+- Stripe (stripe.com): 🟠 Elegant gradient meshes with deep purples and teals, crisp sans-serif typography (Camphor), animated isometric illustrations, SVG product mockups, generous whitespace, subtle scroll-triggered animations, and code-first aesthetic that feels premium yet approachable for developers.
+- Stripe Documentation (stripe.com/docs): 🟠 Three-column documentation layout, dark-mode code blocks with syntax highlighting, interactive API examples, tabbed code samples across languages, and developer-first reading experience.
+- Studio Job (studiojob.be): 🟠 Brutalist art direction with bold oversized typography, high-contrast monochrome, broken grid layouts, endless scroll, rough unrefined aesthetic, and avant-garde design studio irreverence.
+- Tailwind CSS (tailwindcss.com): 🟠 Utility-first visual identity with code-as-design examples, dark mode with cyan accents, clean documentation hierarchy, live preview demos, and developer tool branding sophistication.
+- Teenage Engineering (teenage.engineering): 🟠 Industrial-design-inspired wireframe aesthetics, monochromatic color schemes, blueprint-like icons, outlined geometric navigation, exposed-structure visual language, engineering-drawing typography, and Scandinavian minimalist product focus.
+- Textfiles.com: ⚪ archivist utilitarianism: old-school navigation, dense lists, content-first, “BBS history museum” vibe, preservation over polish.
+- The Guardian interactives: ⚪ bold headlines, strong photojournalism, tight editorial rhythm, interactive graphics that support (not replace) reporting.
+- The New Yorker: ⚪ understated elegance: typographic hierarchy, lots of whitespace, restrained illustration, calm pacing, “print sensibility online.”
+- The Outline (archived) / Input Mag: 🟠 Anti-design maximalism with clashing neon colors, overlapping geometric shapes, experimental typography layering, intentionally "ugly" aesthetics, and rebellious editorial visual voice.
+- The Pudding (pudding.cool): 🟠 Scrollytelling journalism with custom data visualizations, playful explanatory graphics, bold typography, interactive chart explorations, and visual essay format innovation.
+- The Verge (theverge.com): 🟠 Neon accent colors (pink, cyan) on dark backgrounds, blog-style rapid-fire feed format, bold geometric shapes, tech-forward typography, aggressive visual hierarchy, and Twitter-like stream format with editorial personality.
+- ToyFight: ⚪ playful maximal craft: big character, humorous microcopy, bold colors, animated details, interaction that feels like a toy box.
+- Ueno: ⚪ product-design confidence: crisp layouts, strong hierarchy, tasteful animation, case-study storytelling that feels like a design review.
+- Vercel (vercel.com): 🟠 Deep black backgrounds with holographic gradient accents, terminal-inspired monospace typography sections, glassmorphism cards, particle effects, subtle grid patterns, developer documentation aesthetic with performance-focused visual metaphors.
+- Vercel Documentation (vercel.com/docs): 🟠 Black background with crisp white typography, file-tree navigation, inline code badges, framework-specific theming, and performance-obsessed developer experience design.
+- Wait But Why: ⚪ hand-drawn blog maximalism: sketchy diagrams, long-scroll essays, playful asides, simple layout that invites deep reading.
+- Webflow: ⚪ showcase-forward: dense galleries framed by clean UI, strong typographic hierarchy, lots of visual proof, modern “builder credibility” aesthetic.
+- Wikipedia: ⚪ utilitarian knowledge chassis: link-blue density, strict columns, boxes and lists, minimal visuals, designed to be edited not admired.
+- WIRED (wired.com): 🟠 High-contrast editorial photography, bold condensed headlines, geometric accent shapes, tech-optimist color palette, structured grid layouts, and longform storytelling visual language with science-magazine authority.
+- Yale School of Art: ⚪ DIY institutional mess: inconsistent layout, chaotic updates, “department bulletin board on the open web,” weirdly iconic.
+- Yusuke Fukunaga Portfolio: 🟠 Japanese parallax scrolling artistry, infinite scroll flow, minimalist single-page structure, developer-focused technical elegance, and motion-driven portfolio presentation.
+
 ## Data storytelling, analysis & dashboards
 
 - Hans Rosling “animated revelation”: Start with a simple view, then reveal dimensions over time, narrating each surprise.

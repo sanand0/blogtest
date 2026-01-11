@@ -108,3 +108,5 @@ But these are the more obvious ones. I had [Claude list what AI agents can be "h
   - I've tried [interventions]. Synthesize: what actually works for me?
 
 ![AI Advisory Cabinet](https://files.s-anand.net/images/2026-01-06-ai-advisory-cabinet.webp)
+
+[LinkedIn](https://www.linkedin.com/posts/sanand0_in-many-areas-%F0%9D%98%A2%F0%9D%98%A8%F0%9D%98%A6%F0%9D%98%AF%F0%9D%98%B5%F0%9D%98%B4-%F0%9D%98%B0%F0%9D%98%B6%F0%9D%98%B5%F0%9D%98%B1%F0%9D%98%A6%F0%9D%98%B3%F0%9D%98%A7%F0%9D%98%B0%F0%9D%98%B3%F0%9D%98%AE-activity-7414249386639126528-MerW)
