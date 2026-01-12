@@ -4,6 +4,7 @@ date: 2026-01-03T09:18:21+08:00
 categories:
   - how-i-do-things
   - funny
+  - interesting-experiences
 ---
 
 My sandals landed me in trouble twice in December. And that's not uncommon.
