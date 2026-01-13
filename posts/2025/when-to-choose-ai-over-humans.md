@@ -3,7 +3,7 @@ title: When to choose AI over humans
 date: "2025-10-28T04:37:14Z"
 lastmod: "2025-10-28T04:37:16Z"
 categories:
-  - links
+  - visualisation
 wp_id: 4242
 ---
 

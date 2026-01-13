@@ -4,6 +4,7 @@ date: 2026-01-09T17:20:00+08:00
 categories:
   - experiments
   - llms
+  - visualisation
 classes: wrap-code
 ---
 

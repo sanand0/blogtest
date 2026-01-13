@@ -103,10 +103,11 @@ def markdown_to_email_html(markdown_file: Path) -> tuple[str, str]:
     """
     # Parse frontmatter and content
     post = frontmatter.load(markdown_file)
+    content = re.sub(r"\\[ \t]*(\r?\n)", r"\1", post.content)
 
     # Convert markdown to HTML with extensions for tables, code blocks, etc.
     html_content = markdown.markdown(
-        post.content,
+        content,
         extensions=[
             "extra",  # Includes tables, fenced code blocks, etc.
             "codehilite",  # Syntax highlighting (requires Pygments)

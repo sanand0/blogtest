@@ -3,6 +3,7 @@ title: Technology efficiency affects jobs differently
 date: "2025-06-14T04:55:26Z"
 lastmod: "2025-06-14T07:44:59Z"
 categories:
+  - visualisation
   - links
 wp_id: 4141
 ---

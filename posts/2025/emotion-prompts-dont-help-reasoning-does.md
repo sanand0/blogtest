@@ -4,6 +4,7 @@ date: "2025-06-02T03:24:59Z"
 lastmod: "2025-06-02T03:25:01Z"
 categories:
   - llms
+  - visualisation
 wp_id: 4138
 ---
 

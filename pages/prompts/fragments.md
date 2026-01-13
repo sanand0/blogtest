@@ -95,6 +95,14 @@ Max 3,000 characters (ideally less than 2,000). The first 200 characters should 
 Draw this as a visually rich, intricately detailed, colorful, and funny, sketchnote.
 ```
 
+## Slide deck
+
+Convert this into a beautiful slide deck, McKinsey style.
+Make the slides content rich, i.e. clear and self-explanatory with enough detail to help the audience understand without a narrator.
+Write as a single page HTML application.
+Use iconography, typography, stock images, etc. as appropriate.
+
+
 ## Handling ambiguity
 
 <!-- Unproven. From GPT 5.2 Prompting Guide -->

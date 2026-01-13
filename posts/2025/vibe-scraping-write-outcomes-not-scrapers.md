@@ -5,6 +5,7 @@ lastmod: "2025-09-30T13:19:33Z"
 categories:
   - coding
   - llms
+  - visualisation
 wp_id: 4220
 ---
 

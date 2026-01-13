@@ -2,6 +2,7 @@
 date: "2025-11-10T00:00:00Z"
 categories:
   - linkedin
+  - visualisation
 ---
 
 I always wondered why **old movies are rated so high** on IMDb.

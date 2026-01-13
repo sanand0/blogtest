@@ -1,6 +1,8 @@
 ---
 date: "2025-06-22T18:09:06Z"
 categories:
+  - how-i-do-things
+  - visualisation
   - linkedin
 ---
 

@@ -3,6 +3,7 @@ title: Mapping The Red Headed League
 date: 2026-01-11T10:41:06+08:00
 categories:
   - links
+  - visualisation
 ---
 
 [Mapping The Red Headed League](https://aman.bh/blog/2026/mapping-the-red-headed-league) is a fascinating reconstruction of the actual places mentioned (or hinted at) by Arthur Conan Doyle's [The Red Headed League](https://en.wikipedia.org/wiki/The_Red-Headed_League) by [Aman Bhargava](https://aman.bh/).
