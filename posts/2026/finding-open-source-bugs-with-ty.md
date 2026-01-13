@@ -46,7 +46,7 @@ bar.update(1)
 bar.reset(total=3)'
 ```
 
-![](https://files.s-anand.net/images/2026-01-22-tqdm-rich-ty-bug.webp)
+![](https://files.s-anand.net/images/2026-01-11-tqdm-rich-ty-bug.webp)
 
 Yes! Same error.
 

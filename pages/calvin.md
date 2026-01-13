@@ -1,6 +1,6 @@
 ---
 title: Calvin & Hobbes Quote Search
-hide: true
+build: { list: never, render: always }
 ---
 
 <style>

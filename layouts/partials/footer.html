@@ -24,7 +24,7 @@
         </details>
         <details class="footer-section">
             <summary>Pages</summary>
-            <ul>
+            <ul>{{/* Show only top-level pages */}}
                 {{- range sort $pages "Title" }}
                 {{- $path := "" -}}
                 {{- with .File -}}
@@ -33,7 +33,7 @@
                 {{- $path = strings.TrimPrefix "content/" $path -}}
                 {{- $is_top := and (eq .Kind "page") (not (strings.Contains $path "/")) -}}
                 {{- $is_section := and (eq .Kind "section") (strings.HasSuffix $path "/_index.md") -}}
-                {{- if and $path (fileExists (printf "pages/%s" $path)) (or $is_top $is_section) (ne .Params.hide true) -}}
+                {{- if and $path (fileExists (printf "pages/%s" $path)) (or $is_top $is_section) -}}
                 <li><a href="{{ partial "rel_link.html" (dict "from" $ "to" .RelPermalink) }}">{{ .LinkTitle }}</a></li>
                 {{- end -}}
                 {{- end }}

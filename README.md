@@ -40,3 +40,7 @@ This runs:
 2. `hugo` - builds static site to `public/blog/`
 3. Post-processing scripts for comments and feed normalization
 4. Copies special pages to `public/` root
+
+## Frontmatter
+
+- `build: { list: never, render: always }` ensures that posts/pages are not listed _anywhere_ blog index but are still rendered.

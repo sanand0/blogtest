@@ -1,6 +1,6 @@
 ---
 title: S Anand
-hide: true
+build: { list: never, render: always }
 wp_id: 2992
 ---
 

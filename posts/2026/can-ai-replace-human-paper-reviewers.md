@@ -38,7 +38,7 @@ I asked Codex to [scrape the data](https://github.com/sanand0/datastories/blob/m
 
    When the "generous AI" loves a paper but the "skeptical AI" hates it, that's not random noise-it's **useful information**. It means the paper's fate depends on standards (rigor vs. novelty), not just quality. These are exactly the papers humans should look at.
 
-![](https://files.s-anand.net/images/2026-01-13-can-ai-replace-human-paper-reviewers.avif)
+[![](https://files.s-anand.net/images/2026-01-13-can-ai-replace-human-paper-reviewers.avif)](https://sanand0.github.io/datastories/ai-agents-for-science/)
 
 ---
 
