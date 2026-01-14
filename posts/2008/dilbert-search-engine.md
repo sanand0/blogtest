@@ -1,12 +1,20 @@
 ---
 title: Dilbert search engine
 date: "2008-09-18T12:00:00Z"
-lastmod: "2009-03-23T15:34:36Z"
+lastmod: 2026-01-14T07:29:19+05:30
 categories:
   - how-i-do-things
   - tools
 wp_id: 29
 ---
+
+**UPDATE: 13 Jan 2026**: [Scott Adams](https://en.wikipedia.org/wiki/Scott_Adams) passed away. RIP.
+
+**UPDATE: Mar 2023**: [Dilbert.com](https://dilbert.com/) was closed but [archives](https://web.archive.org/web/20220929025803/https://dilbert.com/strip/2022-09-20) are accessible via the [Wayback Machine](https://archive.org/web/) (slow). Search does not work well. [Dilbert viewer](https://dilbert-viewer.herokuapp.com/) is an alternate interface [via Reddit](https://www.reddit.com/r/dilbert/comments/11vfvq7/i_created_a_website_to_conveniently_browse_all/).
+
+**UPDATE: 2012**: [dilbert-search.appspot.com](http://dilbert-search.appspot.com/) died, likely of old age.
+
+--
 
 Wouldn't it be cool to be able to search through the Dilbert archives using text?
 
