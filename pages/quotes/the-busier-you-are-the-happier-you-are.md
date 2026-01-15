@@ -26,8 +26,8 @@ Let us dissect these characters. There is a delicious, wicked irony hidden in th
 
 Look at this character. It is a masterpiece of psychological honesty. It is composed of two distinct parts, squeezed together like commuters on a Tokyo subway.
 
-* **The Left Side ():** This is the radical for "Heart" or "Mind." It stands upright, alert, perhaps a bit stiff.
-* **The Right Side ():** This component literally means "Dead," "Perish," or "Lost."
+* **The Left Side (忄):** This is the radical for "Heart" or "Mind." It stands upright, alert, perhaps a bit stiff.
+* **The Right Side (亡):** This component literally means "Dead," "Perish," or "Lost."
 
 **The Wicked Truth:** When you combine them to make "Busy" (**忙**), the literal etymological meaning is **"The Death of the Heart."**
 
@@ -62,12 +62,12 @@ There is another Japanese character that means "Spicy," "Painful," or "Bitter." 
 
 Do you see the difference?
 
-* **Happiness ():** Top line is a plus sign.
-* **Pain ():** Top line is a flat line.
+* **Happiness (幸):** Top line is a plus sign.
+* **Pain (辛):** Top line is a flat line.
 
 The difference between "Happiness" and "Total Agony" in Japanese is **one single, tiny stroke**.
 
-It suggests that happiness is fragile. It suggests that if you push your luck just a *little* too hard, or miss one tiny detail, your "Happiness" () decapitates itself and becomes "Suffering" ().
+It suggests that happiness is fragile. It suggests that if you push your luck just a *little* too hard, or miss one tiny detail, your "Happiness" (幸) decapitates itself and becomes "Suffering" (辛).
 
 ---
 
@@ -75,7 +75,7 @@ It suggests that happiness is fragile. It suggests that if you push your luck ju
 
 So, when we put it all together: **忙しいほど幸せ**.
 
-We are essentially saying: *"The more you engage in the Death of the Heart (), the more you will achieve that fragile state () that is exactly one slip-up away from Misery."*
+We are essentially saying: *"The more you engage in the Death of the Heart (忙), the more you will achieve that fragile state (幸) that is exactly one slip-up away from Misery."*
 
 It is a beautiful, terrifying, high-wire act of a proverb. It doesn't congratulate you on being safe; it congratulates you on the thrill of the juggling act. You aren't bored, and you aren't dead yet. And in this economy? That is indeed **Happiness**.
 
@@ -95,10 +95,10 @@ Let us rectify this immediately, keeping our Bryson-Fry spectacles firmly on the
 
 ### The Final Flourish: せ (Se)
 
-The word is **幸せ** (*Shiawase*). We discussed the "Happiness" (), but we ignored the tail.
+The word is **幸せ** (*Shiawase*). We discussed the "Happiness" (幸), but we ignored the tail.
 
 **The Visuals**
-Look at ****. It consists of three strokes.
+Look at せ. It consists of three strokes.
 
 1. A horizontal line (the stage).
 2. A vertical stroke on the right that hooks inward.
@@ -115,11 +115,11 @@ It means **"The World," "Society,"** or **"Generation."**
 **The Implication**
 This is the final, cynical cherry on top of our "Happiness" sundae.
 
-By ending the word with a sound derived from "Society" (), the language is subtly hinting that **happiness is not a solo sport.** You cannot be happy in a vacuum. You cannot be happy in a void.
+By ending the word with a sound derived from "Society" (世), the language is subtly hinting that **happiness is not a solo sport.** You cannot be happy in a vacuum. You cannot be happy in a void.
 
 In the context of **幸せ** (*Shiawase*), the etymology actually comes from the verb *shiawasu*, meaning "to match things together." It originally referred to **Fate**—how your circumstances matched up with the world's demands.
 
-So, the **せ** anchors the abstract concept of "Good Fortune" () down into the messy, gritty reality of "The World" ().
+So, the **せ** anchors the abstract concept of "Good Fortune" (幸) down into the messy, gritty reality of "The World" (世).
 
 ---
 
@@ -127,9 +127,9 @@ So, the **せ** anchors the abstract concept of "Good Fortune" () down into the 
 
 So, let us re-read **忙しいほど幸せ** one last time, with the **せ** firmly attached.
 
-* **The Start ():** You kill your heart with activity.
-* **The Middle ():** You do it to the extreme.
-* **The End ():** You achieve a fragile good fortune () that is inextricably bound to the demands of Society ().
+* **The Start (忙):** You kill your heart with activity.
+* **The Middle (ほど):** You do it to the extreme.
+* **The End (幸せ):** You achieve a fragile good fortune (幸) that is inextricably bound to the demands of Society (世/せ).
 
 The **せ** is the receipt. It’s the proof of purchase. It reminds you that your happiness is valid only because you are participating in the great, grinding machine of the world.
 

@@ -5,6 +5,17 @@ date: 2025-04-15T00:00:00Z
 
 Results of my software tool evaluations. 🟢 is my current choice and 🟡 is worth evaluating.
 
+## CORS proxies, 15 Jan 2026
+
+[CORS Proxy Alternatives](https://chatgpt.com/share/696877c3-34f8-8003-9a84-9ac7f3104ca6)
+
+- [AllOrigins](https://allorigins.win/) - `https://api.allorigins.win/raw?url=...`. Public.
+- [CodeTabs CORS proxy](https://codetabs.com/cors-proxy/cors-proxy.html) - `https://api.codetabs.com/v1/proxy?quest=...`. Public. GET-only, ~5MB limit per request.
+- [CORS.lol](https://cors.lol/) - `https://api.cors.lol/?url=...`. Public. 10MB / request.
+- [CorsProxy.io](https://corsproxy.io/docs/usage-examples/) - `https://corsproxy.io/?url=...`. Needs API key. GET/POST.
+- [CORS.SH](https://cors.sh/) - `https://proxy.cors.sh/<url>`. Needs API key.
+- [CORS Anywhere](https://github.com/Zibri/cloudflare-cors-anywhere) - primarily a self-hostable Node proxy for CloudFlare.
+
 ## Partial JSON parsers, 25 Dec 2025
 
 [JS Libraries for Partial JSON](https://chatgpt.com/share/69575f00-350c-8003-a672-ab8026e81c75)

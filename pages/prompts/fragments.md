@@ -56,6 +56,13 @@ Use on press releases, contracts, policies.
 Read between the lines and explore implications and trends
 ```
 
+## Meeting summary from transcript
+
+```markdown
+Summarize the transcript, along with action items, to share with the attendees.
+Write in the light style of Matt Levine reporting on this meeting.
+```
+
 ## Best practices and ancient wisdom
 
 For advice on self-help, psychology, or anything timeless.
