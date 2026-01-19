@@ -11,7 +11,12 @@ import pandas as pd
 def update_travel_schedule() -> None:
     """Update where.md travel schedule (2023+) from ~/Dropbox/Travel/travel.csv."""
 
-    df = pd.read_csv(Path.home() / "Dropbox" / "Travel" / "travel.csv")
+    source = Path.home() / "Dropbox" / "Travel" / "travel.csv"
+    if not source.exists():
+        print(f"No {source}. Not updating where.md")
+        return
+
+    df = pd.read_csv(source)
     df["Date"] = pd.to_datetime(df["Date"], format="%d-%b-%y")
     df = df.sort_values("Date", ascending=False)
     df = df[df["Date"].dt.year >= 2023]
