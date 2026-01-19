@@ -7,6 +7,18 @@ classes: wrap-code
 
 Prompt fragments useful to add to other prompts
 
+## Pre-mortems
+
+```markdown
+What kills things like this?
+If a year later this CLEARLY failed, how might that have happened?
+What's the first thing that breaks with scale?
+What's the biggest assumption that could fail?
+Who loses if this succeeds, and how will they stop it?
+What excuses abandon these?
+How would one make this fail?
+```
+
 ## Brainstorming
 
 ```markdown

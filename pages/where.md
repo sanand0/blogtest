@@ -1,0 +1,132 @@
+---
+title: Where
+date: 2026-01-17T18:26:06+05:30
+---
+
+Here's my travel schedule.
+
+<!-- Updated via scripts/where.py -->
+<!-- TRAVELSTART -->
+
+- Fri 13 Mar 2026: Hyderabad
+- Mon 26 Jan 2026: Singapore
+- Fri 23 Jan 2026: Chennai
+- Mon 19 Jan 2026: Hyderabad
+- Mon 12 Jan 2026: Chennai
+- Sun 14 Dec 2025: Singapore
+- Thu 11 Dec 2025: Delhi
+- Mon 08 Dec 2025: Chennai
+- Thu 04 Dec 2025: Hyderabad
+- Mon 01 Dec 2025: Chennai
+- Mon 10 Nov 2025: Singapore
+- Sat 01 Nov 2025: Chennai
+- Thu 30 Oct 2025: Hyderabad
+- Mon 27 Oct 2025: Chennai
+- Mon 29 Sep 2025: Singapore
+- Wed 17 Sep 2025: Chennai
+- Fri 12 Sep 2025: Bangalore
+- Sun 31 Aug 2025: Singapore
+- Wed 27 Aug 2025: Hanoi
+- Sat 23 Aug 2025: Ho Chi Minh City
+- Wed 20 Aug 2025: Bangalore
+- Sat 16 Aug 2025: Chennai
+- Wed 16 Jul 2025: Singapore
+- Sun 29 Jun 2025: Chennai
+- Wed 25 Jun 2025: Bangalore
+- Mon 23 Jun 2025: Pune
+- Sat 21 Jun 2025: Chennai
+- Tue 13 May 2025: Singapore
+- Fri 09 May 2025: Chennai
+- Tue 06 May 2025: Hyderabad
+- Tue 29 Apr 2025: Chennai
+- Fri 28 Mar 2025: Singapore
+- Sat 22 Mar 2025: Chennai
+- Thu 20 Mar 2025: Hyderabad
+- Sat 15 Mar 2025: Chennai
+- Wed 12 Mar 2025: Bangkok
+- Tue 25 Feb 2025: Singapore
+- Fri 21 Feb 2025: Hyderabad
+- Thu 20 Feb 2025: Mumbai
+- Mon 17 Feb 2025: US-Newark
+- Thu 13 Feb 2025: US-San Francisco
+- Sun 09 Feb 2025: US-Newark
+- Thu 30 Jan 2025: Chennai
+- Mon 16 Dec 2024: Singapore
+- Wed 04 Dec 2024: Chennai
+- Sat 23 Nov 2024: Singapore
+- Sat 16 Nov 2024: Chennai
+- Tue 12 Nov 2024: Mumbai
+- Tue 01 Oct 2024: Seoul
+- Mon 30 Sep 2024: Singapore
+- Tue 24 Sep 2024: Chennai
+- Sun 22 Sep 2024: Mumbai
+- Thu 19 Sep 2024: Bangalore
+- Sun 15 Sep 2024: Hyderabad
+- Tue 20 Aug 2024: Singapore
+- Fri 16 Aug 2024: Chennai
+- Thu 15 Aug 2024: Bangalore
+- Mon 12 Aug 2024: Hyderabad
+- Sat 10 Aug 2024: Chennai
+- Fri 09 Aug 2024: Delhi
+- Wed 07 Aug 2024: Bangalore
+- Mon 15 Jul 2024: Singapore
+- Fri 05 Jul 2024: Chennai
+- Wed 03 Jul 2024: Hyderabad
+- Wed 26 Jun 2024: Bangalore
+- Mon 24 Jun 2024: Bangalore
+- Tue 18 Jun 2024: Chennai
+- Sun 16 Jun 2024: Hyderabad
+- Fri 14 Jun 2024: Singapore
+- Mon 03 Jun 2024: Tokyo
+- Thu 18 Apr 2024: Singapore
+- Thu 04 Apr 2024: Chennai
+- Tue 02 Apr 2024: Hyderabad
+- Thu 28 Mar 2024: Chennai
+- Mon 26 Feb 2024: Singapore
+- Sat 24 Feb 2024: Chennai
+- Thu 22 Feb 2024: Hyderabad
+- Fri 16 Feb 2024: Chennai
+- Thu 15 Feb 2024: Pune
+- Wed 14 Feb 2024: Pune
+- Sun 11 Feb 2024: Chennai
+- Sat 27 Jan 2024: Singapore
+- Sat 20 Jan 2024: Chennai
+- Thu 18 Jan 2024: Bangalore
+- Wed 10 Jan 2024: Bangalore
+- Sun 31 Dec 2023: Chennai
+- Fri 29 Dec 2023: Kuala Lumpur
+- Thu 28 Dec 2023: Kuala Lumpur
+- Sat 11 Nov 2023: Singapore
+- Sun 29 Oct 2023: Hyderabad
+- Sat 14 Oct 2023: Singapore
+- Sun 01 Oct 2023: Chennai
+- Fri 29 Sep 2023: Hyderabad
+- Tue 26 Sep 2023: Bangalore
+- Wed 30 Aug 2023: Singapore
+- Fri 25 Aug 2023: Chennai
+- Thu 24 Aug 2023: Hyderabad
+- Wed 23 Aug 2023: Hyderabad
+- Wed 09 Aug 2023: Singapore
+- Sat 29 Jul 2023: Chennai
+- Mon 24 Jul 2023: Hyderabad
+- Fri 21 Jul 2023: Chennai
+- Wed 19 Jul 2023: Mumbai
+- Sat 15 Jul 2023: US-San Francisco
+- Thu 06 Jul 2023: US-Newark
+- Mon 29 May 2023: Singapore
+- Sat 27 May 2023: Chennai
+- Wed 24 May 2023: Bangalore
+- Fri 19 May 2023: Chennai
+- Wed 17 May 2023: Delhi
+- Thu 04 May 2023: Chennai
+- Mon 01 May 2023: Bangalore
+- Sun 23 Apr 2023: Chennai
+- Thu 20 Apr 2023: Hyderabad
+- Sun 26 Feb 2023: Singapore
+- Mon 20 Feb 2023: Hyderabad
+- Sat 04 Feb 2023: Chennai
+- Wed 25 Jan 2023: Hyderabad
+- Mon 23 Jan 2023: Chennai
+- Thu 05 Jan 2023: Bangalore
+
+<!-- TRAVELEND -->

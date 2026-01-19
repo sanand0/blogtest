@@ -5,6 +5,7 @@ set -e
 
 # Build content
 uv run scripts/build_content.py
+uv run scripts/where.py
 
 # Build
 mise x hugo -- hugo
