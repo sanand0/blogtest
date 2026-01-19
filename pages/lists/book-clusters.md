@@ -328,3 +328,4 @@ TODO
 - Pluto's Republic (Peter Medawar, 1983)
 - The Science of the Artificial (Herbert A. Simon, 1969)
 - Weapons and Hope (Freeman Dyson, 1984)
+- Faraday, Maxwell, and the Electromagnetic Field: How Two Men Revolutionized Physics (Nancy Forbes & Basil Mahon, 2017)
