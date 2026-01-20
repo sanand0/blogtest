@@ -44,3 +44,4 @@ This runs:
 ## Frontmatter
 
 - `build: { list: never, render: always }` ensures that posts/pages are not listed _anywhere_ blog index but are still rendered.
+- `classes: wrap-code` adds the `wrap-code` class to the post's main `<article>` element, which applies CSS to wrap long code blocks.

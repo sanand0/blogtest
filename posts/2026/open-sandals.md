@@ -41,13 +41,13 @@ I've been buying the [_same_ sandals](https://www.amazon.in/dp/B00IZ9801O) for 8
 - 29 Jan 2025
 - 5 Nov 2025
 
-They work remarkably well. **Comfortable** (no break-in period, good to walk in, doesn't slip off.) **Durable** (though the bottom center wearng out after 6 months.) **Cheap** (and staying cheap, around ₹500 over the years.) **Maintainable** (just wash them.) **All-weather** (though socks helps when snowing.) **Stylish** (well, at least to me.)
+They work remarkably well. **Comfortable** (no break-in period, good to walk in, doesn't slip off.) **Durable** (though the bottom center wearing out after 6 months.) **Cheap** (and staying cheap, around ₹500 over the years.) **Maintainable** (just wash them.) **All-weather** (though socks helps when snowing.) **Stylish** (well, at least to me.)
 
 The only hitch is that other people don't always like them. Usually [Naveen](https://www.linkedin.com/in/naveengattu/) gives me his spares for important meetings or TV. We even kept a spare for me at our Hyderabad office though I never used them.
 
 Where I get into trouble is usually in places with... "too much atmosphere".
 
-![Calvin eats at a restaurant with too much atmosphere](https://picayune.uclick.com/comics/ch/1989/ch890203.gif)
+![Remember the Calvin & Hobbes strip where Calvin eats at a restaurant with "too much atmosphere"?](https://picayune.uclick.com/comics/ch/1989/ch890203.gif)
 
 On 31 Dec, my wife booked us for a New Year party at [Ce La Vi](https://sg.celavi.com/) - the tallest spot in Singapore, and with a great view of the fireworks.
 
