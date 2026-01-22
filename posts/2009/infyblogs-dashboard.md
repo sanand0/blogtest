@@ -11,7 +11,11 @@ I just finished [Stephen Few](http://www.perceptualedge.com/)'s book on [Informa
 
 So I took a shot at designing a dashboard based on those principles, and made this dashboard for [InfyBLOGS](http://blogs.ad.infosys.com/).
 
-![Infyblog dashboard](/blog/assets/infyblogs-dashboard.webp)
+![](/blog/assets/infyblogs-dashboard.webp)
+
+![](/blog/assets/infy-blog-comment-network.webp)
+
+![](/blog/assets/infy-blog-social-recommendations.webp)
 
 You can try for yourself. Go to <http://www.s-anand.net/reco/>\
 ****Note: This only works within the Infosys intranet.****
@@ -269,7 +273,7 @@ At nearly 2,500 words, this is the longest post I've ever written. It took a day
 
 **Please hack it**
 
-The code is at [http://infyblog-dashboard.googlecode.com/](http://infyblog-dashboard.googlecode.com/ "http://infyblog-dashboard.googlecode.com/"). You can join the project and make changes. Leave a comment, mail me or call me.
+[Download the code and data](https://files.s-anand.net/blog/a/reco.tar.gz).
 
 ---
 

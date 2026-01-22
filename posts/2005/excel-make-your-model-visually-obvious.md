@@ -22,7 +22,7 @@ The fixed blue line shows the number of people required. The slider on the right
 
 We showed the management this tradeoff. They said, "We can recruit 30 people next year". That implied the moderate ramp-up scenario, and a cost saving of 27%. Total time spent in making decision: 2 minutes.
 
-Creating a slider-based model is quite useful. You can download a [US Treasury yields](https://files.s-anand.net/images/Animation.xls) example to see how this is done. As you move the slider, the yield curve moves over time, showing how it has fluctuated. The trick is to:
+Creating a slider-based model is quite useful. You can download a [US Treasury yields](https://files.s-anand.net/blog/a/Animation.xls) example to see how this is done. As you move the slider, the yield curve moves over time, showing how it has fluctuated. The trick is to:
 
 1. **build the entire model based on a single cell**. Cell H1 in this example acts as the index to the dates.
 2. **create a slider**. Go to View - Toolbars - Control Toolbox and add a slider.

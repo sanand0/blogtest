@@ -6,7 +6,11 @@ categories:
 wp_id: 2854
 ---
 
-<p>My cousin’s working on an interesting project at the <a href="http://www.agastya.org/">Agastya Foundation</a>. A group of scientifically inclined volunteers go around on a bike to schools, taking with them a science lab kit, and show children in rural schools a variety of experiments.</p> <p><iframe height="450" src="//www.youtube.com/embed/BGyHF7pvtw8?rel=0" frameborder="0" width="600" allowfullscreen></iframe></p> <p>Google will award this and 3 other projects (out of 10) Rs 3 crores based on public votes. You can vote for and read more at <a title="https://impactchallenge.withgoogle.com/india2013#/agastya|vote" href="https://impactchallenge.withgoogle.com/india2013#/agastya|vote">https://impactchallenge.withgoogle.com/india2013#/agastya|vote</a></p>
+My cousin’s working on an interesting project at the [Agastya Foundation](http://www.agastya.org/). A group of scientifically inclined volunteers go around on a bike to schools, taking with them a science lab kit, and show children in rural schools a variety of experiments.
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/BGyHF7pvtw8" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Google will award this and 3 other projects (out of 10) Rs 3 crores based on public votes. You can vote for and read more at [https://impactchallenge.withgoogle.com/india2013#/agastya|vote](https://impactchallenge.withgoogle.com/india2013#/agastya|vote "https://impactchallenge.withgoogle.com/india2013#/agastya|vote")
 
 ---
 

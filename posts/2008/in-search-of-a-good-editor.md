@@ -45,7 +45,7 @@ wp_id: 51
 - **Vinay** _29 May 2008 12:00 pm_:
   Anand:\
   \
-  This is in response to your blog post at http://s-anand.net/In\_search\_of\_a\_good\_editor.html\
+  This is in response to your blog post at http://s-anand.net/In_search_of_a_good_editor.html\
   \
   For some reason, couldn't post my comment through your web site.\
   \

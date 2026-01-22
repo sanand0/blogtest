@@ -16,7 +16,7 @@ If you’re a well-paid professional in an Indian IT services firm, your freedom
 - You’re searched on your way in and out.
 - You need your boss’s permission to leave.
 - You work on what you’ve been told to work on.
-- [You cannot be trusted to freely access the Internet](/blog/test-post/).
+- [You cannot be trusted to freely access the Internet](/blog/web-freedom-survey/).
 
 The last bit worries me the most. Perhaps because in all the other cases, there are humans I can put to shame or fight, face-to-face. Or because I am a Net addict. Don’t know why.
 

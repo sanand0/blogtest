@@ -51,7 +51,7 @@ I consider the following functions the a basic set for list processing.
 - STRSPLIT(separator, string) splits the string into a list, using a separator
 - MVLOOKUP(value, lookup, result) looks up value in "lookup", and returns the corresponding MULTIPLE values from "result"
 
-I created these UDFs. You can [download the functions](https://files.s-anand.net/images/Macros.xls) and play with them. Below are some tasks that you can do with them, that are difficult otherwise.
+I created these UDFs. You can [download the functions](https://files.s-anand.net/blog/a/Macros.xls) and play with them. Below are some tasks that you can do with them, that are difficult otherwise.
 
 - Get the file name from a path.
   ```excel
@@ -113,7 +113,7 @@ I created these UDFs. You can [download the functions](https://files.s-anand.net
 =COUNT(UNIQUE(MVLOOKUP(A1,Lookup_Range,Return_Range)
 ````
 
-This is a small sample. The power of list processing is phenomenal, especially when combined with array formulas. [Download these macros](https://files.s-anand.net/images/Macros.xls) and play with them!
+This is a small sample. The power of list processing is phenomenal, especially when combined with array formulas. [Download these macros](https://files.s-anand.net/blog/a/Macros.xls) and play with them!
 
 ---
 

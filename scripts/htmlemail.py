@@ -133,8 +133,8 @@ def markdown_to_email_html(markdown_file: Path) -> tuple[str, str]:
     html_content = resolve_links(html_content, base_url)
 
     # Append home page link at the end
-    home_link = '<hr><p style="margin-top: 2em;"><a href="https://www.s-anand.net/">From: s-anand.net</a></p>'
-    html_content = html_content + home_link
+    # home_link = '<hr><p style="margin-top: 2em;"><a href="https://www.s-anand.net/">From: s-anand.net</a></p>'
+    # html_content = html_content + home_link
 
     # Generate Pygments CSS for syntax highlighting
     formatter = HtmlFormatter(style="default")

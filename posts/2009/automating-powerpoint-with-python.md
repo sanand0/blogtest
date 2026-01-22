@@ -122,7 +122,7 @@ reader = csv.reader(urllib2.urlopen(url))
 data = list((int(s.replace(",", "")), b.decode("utf8")) for b, s in reader)
 ```
 
-I created a simple Treemap class based on the [squarified algorithm](http://www.win.tue.nl/~vanwijk/stm.pdf) — you can play with the [source code](http://www.s-anand.net/treemap.zip). This Treemap class can be fed the data in the format we have, and a draw function. The draw function takes (x, y, width, height, data\_item) as parameters, where data\_item is a row in the data list that we pass to it.
+I created a simple Treemap class based on the [squarified algorithm](http://www.win.tue.nl/~vanwijk/stm.pdf) — you can play with the [source code](https://files.s-anand.net/blog/a/treemap.zip). This Treemap class can be fed the data in the format we have, and a draw function. The draw function takes (x, y, width, height, data\_item) as parameters, where data\_item is a row in the data list that we pass to it.
 
 ```python
 def draw(x, y, w, h, n):
@@ -142,7 +142,7 @@ from Treemap import Treemap
 Treemap(720, 540, data, draw)
 ```
 
-Try running the [source code](http://www.s-anand.net/treemap.zip). You should have a single slide in PowerPoint like this.
+Try running the [source code](https://files.s-anand.net/blog/a/treemap.zip). You should have a single slide in PowerPoint like this.
 
 <a href="/blog/assets/flickr-treemap-plain_3407796888_o-jpg.webp">![Plain Treemap](/blog/assets/flickr-treemap-plain_3407796888_o-jpg.webp)</a>
 

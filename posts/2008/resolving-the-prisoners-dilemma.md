@@ -117,7 +117,7 @@ If you're ever in a situation where cooperation helps everyone, but it's not in 
 - **[S Anand](http://www.s-anand.net/)** _10 Dec 2010 2:56 pm_:
   That's an interesting point, Prabu: "group games are different". Totally so.
   Your Never Cooperate algo, as you pointed out, always wins or draws.
-  Tit-for-tat, interestingly, NEVER WINS AN INDIVIDUAL GAME. You can prove it, but [this file is a demonstration](http://files.s-anand.net/images/tit-for-tat.xls): it plays random strategies out against Tit-for-tat. Tit for tat never wins.
+  Tit-for-tat, interestingly, NEVER WINS AN INDIVIDUAL GAME. You can prove it, but [this file is a demonstration](http://files.s-anand.net/blog/a/tit-for-tat.xls): it plays random strategies out against Tit-for-tat. Tit for tat never wins.
   Maybe the lesson here is a stronger version of "Losing the battle, winning the war". Perhaps it's **essential** to lose the battle to win the war. (I'm probably oversimplifying, or in extrapolating analogies... anyway, just wanted to say: yes, never co-operate beats tit-for-tat on an individual game. Many other such strategies exist too. As you mentioned, group games are quite different)
 
 <!-- wp-comments-end -->

@@ -16,15 +16,15 @@ Wikipedia says the human [voice frequency](http://en.wikipedia.org/wiki/Voice_fr
 
 Kids can hear frequencies from 20 Hz to 20 kHz, while adults hear only up to 12-14 kHz ([Frequency Range of Human Hearing](http://hypertextbook.com/facts/2003/ChrisDAmbrose.shtml)).
 
-To check the lower frequency limit, I created an MP3 with [sounds from 1 Hz to 100 Hz](/blog/assets/lower.mp3) at 1 second intervals. Just play the sound, and see when you **start** hearing something. (Of course, whether you can hear something also depends on the volume of your speaker, the ambient noise, etc.) I could hear nothing for the first 40 seconds: so I can't hear frequencies lower than 40 Hz.
+To check the lower frequency limit, I created an MP3 with [sounds from 1 Hz to 100 Hz](https://files.s-anand.net/blog/a/lower.mp3) at 1 second intervals. Just play the sound, and see when you **start** hearing something. (Of course, whether you can hear something also depends on the volume of your speaker, the ambient noise, etc.) I could hear nothing for the first 40 seconds: so I can't hear frequencies lower than 40 Hz.
 
 **PS: Don't be worried if you don't hear anything for a while. You're not supposed to!** Keep the volume at full level, though.
 
-To check the upper frequency limit, I created this MP3 with [sounds from 1 kHz to 20 kHz](/blog/assets/upper.mp3) in 1 second intervals. Just play the sound, and see when you **stop** hearing anything. I couldn't hear anything beyond 14 seconds: so I can't hear frequencies beyond 14 kHz.
+To check the upper frequency limit, I created this MP3 with [sounds from 1 kHz to 20 kHz](https://files.s-anand.net/blog/a/upper.mp3) in 1 second intervals. Just play the sound, and see when you **stop** hearing anything. I couldn't hear anything beyond 14 seconds: so I can't hear frequencies beyond 14 kHz.
 
 **How do sounds differ?**
 
-I took this [audio file of someone reciting vowels](/blog/assets/vowels.mp3) and plotted a spectrogram (below). A [spectrogram](http://www.google.com/search?q=define%3Aspectrogram) plots time on the X axis and frequency on the Y-axis.
+I took this [audio file of someone reciting vowels](https://files.s-anand.net/blog/a/vowels.mp3) and plotted a spectrogram (below). A [spectrogram](http://www.google.com/search?q=define%3Aspectrogram) plots time on the X axis and frequency on the Y-axis.
 
 [![Vowels spectrogram](/blog/assets/flickr-vowels-spectrogram_241586415_o-jpg.webp)](/blog/assets/flickr-vowels-spectrogram_241586415_o-jpg.webp)
 

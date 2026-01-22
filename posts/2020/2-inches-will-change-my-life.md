@@ -67,7 +67,7 @@ wp_id: 3002
 <figure class="wp-block-table is-style-stripes"><table><tbody><tr><td></td><td class="has-text-align-right" data-align="right"><strong>Now</strong></td><td class="has-text-align-right" data-align="right"><strong>New</strong></td><td class="has-text-align-right" data-align="right"><strong>Change</strong></td><td><strong>Benefit</strong></td></tr><tr><td>Longer stride</td><td class="has-text-align-right" data-align="right">29"</td><td class="has-text-align-right" data-align="right">31"</td><td class="has-text-align-right" data-align="right">2"</td><td>Builds character?</td></tr><tr><td>Faster walk (kmph)</td><td class="has-text-align-right" data-align="right">4.5</td><td class="has-text-align-right" data-align="right">5.0</td><td class="has-text-align-right" data-align="right">0.5</td><td>Better cardio exercise</td></tr><tr><td>Time to 10K steps (min)</td><td class="has-text-align-right" data-align="right">84</td><td class="has-text-align-right" data-align="right">77</td><td class="has-text-align-right" data-align="right">-8</td><td>Less scolding from wife</td></tr></tbody></table></figure>
 <p><strong>PostScript</strong>: This analysis was done in Excel. Download see the sheet below.</p>
 
-[Walking Excel sheet](https://files.s-anand.net/images/walking.xlsx) (Download)
+[Walking Excel sheet](https://files.s-anand.net/blog/a/walking.xlsx) (Download)
 
 ---
 
@@ -82,4 +82,4 @@ wp_id: 3002
 - **[My Year in 2022 - S Anand](/blog/my-year-in-2022/)** _31 Dec 2024 4:31 pm_ _(pingback)_:
   […] Walk 10,000 steps daily. […]
 
-<!-- wp-comments-end -->
+<!-- wp-comments-end -

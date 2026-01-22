@@ -95,7 +95,7 @@ That's it! Now that this function is defined, just pass it the category and keyw
 
 ---
 
-Here's the [spreadsheet](https://files.s-anand.net/images/AmazonPrices.xls) for you to play around with.
+Here's the [spreadsheet](https://files.s-anand.net/blog/a/AmazonPrices.xls) for you to play around with.
 
 ---
 

@@ -31,7 +31,7 @@ wp_id: 21
     <embed src="/gapminder.swf" quality=high bgcolor="#ffffff" width="485" height="342" name="Gapminder.swf" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
 </object>
 
-And here's the <a href="https://files.s-anand.net/images/gapminder.xls">Excel file</a>.
+And here's the <a href="https://files.s-anand.net/blog/a/gapminder.xls">Excel file</a>.
 
 ---
 

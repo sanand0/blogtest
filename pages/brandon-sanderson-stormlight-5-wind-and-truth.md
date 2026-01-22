@@ -1,0 +1,548 @@
+---
+title: Brandon Sanderson - Stormlight 5 - Wind and Truth
+build: { list: never, render: always }
+---
+
+- To add somewhere: There were 7-8 Honorspren, 1 cultivationspren, 1-2 of both
+
+## Prologue
+
+https://chatgpt.com/c/68f216a3-e740-8323-a197-59ba257dc6b2
+
+- Gavilar saw ALL 9 Honorblades!
+  - So, BEFORE one was stolen? No, it was a vision.
+  - Interesting... I thought Nale had his Honorblade. He might not?
+- Gavilar spoke with the Stormfather!?
+  - ... who wanted him to be his champion!?
+  - ... and assumed he'd take Taln's place after returning from Braize
+  - #Q There are words to become a herald? #ANS No, it comes from the Oathpact
+  - #Q Stormfather probably has tried / had several champions before? #ANS No
+- Gavilar is quite a manipulator!
+- Kelsier
+  - Uses Seons to communicate across planets
+  - #Q ... is spiked in one eye!? #ANS Maybe iron/steel hemalurgical spike
+  - #Q ... wants to transport stormlight. Why? #ANS To reduce local shard dependency for operations.
+- Nale is the Makabaki accompanying Kelek.
+- #Q Kelek caused the recreance!? "I made them ... go wrong ..."? #ANS No
+- #Q What did Kelek do, then? “Before … I made them … go wrong …” #ANS Restoring voidbringers. Betraying Ba-Ado-Mishram.
+- Ba-Ado-Mishram can grant forms. #Q Kelsier wants that secret? #ANS Kelsier wants investiture delinked from shards. Ba-Ado-Mishram did _exactly_ that.
+- #Q Who is Axindweth, the off-world scholar Gavilar worked with? #ANS Terris ferruchemist worldhopper, maybe Set
+- Gavilar (and Amaram) used gemstones in aluminum boxes to move voidspren (and voidlight) between realms. #Q How exactly did that trigger the return of the voidbringers? #ANS It didn't. It was too small a volume of light to matter. Axindweth and Ulim triggered the return using stormforms to sing the Everstorm into being.
+- Ba-Ado-Mishram tried to replace Odium, give Voidbringer powers, was captured by radiants, and parshmen were created.
+- Gavilar knew Vasher as Vasher!
+- "My experiment was a success. I have the weapon." Gavilar had anti-voidlight. Vasher figured out how to make it.
+- Taravangian met Gavilar before his death. Before visiting Cultivation.
+- Taravangian's mother spoke a death rattle mentioning the Everstorm.
+- #Q Which herald died the night Gavilar died? Chana? Did THAT trigger the Oathpact breaking? #ANS Maybe Chana (at Shallan's hands!?) but Jezrien's death is what broke the Oathpact.
+- #Q Did Taln break? Or was it Chana's death and her breaking that brought them back? #ANS Taln didn't break. It wasn't a Herald's death either. It was the Everstorm.
+- Gavilar was giving the anti-voidlight stone and message to the Stormfather, not Szeth.
+- The initials of the The Stormlight Archive books are symmetrical: TWoK WoR O RoW KoWT
+
+## Day 1
+
+- Chapter 1. Unfamiliar Ground
+  - Just 10 more days! This SERIES is going to end!!
+  - The wind ITSELF spoke to Kaladin!
+  - Ah, the radiants thought the spren would SURVIVE the recreance.
+- Chapter 2. Taking the Next Step
+  - #Q So, is there a dungspren or not?
+- Chapter 3. The Cost of Heroism
+  - Kelek and the radiants captured Ba-Ado-Mishram and hid her in the Spiritual Realm!
+  - Deadeyes were created because Ba-Ado-Mishram was imprisoned!
+  - #Q: The spren will come in late with strong support? (I guess it will)
+- Chapter 4. Listening
+  - Adonalsium created the Old Magic on Roshar!
+- Chapter 5: What Might Still Be
+  - #Q Why DID the Tukari assault Notum on his ship?
+  - #AQ Why was there a rule against bonding 2 spren? What powers does that give? Does Shallan really access Fortune? (No. She's Chana's daughter.)
+- Chapter 6: Nobility. Dalinar makes Kaladin Urithru's heir.
+- Chapter 7: Lost Blades. Shardblades vanish when forgotten.
+  - So, you can convert energy, light, investiture, matter, maybe even sound, all into each other.
+- Chapter 8: The Coming Storm. Kaladin plans goodbyes. Shallan & team are attacked.
+  - #Q Did Shallan _absorb_ Drehy's lashing? Can they do that?
+- Chapter 9: Tossing Spears. Sigzil tosses recruits spears out of the window. Radiant manifests physically and attacks Abidi.
+- Chapter 10: Book-quartermaster. Syl borrows The Way of Kings
+  - So, spren can move stuff in the real world.
+- Chapter 11: Musicspren
+  - #Q Was the Musicspren that nuzzled Adolin his dead horse?
+- Chapter 12: Beyond the Brands. Kaladin gets the Bridge Four tattoo
+- Chapter 13: Promise. Kaladin promises drinks with Shallan at the end.
+- Interlude 1: Kalak.
+  - Felt is a Ghostblood from Nalthis
+  - Ala, the Seon is the spy! Might have been the same Seon Kelsier used in the prologue.
+  - Iyatil and Kelsier know that Ba-Ado-Mishram is in the Spiritual Realm (but not where)
+- Interlude 2: Odium
+  - Odium is "forbidden from taking any who are not fully given to you" by the Oathpact.
+  - Breaking the Oathpact opens Odium to outside attack.
+  - #Q What is Taravangian planning? What is Cultivation planning?
+
+## Day 2
+
+- Chapter 14: Not Asleep. Wit discovers his memory loss.
+  - Wit stores his memories in breath, not metals.
+  - Towerlight knocks fused unconscious and strengthens Radiants. Didn't we see the opposite of that used on Kaladin at the start of Rhythm of War?
+  - Frost the Dragon is the old friend Wit asked help from
+- Chapter 15: Passionspren. Attacks on the Stattered Plains, Azir, and Theylen City
+  - Cultivation talks to Dalinar!
+- Chapter 16: Vague Promises and Hints
+  - #Q Who are the 2 new South Scadrian Ghostbloods?
+  - Honor's power is searching for a vessel!
+  - #AQ Where exactly is Honor's power? (Moving in the Spiritual Realm)
+- Chapter 17: A Tough Kind of Love. Shallan looks for Ghostbloods
+- Chapter 18: An Exception to the Rules
+  - Frost has a sister!
+  - #Q How is Wit talking to Frost's sister through a bone?
+- Chapter 19: Ruled by Voices
+  - Szeth is forbidden from using Division
+  - Szeth does not know his highspren's name
+- Chapter 20: Three Vital Points of Defense. Adolin will defend Azir with a small force. Jasnah - Thaylen City. Sigzil - the Shattered Plains.
+- Chapter 21: Incomplete Truths
+  - #Q Is the _Sibling_ or the Nightwatcher the narrator in Day 1, The Wind and the Truth?
+  - #Q Is Scadrial where a shard's power was all around?
+  - #AQ In which world was the shard's power left to rot in Shadesmar? (Sel)
+- Chapter 22: Looking for a Third Option. Dalinar decides on the spiritual realm
+  - Oh, so plants on Roshar retract. The ground is mostly stone. Missed that.
+  - #Q What's "Silverlight Mercantile"?
+- Chapter 23: Compromise
+  - #AQ Is what happened at Threnody because the shard's power did not find a vessel? (Partly. Also, the fight between Odium and Uli Da.)
+- Chapter 24: In the Dancing Ring. Szeth's backstory
+  - Ah, Szeth's sister had a flute. Kaladin has a flute. It's a wind instrument. It's all coming together.
+  - #Q Why don't the Shin touch stone?
+- Chapter 25: Purposeful Danger. Shallan penetrates Ghostbloods. Navani will join Dalinar into the spiritual realm.
+  - #Q What were the objects in Iyatil's trophy case?
+    - A silvery horn or claw from some great beast.
+    - A chunk of light red crystal, like pink salt—though of a deeper, more vibrant color.
+    - A violet stone egg, partly crystalline, with silver swirling around its shell.
+    - A fat, succulent leaf that pulsed red and seemed to radiate heat.
+    - A vial of pale sand she now recognized as having a very practical application.
+  - Sja-anat _does_ recognize Shallan.
+  - #Q Was this Kelsier? Unlikely... "... a mortal did give up the power once. It proved to be the wrong choice, ..."
+- Chapter 26. Hunting the Hunter. Shallan learns secrets and is found out
+  - Mraize and Iyatil are radiants, bonded with Sja-anat!
+  - Iyatil thinks finding Ba-Ado-Mishram will control the Shards.
+- Chapter 27: What is right? Szeth's parents move the stone he found
+- Chapter 28. Obstacle. Iyatil shoots Shallan with anti-stormlight and escapes into Shadesmar. Szeth and Kaladin find an unmade in Shinovar
+  - If a Radiant does not absorb Stormlight when attacked with anti-Stormlight, their spren can survive.
+- Chapter 29. Secret Handshakes. Lift decides to follow Dalinar
+- Chapter 30. Not Alone. Renarin AND Rlain see Ba-Ado-Mishram in a vision.
+- Chapter 31. Shallan looks for Mraize & Iyatil near Urithru. Dalinar & Navani prepare for the spiritual realm.
+  - So, Shin workship stones because migrants carried stones from Ashyn to Roshar.
+  - Wit was there during the migration from Ashyn to Roshar!
+- Chapter 32. Cords of Light. Mraize throws an anti-Stormlight dagger into Dalinar's perpendicularity.
+- Chapter 33. The Conflux of All Darkness and Sorrow.
+  - The cremlings are still watching.
+  - #AQ Oh, so Honor's remnants are in Shinovar? (No)
+  - #AQ Did Ishar actually take over Honor's remnants? (No)
+- Interlude 3: El. El kills Jezrien trapped in the gemstone and suggests an Elsegate to capture the Shattered Plains.
+- Interlude 4: The Wrong Lesson.
+  - Part of why the shards shattered Adonalsium was that one solution wouldn't work for all. Let each god rule their plants
+  - Taking any 2 shards might cause a vessel to function poorly. #Q How did Adonalsium function, then?
+  - Valor is a shard. Hidden from Odium.
+  - Reason is the other hidden shard.
+
+## Day 3
+
+- Chapter 34: For the good of all Roshar. Adolin plans the defense of Azir.
+- Chapter 35: Memories like Wine. Szeth finds his home.
+  - #Q A dawnshard passed? Which dawnshard? Change? What's "passing"? To Rysn? Or something else?
+  - Szeth's highspren is _testing_ his abilities. Weird.
+- Chapter 36: Correct Answers. Young Szeth learns to try new things.
+- Chapter 37: People Who Build. Adolin, May, Aladar discuss.
+- Chapter 38: Those Who Subtract. Young Szeth kills a soldier.
+  - So, there's an unmade in Shinovar. Makes people do bad things.
+- Chapter 39: Between Two Realms. The attack on Azimir begins
+  - Maya can see into Shadesmar
+  - #Q Who is the narrator that can see future winds?
+  - "Direforms" are 7' tall, strong and fast
+- Chapter 40: Stuko Stem. Szeth prepares to find an elder. Adolin bulldozes into the battle.
+  - The blades have REJECTED the heralds!?
+  - So, Szeth had warned the Shin about the Unmade.
+  - The Shin knew the heralds were around and Odium was coming. They trained for Taln's return.
+  - So, Szeth had _earned_ the right to his Honorblade.
+- Chapter 41: Skybreaker. Szeth beats Rit. Adolin beats Abidi.
+  - #Q Well of Control?
+  - #Q "fragments of the dead moon"? Moon scepter?
+  - #Q What was Rit?
+- Chapter 42: Celebrations.
+  - So, the Shin swapped Taln's swoed. #Q How?
+  - Szeth fought for and win Jezrien's honorblade and was exiled with it
+- Interlude 5: Baxil
+  - Axies the Collector is an Aimian and collects spens
+  - His skin is tattooed with a book
+  - Baxil has visited the Nightwatcher
+  - He used to work for Shalash
+  - #Q What spren did Baxil give Axies?
+- Interlude 6: The Weight of Information
+  - Odium might leave Taravangian for Ba-Ado-Mishram!
+  - #Q Did it partly do that before?
+  - Dova (Battah the Herald, Elsecaller?) was serving as an ardent at Kharbranth. A member of the Diagram!
+  - Dova can create crystal eyes that can see investiture.
+
+## Day 4
+
+- Chapter 43: The Origin of Songs. Dalinar and Navani await humans landing on Roshar.
+  - Singers know of Adonalsium. Were divided on Honor vs Adonalsium.
+- Chapter 44: Semblance of Reality. Shallan, Renarin, etc. are together.
+  - Shallan still has anti-Light
+- Chapter 45. Self-Mastery and Control.
+  - Nightblood persuaded the Honorblade not ot cut cloth!
+- Chapter 46. Alaswha. Humans arrive on Roshar.
+  - #Q Who is Ahu, the beggar, who drank with Dalinar AND was at the migration from Ashyn?
+  - #Q How did Ishar open a portal across worlds? Why can't others do that now?
+- Chapter 47. Failure Points. Adolin repels an attack. Sigzil plans a defence.
+  - Vienta is Sigzil's spren
+- Chapter 48. A Talent. Young Szeth will be trained as a soldier.
+- Chapter 49: A Realm of Possibilities. Shallan fails to kill Mraze.
+  - #Q Maybe Tanavast behaved dishonorably?
+- Chapter 50: The Price of Peace. Navani's vision ends as she takes Ash's ribbon. Adolin visits the injured.
+  - #Q The portal from Ashyn was an Elsegate?
+  - #Q What did Wit mean by "Is this how the Iriali feel all the time?" #ANS The Iriali may be worshipping the yellow/gold splinter of Virtuosity's cyan/magenta hion lines. [ChatGPT](https://chatgpt.com/c/6944d229-3b68-8323-a7e8-9824221b7028)
+- Chapter 51. Test. Young Szeth and family join the army.
+  - #Q Spren of the stone? What exactly spoke to Szeth?
+- Chapter 52. A Perfect Moment. Adolin trains Yanagawn in shardplate. Kaladin dances with Syl and creates music.
+  - "Don’t ever get mad at a person you’re sparring with, especially when they defeat you. You need to be the kind of person the best duelists _want_ to fight. If you only ever face people you can beat, then you’ll never improve."
+  - "Sometimes a hypocrite is just a man in the process of changing."
+- Chapter 53. Makari Sin. Szeth defeats Elsecaller and Edgedancer in Shadesmar.
+  - Nightblood looks golden in Shadesmar
+  - Honorblades are mildly sentient and Nightblood can talk to them
+- Chapter 54. A Friend. Shallan awaits the next vision. Adolin convinces Noura Yanagawn needs a friend.
+- Interlude 7: Moash. Moash can now see investiture. Spren.
+  - #Q Why does Dova/Battah have a _rhythm_ of light?
+- Interlude 8: The Only Way. Taravangian is willing to sacrifice anything to protect his family.
+
+## Day 5
+
+- Chapter 55. Prayers, Heavens and Songs. 20 years after human arrival on Roshar.
+  - Gavinor is still in the spiritual realm.
+  - Kalak used to be always calm, reasonable.
+  - Singers confined humans who wanted to expand.
+  - Singers started listening to Odium. Honor was teaching Ishar, Jezrien to control surges.
+- Chapter 56. By Bonds and Spren. Sigzil defends Narak. Venli talks Leshwi into abandoning Odium.
+  - Edgli (Endowment) is the one writing the letters from Nalthis. "gifting them the power of gods, as I was so long denied"
+- Chapter 57. Which One To Follow. Young Szeth continues to train.
+  - #Q Who is the Unmade talking to Szeth? Bonded to those of Shinovar?
+  - Szeth seems slightly autistic.
+- Chapter 58. The Song of the Beasts. Chasmfiends become friends. Dalinar finds an anchor to Nale.
+  - The heralds were already near immortal surgebinders when they arrived.
+  - #Q What broke the Shattered Plains? A Dawnshard?
+  - The Wind is preparing Kaladin as champion
+  - Before the migration, Nale fought against the other heralds who were on Odium's side
+- Chapter 59. Whatever It Takes. Young Szeth defeats raiders. The Voice heals him.
+- Chapter 60. Come and See. Adolin recruits Azish dropouts. Venli explores the shattering of the plains.
+  - Surges were native to the land. Driven by 4 moons for 4 tones. Honor, Odium, Cultivation did not understand surges.
+  - #Q "With stone that is not quite stone."?
+- Chapter 61. Forced to Bow. Jasnah plans for Thaylen City. Sigzil faces a Thunderclast.
+  - Endowment's letter says "For we all know what you are." #Q Why "what" and not "who"? Dawnshard bearer? Bearer of the first gem? Adonalsium's backup plan?
+  - The Everstorm eats up the highstorm.
+  - The Magnified Ones are huge, can grow carapace, have spiked arms
+  - The Focused Ones are denser and can stop Shardblade
+- Chapter 62. Keeper of the Keys. Visions move to the Oathpact.
+  - Valor is working with Endowment!
+  - Renarin's lightweaving lets him see souls / futures
+  - El was Jezrien's friend.
+  - Nale saw Odium's true form. Jezrien and others saw that after the migration. Shifted to Honor. Odium coopted singers, made them Fused, and fought.
+- Chapter 63. One Way Forward. Oathpact vision continues. Adolin demolishes the enemy.
+  - A chain reaction set the air ablaze in Ashyn. #Q Division + Dawnshard?
+- Chapter 64. To Hold Back The Darkness.
+  - Valor requested aid. Endowment did not go in person.
+  - Honor contacted Ishar, Nale at Ashyn. The powers he gave them led to Ashyn burning.
+  - The Heralds were granted Odium's power, and hence a connection. That allowed Honor to have them swear oaths to him and check Odium in the Oathpact.
+- Chapter 64. To Hold Back The Darkness. The Oathpact is formed, with Mraize as Honor.
+- Chapter 65. Not for Honor. Shallan fights Mraize. Taln is recruited.
+  - Odium is afraid of Ba-Ado-Mishram and wants her imprisoned.
+  - Taln tried to kill Cultivation!
+  - There was a loophole Odium was exploiting that allows Fused to be reborn. Oathpact plugs that.
+- Chapter 66. Reinforcements. Szeth's spren brings Nale.
+  - #Q Hoid is trying to raise someone dead? "Be content to play with your toys on their world of storms. Or do I have to broadcast what I have learned of your goals? I certainly do not think it a coincidence that you have made a special study of the worlds where legends abound of the dead being raised."
+- Chapter 67. Field Commission. Notum joins as captain. Sigzil spots Moash & regals at an Elsegate.
+- Chapter 68. Acolyte. The Voice tells 3 Honorbearers to train Szeth.
+- Interlude 9: Zahel. Axindweth tortures Zahel for breaths.
+  - Zahel can erase his memories!
+- Interlude 10: The Moment of Decision. Taravangian re-concludes that he should conquer the world.
+
+# Day 6
+
+- Chapter 69. Radical Philosophy. Nale riles Kaladin. Jasnah plans
+  - The humans of Ashyn followed the tones of Roshar through Elsecalling
+- Chapter 70. Contest of Illusions. Szeth picks from the Lightweaver's illusions. Venli goes to the center of the Shattered Plains
+- Chapter 71. Assumptions. Szeth beats the Lightweaver. Jasnah guesses Odium's ships are unmanned.
+- Chapter 72. Statistically Dangerous. Shallan decides to send Lightweavings into the next vision.
+- Chapter 73. The Luxury of Simplicity. Sivi concinces Szeth to try for the Windrunner Honorblade.
+- Chapter 74. What he Made of Us. Sigzil loses Narak Four. Shallen enters a vision with Ba-Ado-Mishram.
+  - #Q Does Moash cause Sigzil's spren to ... whatever?
+  - #Q Is Iyatil doing the same thing Shallan is, viewing instead of entering the visions?
+- Chapter 75. Family. Szeth's father goes with him on pilgrimage.
+- Chapter 76. Concessions. Shallan talks to Ba-Ado-Mishram in the vision. Emul and Tashikk defect.
+  - Ba-Ado-Mishram was healing soldiers. Feels Odium does not care about singers.
+  - Odium is preparing armies for a Cosmere invasion.
+  - Ba-Ado-Mishram likes Sja-anat.
+- Chapter 77. Aharietiam.
+  - Braize draws souls. Honor bound Odium into that prison via the Oathpact using Odium's connection to the heralds.
+  - Braize has a strange nature that multiples the power of the oaths.
+  - Honor agreed to Taln's taking up the Oathpact. Decided not to care.
+  - Ishar took some of the pain of the other heralds.
+  - Dova (Battah) used to visit Aesudan!
+  - #Q Why does Honor no longer care? Why can he no longer "afford to care"?
+  - #Q Is "Unite them" a call from Adonalsium to unite the gods themselves?
+- Interlude 11. Dyel. Honor's perpendicularity opens at many places in Iriali
+  - #Q Is Galladon looking for a cryptic?
+  - #Q What was the metal tube the 17th Shard pulled out?
+  - #Q Who are Dyel and her mother? How did the travel from off-Roshar if Ym ... was perhaps in Roshar all along?
+- Interlude 12. What Must Be Done. Taravangian kills his family.
+
+# Day 7
+
+- Chapter 78. A True Radiant. Sigzil plans another feint. Venli navigates the chasms. Jasnah confirms Odium's ships are unmanned.
+  - #Q Will Leshwi become a windrunner?
+  - Hoid is the narrator here, writing to Jasnah
+- Chapter 79. The Rhythm of Longing. Renarin & Rlain see a bit of their past.
+- Chapter 80. Seeing the Future. Adolin uses binoculars. Dalinar and Navani see pre-recreance. A thunderclast arrives in Azimir.
+  - Radiants during the recreance debate whether to fight singers with surges who can't be reborn
+  - #Q Why did the sibling fail?
+- Chapter 81. The Scholar with a Spear. Sigzil's feint to Narak Three works. Adolin charges the thunderclast. Moash kills Leyten.
+- Chapter 82. The Primary Purpose of Science. Adolin fights the thunderclast. Dalinar jumps to the recreance.
+  - #Q Why did the sibling run down?
+  - Thunderclasts have trouble emerging from covered or worked stone
+- Chapter 83. Hired Blade. Young Szeth kills the Windrunner honorbearer.
+  - Moelach was at Shinovar 9.5 years ago then.
+- Chapter 84. For the Broken. Adolin kills thunderclast. Taln is up! Renarin talks to Ba-Ado-Mishram and proposes to Rlain.
+  - Ba-Ado-Mishram may be showing them visions for a purpose.
+- Chapter 85. Parley. Taln and Ash destroy Fused and die. Recreance progresses.
+  - Garith knows about Odium?
+  - Melishi has been talking to Honor. He does not interfere any more.
+- Chapter 86. River of Light. 12124, Szeth's spren, gets therapy from Kaladin.
+- Chapter 87. Love and Betrayal. Melishi and Honor trap Ba-Ado-Mishram. Stormfather gives Dalinar to Odium. Odium finds them all.
+  - Ba-Ado-Mishram infused herself with the full power of his perpendicularity while he was trapped in Braize. She can replace him.
+  - Honor and Melishi conspired to trap Ba-Ado-Mishram in the gemstone.
+  - That broke the oath the radiants gave of negotiating in good faith.
+  - Honor shows a vision of Radiants destroying the planet after he can no longer watch them.
+  - #Q Why can't Honor watch them?
+- Interlude 13. Lift. Lift frees Zahel and the Aviar from a Ferruchemist. Zahel offers to train Lift.
+  - #Q Who was the Ferruchemist?
+  - #Q If Axindweth is working with Kelsier, did he try to get Odium back? If so, Why?
+- Inderlude 14. The Correct Future. Taravangian decides to make Dalinar join him. He can't see Dalinar's future.
+
+# Day 8
+
+- Chapter 88. Cycle of War. Sigzil loses Narak Three. Odium throws Dalinar into visions.
+- Chapter 89. Revelations. Kaladin gets Nale talking. Venli gets to the center of the Shattered Plains. Jasnah meets Odium as Taravangian.
+  - The heralds _brought_ the surges to Roshar! They're not native to Roshar. Where did they come from?
+- Chapter 90. A Candle Before the Storm. Szeth refuses to fight his sister. Venli finds Odium's perpendicularity.
+  - Heralds want Szeth to take Jezrien's place in the Oathpact.
+- Chapter 91. Recruiting. Gav sees Dalinar beating Elhokar. Taravangian plans to recruit Fen. El offers to make Venli a Fused.
+- Chapter 92. Into the Blue. Young Szeth goes to the Voice.
+- Chapter 93. White Carpet Now Red. Shallan watcher her young self killing her mother, Chana.
+  - Chana was Shallan's mother!
+  - Chana communicated with Nale using a Seon.
+  - #Q Who was Shallan's father's bastard? Haleran?
+  - #Q Are Shallan's brothers going to become radiants?
+  - Did the Oathpact pass on to Shallan? No. Chana was reborn and was at Shallan's wedding.
+  - Why were Skybreakers killing budding radiants? Because Nale believed killing them would prevent the Desolation.
+- Chapter 94. Sacred Truth. Young Szeth faces an unmade and flees rather than follow the Voice.
+  - #Q First Spren? What's that?
+  - #Q How did the spren get nailed to the walls?
+- Chapter 95. Because it is flawed. Adolin is on crutches, concerned. Szeth talks to his spren.
+  - #Q Will _Adolin_ ascend?
+  - Szeth knows the words to become a Herald!
+  - Nale's spren suffered with Nale on Braize.
+  - Ishar is looking for ways to make spren physical.
+  - #Q Will Syl take a physical form?
+  - Young Szeth assumed that the Unmade meant the Return had begun.
+- Chapter 96. All They Had. Young Szeth warns his father to hide.
+- Chapter 97. Characters from a Play. S
+  - Oh, so Chana's return sparked the Return, not Taln's? No, can't be, Taln had returned before that. But still, she agrees.
+- Chapter 98. The Day of Truth. Szeth declares that the voidbringers have returned.
+- Chapter 99. Never Too Late. Shallan forgives Chana, who actually WAS there. Dalinar fights Blackthorn at Rathalas. Dalinar resists Odium.
+  - Chana: "Do not trust any of us, except for Taln."
+- Interlude 15. Rysn and Hoid meet. Their Dawnshards almost fuse. Rysn decides to go off-planet with ship and crew.
+  - Hoid is still a Dawnshard.
+- Interlune 16. Surprise. Odium can't find Dalinar. Perhaps Honor's power was hiding him.
+
+# Day 9
+
+- Chapter 100. God. Honor finds Roshar. Cultivation finds Honor.
+  - #Q Tanavast slayed Adonalsium for his own good?
+  - But Cultivation feels it a betrayal.
+  - Roshar had been created by mathematics: song, numbers, and art.
+  - #Q What was the metal at the core of Ashyn?
+  - Honor broke an oath by being with Cultivation.
+  - Cultivation is a winged dragon with deep brown skin lined with silver.
+- Chapter 101. Steering a Chull. Venli debates next steps. Navani exerts control over the vision.
+- Chapter 102. A Blade in the Night. Sivi & Pozen confer. Szeth overhears. He confronts them.
+- Chapter 103. Weathered. Wind asks Kaladin to help the heralds. Venli sends a message of help to Sigzil.
+- Chapter 104. Enemy. Odium gives humans the surges and that nation invades the rest. One group resists. Honor gives them power.
+  - #Q What sculpting stone had Honor given the singers?
+- Chapter 105. Points of Transition. Navani uses an Oathgate transition to power a return. Venli proposes involving Jasnah.
+- Chapter 106. Cardinal Sin. Young Szeth fights a civil war.
+- Chapter 107. Voidbringer. Odium's surges burned Ashyn. Humans move to Ashyn. With Odium.
+  - #Q Who was Zoral, who was named Voidbringer?
+- Chapter 108. Service. Kaladin fights Nale. Taravangian appears to debate Jasnah.
+- Chapter 109. Rationalization. Kaladin fights well but Nale beats him.
+  - Nale sent Helaran to kill Amaram.
+  - Ishar told Nale to kill all radiants.
+- Chapter 110. Flute. Kaladin plays to Nale and reminds him. Nale's spren appears and vanishes.
+- Chapter 111. The Flag of Rebellion. Neturo is Bondsmith and tells Szeth he's wrong.
+- Chapter 112. The Song of Renunciation. Jasnah debates well. Venli plans to join El.
+- Chapter 113. Accommodation. The 3 gods reach an agreement.
+  - Stormfather is an avatar of Honor.
+  - Rayse killed Uli Da (Ambition) at Threnody and the fight wounded him. He is weak now.
+  - Rayse drew Aona (Devotion), the healer and Skai (Dominion) into a conflict and killed them when weak.
+  - As a dragon, Kor was trained as a god even before ascension.
+  - Kor could see the future better than Tanavast but sometimes did not wish to.
+  - When Honor went to help dissidents in Ashyn, Odium took over the singers.
+  - Honor (the power) is rigid and pushed Tanavast into rejecting the singers.
+  - Directly fighting Odium would have destroyed Roshar in most visions Odium showed Kor and Tanavast. He mentions Threnody.
+  - #Q Adonalsium had not fought the sixteen for fear of what would happen to the planet if he did?
+  - Honor, Cultivation and Odium lay out a contract where mortals can't destroy planets. Threatened him with grouping others to kill him like Adonalsium.
+    - Only a portio of powers are granted to mortals.
+    - Greater powers to those who follow divine rules. Less to all.
+  - #Q ... what was the "unless" Tanavast considered? Dawnshards?
+  - Each violation of shards' words weakens them and opens them to attack.
+- Chapter 114. The Greatest Good. Taravangian shows Fen Jasnah's contract to kill Aesudan. Navani & Wit plan to help Dalinar.
+- Chapter 115. Binding.
+  - Tanavast and Kor created Roshar's tones. Created stone sculptures.
+  - Rayse created singers, knowing Tanavast will respond, allowing him to go further.
+  - If one of the shards died, followers can draw powers without bounds. So Taravangian is not as bound as Rayse. Cultivation KNOWS this!
+  - Euridrius (Reason) vanished.
+  - Leras (Preservation) had a strong nature.
+  - Ati (Ruin) was the kindliest and had taken up Ruin.
+  - Edgli (Endowment) was the most compassionate.
+  - Bavadin (Autonomy) was shrewd, capable.
+  - Chan Ko Sar (Invension) created great marvels.
+  - Medelantorius (Valor) is a warrior dragon and could not be found.
+  - All shares rejected Honor support in killing Odium since they were afraid intervention might release him.
+  - Tanavast discussed with Ishar to give them powers they wanted and to bind Odium. The Oathpact.
+- Chapter 116. Two Women. Jasnah loses. Thaylenah goes to Odium.
+- Chapter 117. Truthless. The Voice decides Szeth should take his Honorblade and Oathstone and be banished.
+  - The Voice wants destruction in Shinovar.
+  - The Voice PLANNED for Szeth to return in a decade to take over as a killer.
+  - The Voice showed the Honorbearers that voidbringers and radiants are no more and other worlds were the threat.
+- Chapter 118. Prophecy. Venli, chasmfiends fake an attack. Sigzil retreats. Sigzil renounces oaths saving Vienta from Moash.
+  - #Q Did Sigzil give ownership of Narak to the Singers, meaning it's THEIR territory?
+- Chapter 119. Sunmaker's Gambit. Adolin is called to fight. Maya is a few hours away. Shallan talks to Mraize. Ishar is the
+  voice!
+  - #Q There is a world out there with an ocean in the sky. Where?
+  - #Q Another where people fly upon kites, as if every man were a Windrunner. Where?
+  - Yet another where the gods can make any object stand up and walk. (Nalthis)
+  - Honor's perpendicularity moves around and doesn't let anyone touch it
+  - Ba-ado-mishram found Odium's perpendicularity and used it. So did Ishar!
+  - #Q Will Szeth ascend as Honor? He seems the most rigid. Also hates Taravangian.
+  - Billid and a group of Skybreaker dissenters exist
+- Chapter 120. Sheltered from the eyes of god. Honor and Odium clash
+  - Rayse and Fused are trapped on Rosharan system by the oaths. Humans are not. So he plans to create a human army
+  - #Q Heralds seem able to draw from Roshar's power not just surges. How?
+  - #Q How was Nale able to move so fast against Kaladin?
+  - #Q How _were_ the Unmade made? What are they?
+  - Anti Light was born when Odium clashed with Honor
+  - A piece of Roshar's 4th moon had metal or rock that could hide people from Shards
+  - Ba-ado-mishram tries to make peace with Honor
+- Chapter 121. Bridger of Minds. Adolin struggles with pikes. Shallan faces harsh visions. Mishram shows Rlain and Renarin visions.
+  - Some singers abandoned Ba-Ado-Mishram. So she decided to meet humans and explore peace.
+  - Glys defected to Sja-anat and recently
+- Chapter 122. Rival. Ishar suggests Taln take the Oathpact. Honor lets them decide. Honor sees the damage he has done. Makes a pact with Odium.
+  - Honor gave the heralds more of his power. They stuggled with it and would stop fighting in most futures. Honor was also losing his control, putting him at odds with himself.
+  - The Wind shows Honor the damage he has done.
+  - That's why Honor decides to step back.
+  - To avoid directly fighting Odium and destroying Roshar, Honor proposes a clash of champions
+  - #Q How was Ba-Ado-Mishram able to use the perpendicularity and take Odium's power?
+  - Odium agrees not to attack Honor first, and to a vague contest of champions, in return for Honor remove Ba-Ado-Mishram.
+  - Kor knew how to capture spren. Honor teaches Melishi.
+- Chapter 123. A memento of failure. The Thaylen Council aligns with Odium. Taravangian invites Jasnah to become a Fused.
+- Chapter 124. Rejection. Honor rejects Tanavast. Odium kills Tanavast. Honor puts a piece of Tanavast's soul into the Stormfather.
+  - Honor had not anticipated singers not being able to hear the tones. Roshar had aligned with Ba-Ado-Mishram.
+  - Honor showed Radiants how the surges would destroy the planet without him.
+  - Odium kills Tanavast but Honor takes a piece of Tanavast's soul and memories and gives it to the Stormfather.
+  - As Stormfather, Tanavast is looking for someone to bear Honor.
+- Chapter 125. One Man Against a Tide. Azir is lost.
+- Interlude 17. Dieno. The Mink is captured, escapes execution. A greatshell emerges.
+- Interlude 18. Conflux. Honors power moves Dalinar back to the physical realm.
+  - Odium has hidden the power of Aona and Skai in the Cognitive realm, making it difficult to access the land.
+  - Odium attacking Uli Da directly destroyed planets (near Threnody) and wounded him.
+  - Odium splintering Honor would violate his oath not to attach first and leave him open to attach from Cultivation.
+
+# Day 10
+
+- Chapter 126. That Which He Must Not Know. Dalinar forgives Stormfather. Szeth goes to Ishar.
+  - Stormfather had been looking for Honor candidates steadily. Each was too eager for immortality or power.
+  - Odium will ensure Honor's vessel will attack him, freeing him from the oath.
+- Chapter 127. Their Homes Become Our Dens. Dalinar and Wit talk. Yanagawn plans to sneak back into the throne.
+  - Spren started appearing in the physical realm without bonds (like Notum) when the land and people started thinking more of them.
+  - Yanagawn plans to sneak back into the throne. (The Brandon avalanche / Sanderlanche begins?)
+  - Young Hoid had found a Dawnshard and was carrying it un-wittingly.
+  - #Q Who was the lumberman's son who failed to be a noble?
+- Chapter 128. The Price of Survival. Nale shares Ishar's plans. Wit encourages Dalinar. Yanagawn enters the palace.
+  - Kalak, Chana and Vedel were among the weaker heralds, struggling to access their powers. If they dies, the Desolation might happen.
+  - Ishar walked the spiritual realm and decided that stopping radiants would halt Odium.
+  - Ishar stepped into the Well of Control (Odium's perpendicularity) and took some of his power.
+  - Ishar physicalized spren.
+  - Ishar made the Honorbearers Human Fused. Souls that would be reborn given a new body. Plans more.
+- Chapter 129. Oaths and Light. Szeth goes to Ishar. Abidi awaits Adolin. Shallan finds Mishram and Mraize. Dalinar prepares.
+  - Szeth is the Knight of Truth. Kaladin is the Knight of Wind!
+  - #Q So, do they go back to strengthening old magic?
+  - 1,000 years ago, when Shinovar sent armies to attack the west, Ishar connected with the land.
+- Chapter 130. The Pleasure of Bleeding. Szeth fights 6 honorbearers. Adolin fights Abidi.
+  - The spren rejected Ishar.
+  - Ishar plans to replace all Heralds.
+  - Elhokar is Odium's champion! (Actually, it's Gavinor.)
+- Chapter 131. The Worth of a Life. Kaladin struggles to talk to Ishar. Dalinar faces an adult Gavinor.
+  - Ashyn was called Alashwa.
+  - Ishar wrote down the take of Wandersail and Derethil.
+  - Wit led Ishar to Odium by talking about shards.
+  - Fleet was trying to jog Nohadon's path.
+- Chapter 132. Fear What is Coming. Renarin and Rlain debate what to do with Mishram. Kaladin talks to Ishar.
+- Chapter 133. Puppet. Adolin fights Abidi. Honorbearers are Ishar's puppets. Szeth takes the fifth oath directly!
+  - Adolin's plate comes alive and protects him!
+- Chapter 134. The Third Way. Shallan kills Iyatil. Adolin kills Abidi. Ishar protects himself from Szeth's fifth ideal.
+- Chapter 135. The Choice of Honor. Deadspren arm Adolin's team. Renarin & Rlain free Mishram. Szeth rejects his spren. Ishar shares his pain.
+  - Maya brought all the forgotten deadeyes!
+  - Maya is a cultivationspren.
+- Chapter 136. Ten People with Ten Shardblades Alight. Darlinar fights Gav. Adolin wins Azir.
+  - Notum is wearing a shardplate!
+- Chapter 137. The Suckling Child. Shallan kills Mraize. Dalinar knows the words.
+  - Mraize's original name is Betd.
+  - #Q El is a radiant? One of the Skybreakers?
+- Chapter 138. The Burdens of Nine. Radiant merges into Shallan. Kaladin fights Ishar's pain.
+  - Anti-Light killed only part of the Sja-anat sprens of Iyatil and Mraize. Their Voidlight part is still alive.
+- Chapter 139. Words. Kaladin swears the Fifth Ideal. Dalinar ascends.
+  - Cultivation was priming Dalinar to be Honor, not just resist Odium!
+- Chapter 140. The Light We Kindle Ourselves. Kaladin drives away Ishar's darkness. Szeth fights with Nightblood.
+  - The WIND accepts Kaladin's words!
+  - The blackness Ishar absorbed from Odium was infecting all the heralds.
+  - #Q Nightblood has learnt the surges and now is a multi-honorblade?
+- Chapter 141. That Which was Lost. Mishram does not kill Renarin. Szeth kills Honorbearers.
+- Chapter 142. A Man Stands on a Cliff Side. Honor considers killing Odium. Dalinar teaches Honor as a kid. Honor renounces his oaths!
+  - The shard powers are relatively young and immature.
+  - #Q What is Nohadon?
+- Chapter 143. One of Them Will Destroy Us. Nightblood learns Kaladin's lessons. Sja-anat thanks Shallan. Honor accepts Taravangian who becomes Retribution!
+  - Now all the shards would gang up against Retribution. Dalinar ensures allies.
+- Chapter 144. The Tower. The Crown. And the Spear. Kaladin takes Szeth's place as Ishar reforms theOathpact to bind Retribution.
+  - Cultivation flees.
+  - Shallan is stranded in the Cognitive realm without stormlight.
+- Chapter 145. To Weep for the End of All Things. Oathpact is reformed. Dalinar dies saving Gav. Retribution plans to attack Wit.
+  - Retribution has taken the Shin government
+  - The Blackthorn memory becomes a spren
+- Chapter 146. Night of Sorrows. Wit gives Sig a dawnshard, Exist. Renarin plans a democracy.
+  - #Q What geared device is Hoid using?
+  - #Q Does Retribution know Wit escapes?
+- Chapter 147. Light Flickering in the Darkness. Wit awakes in Scadrial and understands Dalinar's plan.
+  - #Q How did Hoid regenerate after vaporization?
+  - #Q Who is Ulaam?
+  - The combination of shards created a slowness bubble around Roshar?
+  - Unoathed plates and blades still function thanks to the deadspren.
+  - Radiants can still summon blades and plates.
+  - Other blades can't be bonded, plates can't be repaired.
+  - Maya can travel to and from shadesmar.
+  - Deadeyes are healing.
+  - Everstorm blanketed the world and permanently rains, except Azir (probably Urithru and the Shattered Plains)
+  - Shallan plans to talk to Kelsier via Felt's seon Ala
+  - Spren can leave Roshar now.
+  - Szeth's spren leaves Roshar with Sigzil on a caravan in shadesmar.
+  - Taravangian had taken the people of Kharbranth and hid them in the Spiritual realm.
+
+# Epilogue. Majestic improvization
+
+- Wit plans to contact Valor
+
+# Postlude
+
+- The heralds are in Ashyn. Healing.

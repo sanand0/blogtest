@@ -5,6 +5,44 @@ date: 2025-04-15T00:00:00Z
 
 Results of my software tool evaluations. 🟢 is my current choice and 🟡 is worth evaluating.
 
+## Embedded comments / forums for blog posts, 21 Jan 2026
+
+- [discourse/discourse](https://github.com/discourse/discourse): More feature-rich forum software. Supports Google OAuth. Free if self-hosted. Full data export capabilities. More resource-intensive (requires ~2GB RAM). Better for building a full community vs. just blog comments
+- [Disqus](https://disqus.com/): Proprietary SaaS; easy embed + typically supports Google sign-in; but exports are limited/awkward and you take on platform lock-in + tracking/ads tradeoffs.
+- [umputun/remark42](https://github.com/umputun/remark42): Forever free - Open source, self-hosted (no recurring costs). Google OAuth login - Plus Facebook, GitHub, Microsoft, Twitter, and more. Public reading - Anyone can read without logging in. Full data export - Automatic daily backups to JSON, easy to export entire dataset. Threaded discussions - Multi-level nested comments. Upvoting - Built-in voting system
+- [giscus/giscus](https://github.com/giscus/giscus): A commenting system powered by GitHub Discussions. Summary: **zero hosting** (GitHub is the backend) and **export is basically “git + GitHub API”**, but login is **GitHub OAuth**, not Google—so it fails your “Google ID” requirement unless you relax it.
+- [flarum/flarum](https://github.com/flarum/flarum): Very lightweight and modern. Free and open source. Google OAuth via extensions. Good for simple discussions. Less mature than Discourse but growing fast
+- [coralproject/talk](https://github.com/coralproject/talk): Coral Talk (publisher-grade commenting). Summary: powerful, newsroom-oriented moderation; heavier operational footprint; realistically **self-host / enterprise deployment** territory.
+- [GraphComment](https://www.graphcomment.com/en): **Proprietary SaaS** with constrained API-based export.
+- [Comentario](https://comentario.app/en): Fork of Commento, privacy-focused. Supports Google OAuth. Self-hosted, free. Simpler than Remark42 but fewer features
+- Sources:
+  - [ChatGPT](https://chatgpt.com/share/69704ec0-c638-8003-b85c-a7e1f7e4b63e) [🔒](https://chatgpt.com/c/696fb743-15dc-8326-9ef7-da34f8d672bd)
+  - [Claude](https://claude.ai/share/25f39281-551f-456f-a72f-76fca918cfdd) [🔒](https://claude.ai/chat/d6ca4cd6-ec28-4bfd-812c-18addc1e31be)
+  - [Gemini](https://gemini.google.com/share/be7f1cea6c82) [🔒](https://gemini.google.com/app/ed6fffec7ec3ce9d)
+
+## If you won’t self-host: what I’d pick (from _this_ list), and in what order
+
+1. **Discourse (managed hosting)** — best match to your _spirit_ of “public-read, login-to-reply, exportability, long-term seriousness.” It’s not free, but it’s the least “regret later” option. ([Discourse - Civilized Discussion][10])
+2. **Disqus** — best if “free + minimal setup + Google login” dominates. The catch is lock-in and the fact that exports aren’t designed as a clean migration path. ([Disqus][11])
+3. **GraphComment** — similar SaaS story, but smaller footprint/ecosystem; the public repos are mostly SDKs and it leans paid for deeper integration. ([GitHub][7])
+4. **giscus** — I’d personally love it for you _if_ you can relax “Google login” to “GitHub login,” because it’s the closest to “forever free + export-friendly + low operational burden.” ([GitHub][3])
+5. **Flarum** — only if you’re okay with paying a third-party host (still “not self-host,” but also not as turnkey as Discourse/Disqus). ([GitHub][2])
+6. **Comentario / Remark42 / Coral** — great tools, but they’re basically self-host territory. ([Comentario Docs][12])
+
+If you tell me whether **Google login is truly non-negotiable** (vs “any login is fine”), I can tighten that order to a single “do this, not that” recommendation.
+
+[1]: https://github.com/discourse/discourse "GitHub - discourse/discourse: A platform for community discussion. Free, open, simple."
+[2]: https://github.com/flarum/flarum "GitHub - flarum/flarum: Simple forum software for building great communities."
+[3]: https://github.com/giscus/giscus "GitHub - giscus/giscus: A commenting system powered by GitHub Discussions. :speech_balloon: :gem:"
+[4]: https://github.com/umputun/remark42 "GitHub - umputun/remark42: comment engine"
+[5]: https://github.com/coralproject/talk "GitHub - coralproject/talk: A better commenting experience from Vox Media"
+[6]: https://github.com/disqus/disqus-react "GitHub - disqus/disqus-react: A React component for Disqus"
+[8]: https://gitlab.com/comentario/comentario "comentario / Comentario · GitLab"
+[9]: https://github.com/orgs/giscus/repositories?utm_source=chatgpt.com "giscus repositories"
+[10]: https://www.discourse.org/pricing?utm_source=chatgpt.com "Discourse pricing | Discourse - Civilized Discussion"
+[11]: https://disqus.com/profile/signup/?utm_source=chatgpt.com "Create Account - Try Disqus for Free"
+[12]: https://docs.comentario.app/en/getting-started/cloud/ "Cloud versions | Comentario Documentation"
+
 ## CORS proxies, 15 Jan 2026
 
 [CORS Proxy Alternatives](https://chatgpt.com/share/696877c3-34f8-8003-9a84-9ac7f3104ca6)

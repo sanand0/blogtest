@@ -214,7 +214,7 @@ Rewrite all the upload links (http://www.s-anand.net/blog/wp-content/uploads/xxx
 
 Rerun. Commit as you go.
 
-Finally, write a script to detect all links to s-anand.net/ that are not covered by this approach. For example, I have a bunch of direct assets like https://www.s-anand.net/mystic-light.mp3 or other non-WordPress pages on my website. Create a TSV report with the link and the source.
+Finally, write a script to detect all links to s-anand.net/ that are not covered by this approach. For example, I have a bunch of direct assets like https://files.s-anand.net/blog/a/mystic-light.mp3 or other non-WordPress pages on my website. Create a TSV report with the link and the source.
 
 PS: I keep editing prompt.md with my prompts. Keep ignoring it.
 ```

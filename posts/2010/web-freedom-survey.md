@@ -7,7 +7,19 @@ categories:
 wp_id: 2499
 ---
 
-<p>There was a time when workers were searched when they left, to make sure they weren’t stealing. They were paid by their hour, and had to clock in/clock out. They had supervisors to ensure that they didn’t slack off. They weren’t allowed to make calls at work. After all, people were lazy and thieving in those days.</p> <p>Nowadays, we’re enlightened. We respect and trust our employees. Like a family. We don’t micromanage their activities. We don’t tap their phone calls.</p> <p>We don’t restrict or monitor their web usage.</p> <p>Now, <em>your</em> company is enlightened, of course. Surely you can access these sites I believe <em>essential</em> for work? (If you work out of different offices, you should fill one for each office.)</p> <p>So, please tell me: which sites can YOU access?</p><iframe height="500" marginheight="0" src="http://www.s-anand.net/web-freedom-survey" frameborder="0" width="300" marginwidth="0"></iframe><p>(<a href="http://www.s-anand.net/web-freedom-survey?results=1">View results)</p>
+There was a time when workers were searched when they left, to make sure they weren’t stealing. They were paid by their hour, and had to clock in/clock out. They had supervisors to ensure that they didn’t slack off. They weren’t allowed to make calls at work. After all, people were lazy and thieving in those days.
+
+Nowadays, we’re enlightened. We respect and trust our employees. Like a family. We don’t micromanage their activities. We don’t tap their phone calls.
+
+We don’t restrict or monitor their web usage.
+
+Now, _your_ company is enlightened, of course. Surely you can access these sites I believe _essential_ for work? (If you work out of different offices, you should fill one for each office.)
+
+So, please tell me: which sites can YOU access?
+
+![Summary: Over 95% can access Google and Wikipedia, but less than 50% can access last.fm, YouTube, Facebook, Flickr, Twitter, or Yahoo Mail.](/blog/assets/web-freedom-survey.webp)
+
+[Download the results](/blog/assets/web-freedom-survey.csv)
 
 ---
 

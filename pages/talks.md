@@ -5,7 +5,10 @@ lastmod: "2025-09-25T11:21:59Z"
 wp_id: 3105
 ---
 
-Since 2011, I've been speaking about data & AI at events & organizations. [My Talks YouTube playlist](https://www.youtube.com/playlist?list=PLHCH16htawZbR_-mIqfGmYbhE5S2UckOh) has most of my public talks. My [Talks slides page](https://sanand0.github.io/talks/) has content and transcripts.
+Since 2011, I've been speaking about data & AI at events & organizations.
+
+[My Talks YouTube playlist](https://www.youtube.com/playlist?list=PLHCH16htawZbR_-mIqfGmYbhE5S2UckOh) videos of public talks.
+[My Talks slides page](https://sanand0.github.io/talks/) has recent talk content and transcripts.
 
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/videoseries?list=PLHCH16htawZbR_-mIqfGmYbhE5S2UckOh" title="YouTube playlist" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -21,17 +24,17 @@ Some of the events I've spoken at are:
 
 If you need a short bio to introduce me, you're welcome to modify this.
 
-> Anand is an LLM psychologist at [Straive](https://straive.com/). He co-founded [Gramener](https://gramener.com/), a visual data science company that Straive acquired. He is among [India's top 10 data scientists](https://analyticsindiamag.com/top-10-data-scientists-in-india-2015/), an [AI influencer](https://analyticsindiamag.com/ai-highlights/indias-100-most-influential-people-in-ai/) and a regular TEDx/Pycon speaker.
+> Anand is an LLM psychologist at [Straive](https://straive.com/). His data stories company, [Gramener](https://gramener.com/), was acquired by Straive, where he researches AI and publishes demos. He's listed among [India's top 10 data scientists](https://analyticsindiamag.com/top-10-data-scientists-in-india-2015/) and [AI influencers](https://analyticsindiamag.com/ai-highlights/indias-100-most-influential-people-in-ai/) and is a regular TEDx/Pycon speaker.
 >
 > Anand is an alumnus of IIM Bangalore, IIT Madras, London Business School, IBM, Infosys Consulting, Lehman Brothers, and BCG.
 >
-> More importantly, he has hand-transcribed every Calvin & Hobbes strip ever, is addicted to Minecraft & Anime (thanks to his daughter), and dreams of watching every film on the [IMDb Top 250](https://www.imdb.com/chart/top/) (except [The Shining](https://www.imdb.com/title/tt0081505/)).
+> More importantly, he hand-transcribed every Calvin & Hobbes strip ever, is addicted to Minecraft & Anime (thanks to his daughter), and dreams of watching every film on the [IMDb Top 250](https://www.imdb.com/chart/top/) (except [The Shining](https://www.imdb.com/title/tt0081505/)).
 >
-> He blogs at [s-anand.net](http://s-anand.net).
+> He blogs at [s-anand.net](https://www.s-anand.net/).
 
 I'm on social media on [LinkedIn](https://www.linkedin.com/in/sanand0/), [Github](http://github.com/sanand0), [Twitter](https://twitter.com/sanand0), [YouTube](https://www.youtube.com/channel/UCBOUVZF7VkeXzGaQ89CxiTQ).
 
-Here are some pictures you may use.
+You may use any pictures of me and here are some:
 
 ![](/blog/assets/Anand-5a-1.webp)
 

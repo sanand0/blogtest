@@ -7,7 +7,11 @@ categories:
 wp_id: 2677
 ---
 
-<p>Formatting tables in Excel is a fairly common task, but there are a number of ways to improve on the way it's done most of the time.</p> <p>Here are a few tips. Fairly basic stuff, but hopefully useful.</p><iframe height="493" src="http://www.youtube.com/embed/kHvFC5uMuf8" frameborder="0" width="600" allowfullscreen></iframe>
+Formatting tables in Excel is a fairly common task, but there are a number of ways to improve on the way it's done most of the time.
+
+Here are a few tips. Fairly basic stuff, but hopefully useful.
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/kHvFC5uMuf8" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ---
 

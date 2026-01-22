@@ -8,15 +8,15 @@ wp_id: 201
 
 You can [play a video backwards](/blog/music-video-filmed-backwards/) and still recognise the scenes quite well. Can you do that with sound?
 
-I tried it on this Bryan Adams clip of [Summer of '69 (mp3)](/Bryan_Adams.Summer_of_69.mp3). [When played backwards (mp3)](/Bryan_Adams.Summer_of_69.rev.mp3), it almost sounds like Arabic!
+I tried it on this Bryan Adams clip of [Summer of '69 (mp3)](https://files.s-anand.net/blog/a/Bryan_Adams.Summer_of_69.mp3). [When played backwards (mp3)](https://files.s-anand.net/blog/a/Bryan_Adams.Summer_of_69.rev.mp3), it almost sounds like Arabic!
 
-Instruments sound weird backwards too, like the [guitar](/Guitar.mp3) played [backwards](/Guitar.rev.mp3) and [drums](/Drums.mp3) played [backwards](/Drums.rev.mp3).
+Instruments sound weird backwards too, like the [guitar](https://files.s-anand.net/blog/a/Guitar.mp3) played [backwards](https://files.s-anand.net/blog/a/Guitar.rev.mp3) and [drums](https://files.s-anand.net/blog/a/Drums.mp3) played [backwards](https://files.s-anand.net/blog/a/Drums.rev.mp3).
 
 It's seems obvious once you see the wave file. The picture below shows the guitar. The sounds are clearly not symmetric left to right.
 
 [![Sound wave diagram of a guitar](/blog/assets/flickr-sound-wave-diagram-of-a-guitar_248964843_o-png.webp)](/blog/assets/flickr-sound-wave-diagram-of-a-guitar_248964843_o-png.webp)
 
-Whereas [this guitar](/Guitar2.mp3) is a lot more symmetric, and doesn't sound too different [backwards](/Guitar2.rev.mp3).
+Whereas [this guitar](https://files.s-anand.net/blog/a/Guitar2.mp3) is a lot more symmetric, and doesn't sound too different [backwards](https://files.s-anand.net/blog/a/Guitar2.rev.mp3).
 
 [![Sound wave diagram of another guitar](/blog/assets/flickr-sound-wave-diagram-of-another-guitar_248964844_o-png.webp)](/blog/assets/flickr-sound-wave-diagram-of-another-guitar_248964844_o-png.webp)
 

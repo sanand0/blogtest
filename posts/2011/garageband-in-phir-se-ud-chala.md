@@ -7,7 +7,21 @@ categories:
 wp_id: 2701
 ---
 
-<p>A month ago, I was at the <a href="http://www.myvue.com/home/cinema/stratford">theatre</a> watching <a href="http://en.wikipedia.org/wiki/Ra.One">Ra.One</a>. The movie was <a href="http://www.thevigilidiot.com/2011/10/28/ra-one/">terrible</a>, yet enjoyable. But I’m going to talk about something else – a song I heard that caught my imagination.</p> <p><iframe height="315" src="http://www.youtube.com/embed/kkCs6GiSG0k" frameborder="0" width="560" allowfullscreen></iframe></p> <p>The song is Phir Se Ud Chala from <a href="http://en.wikipedia.org/wiki/Rockstar_(2011_film)">Rockstar</a>. Around 14 seconds into the video, you’ll hear a guitar start off at the background. That’s what caught my ear first – because I’d heard it before. Listen to this piece below:</p> <p><a href="http://www.s-anand.net/mystic-light.mp3">Mystic light</a></p> <p>I’d created this a couple of months ago with <a href="http://www.apple.com/ilife/garageband/">GarageBand</a> on my iPad2. It just plays two Apple Loops one after another.</p> <p><a href="/blog/assets/photo.webp"><img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="photo" border="0" alt="photo" src="/blog/assets/photo.webp" width="600" height="450"></a></p> <p>The first one that you hear – Cheerful Mandolin 07 – is exactly the same background music that you hear in Phir Se Ud Chala. Guess A R Rahman uses GarageBand too!</p> <p>(The strange thing is, I found no mention of this anywhere on the internet, as of 2 Dec 2011. Thought I’d have a go and be the first… just in case someone searches for Apple Loops or GarageBand in Phir Se Ud Chala from Rockstar.)</p><script src="http://mediaplayer.yahoo.com/js"></script>
+A month ago, I was at the [theatre](http://www.myvue.com/home/cinema/stratford) watching [Ra.One](http://en.wikipedia.org/wiki/Ra.One). The movie was [terrible](http://www.thevigilidiot.com/2011/10/28/ra-one/), yet enjoyable. But I’m going to talk about something else – a song I heard that caught my imagination.
+
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/2mWaqsC3U7k" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+The song is Phir Se Ud Chala from [Rockstar](http://en.wikipedia.org/wiki/Rockstar_(2011_film)). Around 14 seconds into the video, you’ll hear a guitar start off at the background. That’s what caught my ear first – because I’d heard it before. Listen to this piece below:
+
+[Mystic light](https://files.s-anand.net/blog/a/mystic-light.mp3)
+
+I’d created this a couple of months ago with [GarageBand](http://www.apple.com/ilife/garageband/) on my iPad2. It just plays two Apple Loops one after another.
+
+[![photo](/blog/assets/photo.webp "photo")](/blog/assets/photo.webp)
+
+The first one that you hear – Cheerful Mandolin 07 – is exactly the same background music that you hear in Phir Se Ud Chala. Guess A R Rahman uses GarageBand too!
+
+(The strange thing is, I found no mention of this anywhere on the internet, as of 2 Dec 2011. Thought I’d have a go and be the first… just in case someone searches for Apple Loops or GarageBand in Phir Se Ud Chala from Rockstar.)
 
 ---
 

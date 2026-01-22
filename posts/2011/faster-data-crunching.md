@@ -6,7 +6,7 @@ categories:
 wp_id: 2684
 ---
 
-<p>I’ve been playing with big data lately.</p> <p>The good part is, it’s easy to get interesting results. The data is so unwieldy that even average value calculations provoke a “Amazing! I didn’t know that,” response (No exaggeration. I heard this from two separate ~ $1bn businesses this month.)</p> <p>The bad part is that calculating even that simple average is slow.</p> <p>For example, take this <a href="http://s-anand.net/nuepa/school_10.rpt.bz2">40MB file</a> (380MB unzipped) and extract the first column.</p> <p>The simplest Python script to get the first column looks like this:</p>
+<p>I’ve been playing with big data lately.</p> <p>The good part is, it’s easy to get interesting results. The data is so unwieldy that even average value calculations provoke a “Amazing! I didn’t know that,” response (No exaggeration. I heard this from two separate ~ $1bn businesses this month.)</p> <p>The bad part is that calculating even that simple average is slow.</p> <p>For example, take this <a href="https://files.s-anand.net/blog/a/school_10.rpt.bz2">40MB file</a> (380MB unzipped) and extract the first column.</p> <p>The simplest Python script to get the first column looks like this:</p>
 ```python
 for row in csv.reader(fileinput.input(), delimiter='\t'):
     if len(row) > 0: print row[0]

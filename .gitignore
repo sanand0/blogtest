@@ -4,4 +4,4 @@ content/
 
 # For scripts/htmlemail.py GMail auth
 credentials.json
-token.json
+token*.json
