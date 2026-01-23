@@ -37,6 +37,8 @@ In my fifties, I'm learning that the meaning of life can be viewed through _many
   - **Serve people:** Relieve suffering and help others.
   - **Transcend suffering:** End suffering through detachment and the dissolution of ego (Buddhism).
 
+![](https://files.s-anand.net/images/2026-01-22-the-meaning-of-life.avif)
+
 I still believe there's no intrinsic meaning. Just lenses.
 
 - We change lenses over time. E.g. I moved from strongly believing "Serve divine will" to not believing it.

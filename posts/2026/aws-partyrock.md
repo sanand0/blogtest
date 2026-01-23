@@ -19,6 +19,8 @@ I tried vibe-code a CSV to colored HTML table converter using [this prompt](http
 
 [AWS Partyrock built this](https://partyrock.aws/u/sanand0/Umcv1aE1W/TableMorph%253A-CSV-to-Styled-HTML-Converter). Which is a joke, because it didn't write the code to do the conversion. It uses an LLM every time.
 
+![](https://files.s-anand.net/images/2026-01-22-aws-partyrock.webp)
+
 The good part, though, is that it builds UI components that you can edit and move around.
 
 I think it builds a domain specific language with components with properties. You can edit the properties to change the app.
