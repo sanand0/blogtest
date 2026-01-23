@@ -132,10 +132,6 @@ def markdown_to_email_html(markdown_file: Path) -> tuple[str, str]:
     # Resolve relative/absolute links
     html_content = resolve_links(html_content, base_url)
 
-    # Append home page link at the end
-    # home_link = '<hr><p style="margin-top: 2em;"><a href="https://www.s-anand.net/">From: s-anand.net</a></p>'
-    # html_content = html_content + home_link
-
     # Generate Pygments CSS for syntax highlighting
     formatter = HtmlFormatter(style="default")
     pygments_css = formatter.get_style_defs(".highlight")
@@ -238,10 +234,9 @@ def markdown_to_email_html(markdown_file: Path) -> tuple[str, str]:
     return subject, email_html
 
 
-def get_credentials():
+def get_credentials(token_path: Path) -> Credentials:
     """Authenticate and return credentials for Google APIs."""
     creds = None
-    token_path = Path("token.json")
     credentials_path = Path("credentials.json")
 
     if not credentials_path.exists():
@@ -303,6 +298,7 @@ def send_email(gmail_service, people_service, to: str, subject: str, html_body: 
 def main(
     markdown_file: Path = typer.Argument(..., help="Markdown file path to convert"),
     email: str = typer.Option(None, "--email", help="Send email via Gmail API"),
+    token: str = typer.Option("token.json", "--token", help="Path to token.json for Gmail API credentials"),
 ):
     """Convert markdown blog posts to email-friendly HTML.
 
@@ -325,7 +321,7 @@ def main(
     if email:
         # Send via Gmail API
         typer.echo(f"Sending email to {email}...")
-        creds = get_credentials()
+        creds = get_credentials(Path(token))
         gmail_service = build("gmail", "v1", credentials=creds)
         people_service = build("people", "v1", credentials=creds)
         send_email(gmail_service, people_service, email, subject, html)

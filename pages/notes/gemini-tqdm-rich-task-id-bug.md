@@ -2,6 +2,7 @@
 title: "Gemini: tqdm rich task ID bug"
 date: 2026-01-11T11:47:53+08:00
 source: https://gemini.google.com/u/2/app/c087c6589b38a66d
+build: { list: never, render: always }
 ---
 
 ## User

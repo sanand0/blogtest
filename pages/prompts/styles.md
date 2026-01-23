@@ -316,7 +316,7 @@ Investigative/True Crime
 
 ## Gentle Persuasion
 
-https://gemini.google.com/u/2/app/7cefc8a1b9a999e3
+[Gemini: Gentle persuasion styles](/blog/notes/gemini-gentle-persuasion-styles/) <!-- https://gemini.google.com/u/2/app/7cefc8a1b9a999e3 -->
 
 - Marshall Rosenberg (Nonviolent Communication): He strips language of all moralistic judgment and diagnosis, forcing the reader (and speaker) to focus entirely on universal human needs and feelings, which makes defensiveness biologically impossible.
 - Daryl Davis (Accidental Courtesy). He recounts his experiences befriending KKK members not with arguments, but with the radical, disarming question: "How can you hate me when you don't even know me?"
@@ -500,7 +500,7 @@ Also:
 
 ## Visual Data Art
 
-https://gemini.google.com/u/2/app/f9fc55a95d6fecaf
+[Gemini: Visual Data Art Styles](/blog/notes/gemini-visual-data-art-styles/) <!-- https://gemini.google.com/u/2/app/f9fc55a95d6fecaf -->
 
 - Flow Fields: Silky, sweeping, painterly lines that look like combed fur, topographic maps, or river currents. Uses a grid of invisible vectors (arrows) to guide the path of drawing agents, simulating fluid dynamics. E.g. Tyler Hobbs. _Fidenza_ — A series that feels like a perfect hybrid of computer precision and abstract expressionist painting.
 - Reaction-Diffusion: Psychedelic animal print, brain coral textures, and fingerprint-like mazes that morph and breathe. Simulates chemical chemicals diffusing and reacting to create complex, self-organizing patterns (Turing patterns). E.g. Jonathan McCabe. _Multi-Scale Turing Patterns_ — Hypnotic, colorful, microscopic-looking textures.
@@ -577,9 +577,9 @@ https://claude.ai/chat/8cd25010-20d0-456c-b8fb-84e9a622f8a0
 
 ## Websites
 
-- 🔵 https://gemini.google.com/u/2/app/35376ba312690d54
-- 🟠 https://claude.ai/chat/70f821ef-8ac2-4f28-98de-25c4c7323b40
-- ⚪ https://chatgpt.com/c/69522438-aea4-8323-94b0-c8916f513de2
+- 🔵 [Gemini: Website styles](/blog/notes/gemini-website-styles/) <!-- https://gemini.google.com/u/2/app/35376ba312690d54 -->
+- 🟠 [Claude: Website styles](https://claude.ai/chat/70f821ef-8ac2-4f28-98de-25c4c7323b40)
+- ⚪ [ChatGPT: Website styles](https://chatgpt.com/c/69522438-aea4-8323-94b0-c8916f513de2)
 
 Sites:
 

@@ -120,7 +120,8 @@ Update: 31 Dec 2025. Here are the books I read this year via AI summaries, along
 17. [The Origin of Consciousness in the Breakdown of the Bicameral Mind](https://www.goodreads.com/book/show/22478.The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind) by Julian Jaynes
     [Claude](https://claude.ai/share/b2cea7b2-97b4-4d16-98dd-4359b0965ba9) <!-- https://claude.ai/chat/155d278f-7d53-4b7c-9648-f958f40cbc48 -->
 18. [Immune: A Journey Into the Mysterious System That Keeps You Alive](https://www.goodreads.com/book/show/57517317-immune) by Philipp Dettmer
-    [Claude](https://claude.ai/share/71db0b01-f112-4209-a163-793781eb159e | https://gemini.google.com/u/2/app/083719d81361361b) <!-- https://claude.ai/chat/f166daf6-f66e-482d-87eb-e4131eb4e3d7 -->
+    [Claude](https://claude.ai/share/71db0b01-f112-4209-a163-793781eb159e) <!-- https://claude.ai/chat/f166daf6-f66e-482d-87eb-e4131eb4e3d7 -->
+    [Gemini](/blog/notes/gemini-book-summary-immune/) <!-- https://gemini.google.com/u/2/app/083719d81361361b -->
 19. [The Gene: An Intimate History](https://www.goodreads.com/book/show/27276428-the-gene) by Siddhartha Mukherjee
     [Claude](https://claude.ai/share/eeecb08e-1cac-46a6-8d0b-95027d815ef1) <!-- https://claude.ai/chat/b78c7eba-08e7-46a3-a901-208a2082a059 -->
 20. [The Structure of Evolutionary Theory](https://www.goodreads.com/book/show/33930.The_Structure_of_Evolutionary_Theory) by Stephen Jay Gould

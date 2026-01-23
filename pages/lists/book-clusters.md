@@ -16,7 +16,7 @@ Rather than read individual books, why not read clusters on related topics? Usin
   - A Mind for Numbers (Barbara Oakley, 2014)
   - Ultralearning (Scott Young, 2019)
   - How to Take Smart Notes (Sönke Ahrens, 2017)
-- [x] Motivation, grit, and “how people get good” (2016–2019). [#](https://claude.ai/chat/ee0c099e-ed4c-46d1-9dcd-111010334375) [#](https://gemini.google.com/u/2/app/f6756cca3a258d92)
+- [x] Motivation, grit, and “how people get good” (2016–2019). [#](https://claude.ai/chat/ee0c099e-ed4c-46d1-9dcd-111010334375) [Gemini](/blog/notes/gemini-book-summary-grit-peak-range/)
   - Grit (Angela Duckworth)
   - Peak (Anders Ericsson & Robert Pool)
   - Range (David Epstein)

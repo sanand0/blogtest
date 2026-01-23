@@ -5,6 +5,16 @@ date: 2025-04-15T00:00:00Z
 
 Results of my software tool evaluations. 🟢 is my current choice and 🟡 is worth evaluating.
 
+## AVIF convertors, 22 Jan 2026
+
+[AVIF Compression Tools Comparison](https://gemini.google.com/share/39a34abb2428) [🔒](https://gemini.google.com/app/34a805564cc98e5b)
+
+- ⭐ **[libavif 1,983 ⭐ Jan 2026](https://github.com/AOMediaCodec/libavif):** The reference implementation; offers the absolute best compression density (via AOM) and control, but has a steeper learning curve. `avifenc --min 0 --max 63 -a end-usage=q -a cq-level=18 -a tune=ssim --speed 0 --jobs 4 input.png output.avif` gets the best compression.
+- **[cavif-rs 655 ⭐ Jan 2026](https://github.com/kornelski/cavif-rs):** A user-friendly Rust tool that defaults to the faster `rav1e` encoder; excellent for speed and simplicity but slightly less efficient than `avifenc` at maximum settings.
+- **[FFmpeg](https://ffmpeg.org/):** The ubiquitous multimedia swiss-army knife; great if you already have it, but syntax is complex (`-c:v libaom-av1`) and defaults are often suboptimal for still images.
+- **[ImageMagick](https://imagemagick.org/):** The easiest syntax (`convert input.png output.avif`), but it acts as a wrapper that delegates to `libheif`/`libavif`, giving you less granular control over the encoding process.
+- **[svt-av1](https://gitlab.com/AOMediaCodec/SVT-AV1):** An encoder focused purely on speed and parallelization; fantastic for video or massive batch jobs, but requires piping raw YUV data, making it impractical for simple image conversion.
+
 ## Embedded comments / forums for blog posts, 21 Jan 2026
 
 - [discourse/discourse](https://github.com/discourse/discourse): More feature-rich forum software. Supports Google OAuth. Free if self-hosted. Full data export capabilities. More resource-intensive (requires ~2GB RAM). Better for building a full community vs. just blog comments
@@ -102,7 +112,7 @@ If you tell me whether **Google login is truly non-negotiable** (vs “any login
 
 [Modern SVG path animation alternatives to Vivus](https://claude.ai/share/42dc868f-d56a-4f74-a5c2-005bfe5d1925) |
 [Animate SVG with GSAP](https://chatgpt.com/share/69575f52-8bf8-800c-8a17-9a2405024057) |
-[Gemini 🔒](https://gemini.google.com/u/2/app/f8e5a6d49dff9f44)
+[JavaScript SVG animation doodle libraries](/blog/notes/gemini-javascript-svg-animation-doodle-libraries/)
 
 - 🟢 [anime 65,560 ⭐ Dec 2025](https://github.com/juliangarnier/anime): Use with anime.stagger. Fast, lightweight JavaScript animation engine with SVG line drawing via `strokeDashoffset`. **Summary:** Cleanest API for path drawing (`anime.setDashoffset` helper); ~17KB; free and actively maintained (v4 released 2024); excellent staggering and timeline features; best balance of simplicity and power for most use cases.
 - 🟡 [lazy-line-painter 1,986 ⭐ Dec 2023](https://github.com/merri-ment/lazy-line-painter): Old but works. Modern JS library for SVG path animation with GUI editor. **Summary:** ~10KB; no dependencies; comes with Lazy Line Composer visual editor for designing animations without code; per-path timing control via data attributes; actively maintained; excellent for designers who want GUI workflow.
