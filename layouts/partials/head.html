@@ -9,7 +9,8 @@
 {{- $base_path := (urls.Parse site.BaseURL).Path | strings.TrimSuffix "/" -}}
 
 {{- /* Title */}}
-<title>{{ if .IsHome }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ end }}{{ site.Title }}</title>
+{{- /* Capitalize title and avoid duplication when title equals site title */}}
+<title>{{ if .IsHome }}{{ else }}{{ if .Title }}{{ $pageTitle := .Title | title }}{{ if ne $pageTitle site.Title }}{{ $pageTitle }} | {{ end }}{{ end }}{{ end }}{{ site.Title }}</title>
 
 {{- /* Meta */}}
 {{- if .IsHome }}
