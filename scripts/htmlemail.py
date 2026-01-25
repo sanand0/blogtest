@@ -3,7 +3,7 @@
 # requires-python = ">=3.12"
 # dependencies = [
 #     "python-frontmatter>=1.0.0",
-#     "markdown>=3.5.0",
+#     "markdown-it-py>=3.0.0",
 #     "premailer>=3.10.0",
 #     "pygments>=2.17.0",
 #     "typer>=0.12.0",
@@ -23,7 +23,10 @@ from email.mime.text import MIMEText
 from pathlib import Path
 
 import frontmatter
-import markdown
+from markdown_it import MarkdownIt
+from pygments import highlight as pygments_highlight
+from pygments.lexers import get_lexer_by_name
+from pygments.util import ClassNotFound
 import typer
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
@@ -105,21 +108,29 @@ def markdown_to_email_html(markdown_file: Path) -> tuple[str, str]:
     post = frontmatter.load(markdown_file)
     content = re.sub(r"\\[ \t]*(\r?\n)", r"\1", post.content)
 
-    # Convert markdown to HTML with extensions for tables, code blocks, etc.
-    html_content = markdown.markdown(
-        content,
-        extensions=[
-            "extra",  # Includes tables, fenced code blocks, etc.
-            "codehilite",  # Syntax highlighting (requires Pygments)
-            "nl2br",  # Newline to <br>
-        ],
-        extension_configs={
-            "codehilite": {
-                "css_class": "highlight",
-                "guess_lang": False,
-            }
-        },
+    def highlight_code(code: str, lang: str | None, _attrs: str) -> str | None:
+        if not lang:
+            return None
+        try:
+            lexer = get_lexer_by_name(lang)
+        except ClassNotFound:
+            return None
+        formatter = HtmlFormatter(style="default", nowrap=True)
+        return pygments_highlight(code, lexer, formatter)
+
+    md = (
+        MarkdownIt(
+            "commonmark",
+            {
+                "html": True,
+                "breaks": True,
+                "highlight": highlight_code,
+            },
+        )
+        .enable("table")
+        .enable("strikethrough")
     )
+    html_content = md.render(content)
 
     # Replace YouTube embeds with image links
     html_content = replace_youtube_embeds(html_content)
@@ -134,7 +145,7 @@ def markdown_to_email_html(markdown_file: Path) -> tuple[str, str]:
 
     # Generate Pygments CSS for syntax highlighting
     formatter = HtmlFormatter(style="default")
-    pygments_css = formatter.get_style_defs(".highlight")
+    pygments_css = formatter.get_style_defs("pre code")
 
     # Wrap in a basic HTML structure with simple, human-friendly styling
     html_template = f"""
@@ -179,17 +190,6 @@ def markdown_to_email_html(markdown_file: Path) -> tuple[str, str]:
             pre code {{
                 padding: 0;
                 background-color: transparent;
-            }}
-            .highlight {{
-                background-color: #f5f5f5;
-                padding: 1em;
-                border-radius: 3px;
-                margin: 1em 0;
-            }}
-            .highlight pre {{
-                background-color: transparent;
-                padding: 0;
-                margin: 0;
             }}
             /* Pygments syntax highlighting styles */
             {pygments_css}
@@ -257,15 +257,23 @@ def get_credentials(token_path: Path) -> Credentials:
     return creds
 
 
-def send_email(gmail_service, people_service, to: str, subject: str, html_body: str):
+def format_recipients(recipients: list[str]) -> str:
+    """Format recipients for email headers."""
+    return ", ".join(recipients)
+
+
+def send_email(
+    gmail_service, people_service, to: list[str], subject: str, html_body: str, cc: list[str]
+):
     """Send an email via Gmail API.
 
     Args:
         gmail_service: Gmail API service object
         people_service: People API service object
-        to: Recipient email address
+        to: Recipient email addresses
         subject: Email subject
         html_body: HTML email body
+        cc: CC recipient email addresses
     """
     # Get sender's email address from Gmail profile
     profile = gmail_service.users().getProfile(userId="me").execute()
@@ -280,7 +288,9 @@ def send_email(gmail_service, people_service, to: str, subject: str, html_body: 
         display_name = person["names"][0].get("displayName", email_address)
 
     message = MIMEMultipart("alternative")
-    message["To"] = to
+    message["To"] = format_recipients(to)
+    if cc:
+        message["Cc"] = format_recipients(cc)
     message["From"] = f'"{display_name}" <{email_address}>'
     message["Subject"] = subject
 
@@ -295,10 +305,52 @@ def send_email(gmail_service, people_service, to: str, subject: str, html_body: 
     gmail_service.users().messages().send(userId="me", body={"raw": raw_message}).execute()
 
 
+def run_tests() -> None:
+    """Run minimal inline tests for markdown rendering and options."""
+    import tempfile
+
+    def render(md: str) -> tuple[str, str]:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            path = Path(tmpdir) / "post.md"
+            path.write_text("---\ntitle: Test\n---\n\n" + md)
+            subject, html = markdown_to_email_html(path)
+            return subject, html
+
+    _subject, html = render("- A\n  - B\n")
+    assert "<ul" in html and "<li" in html and "B" in html
+
+    _subject, html = render("```python\nprint('hi')\n```\n")
+    assert "print" in html and "<pre" in html and "<code" in html
+
+    _subject, html = render("| A | B |\n| - | - |\n| 1 | 2 |\n")
+    assert "<table" in html and "<th" in html and "<td" in html
+
+    _subject, html = render('<div markdown="1">**bold**</div>')
+    assert "<div" in html and "**bold**" in html
+
+    _subject, html = render('<iframe src="https://www.youtube.com/embed/abc123"></iframe>')
+    assert "youtu.be/abc123" in html and "i.ytimg.com" in html
+
+    _subject, html = render("[rel](../x)\n\n![img](../i.png)\n")
+    assert "https://www.s-anand.net/blog/x/" in html or "https://www.s-anand.net/blog/x" in html
+    assert "https://www.s-anand.net/blog/i.png" in html
+
+    _subject, html = render("Line 1\\\nLine 2\n")
+    assert "Line 1" in html and "Line 2" in html and "<br" in html
+
+    assert format_recipients(["a@example.com", "b@example.com"]) == "a@example.com, b@example.com"
+
+    typer.echo("✓ Tests passed")
+
+
 def main(
-    markdown_file: Path = typer.Argument(..., help="Markdown file path to convert"),
-    email: str = typer.Option(None, "--email", help="Send email via Gmail API"),
-    token: str = typer.Option("token.json", "--token", help="Path to token.json for Gmail API credentials"),
+    markdown_file: Path | None = typer.Argument(None, help="Markdown file path to convert"),
+    email: list[str] = typer.Option(
+        None, "--email", help="Send email via Gmail API (repeatable option)"
+    ),
+    cc: list[str] = typer.Option(None, "--cc", help="Copy emails (repeatable)"),
+    token: str = typer.Option("token.json", "--token", help="Gmail API token storage path"),
+    test: bool = typer.Option(False, "--test", help="Run inline tests and exit"),
 ):
     """Convert markdown blog posts to email-friendly HTML.
 
@@ -311,6 +363,14 @@ def main(
         # Send email via Gmail
         uv run scripts/htmlemail.py ./posts/2026/open-sandals.md --email user@example.com
     """
+    if test:
+        run_tests()
+        raise typer.Exit(0)
+
+    if not markdown_file:
+        typer.echo("Error: markdown_file is required unless --test is used", err=True)
+        raise typer.Exit(1)
+
     if not markdown_file.exists():
         typer.echo(f"Error: File not found: {markdown_file}", err=True)
         raise typer.Exit(1)
@@ -320,12 +380,12 @@ def main(
 
     if email:
         # Send via Gmail API
-        typer.echo(f"Sending email to {email}...")
+        typer.echo(f"Sending email to {', '.join(email)}...")
         creds = get_credentials(Path(token))
         gmail_service = build("gmail", "v1", credentials=creds)
         people_service = build("people", "v1", credentials=creds)
-        send_email(gmail_service, people_service, email, subject, html)
-        typer.echo(f"✓ Email sent to {email} with subject: {subject}")
+        send_email(gmail_service, people_service, email, subject, html, cc or [])
+        typer.echo(f"✓ Email sent to {', '.join(email)} with subject: {subject}")
     else:
         # Print to stdout
         typer.echo(html)

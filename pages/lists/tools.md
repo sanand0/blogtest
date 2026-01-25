@@ -5,11 +5,27 @@ date: 2025-04-15T00:00:00Z
 
 Results of my software tool evaluations. 🟢 is my current choice and 🟡 is worth evaluating.
 
+## Python Markdown parsers, 23 Jan 2026
+
+[Markdown Parsers Evaluation](https://chatgpt.com/share/69736aa7-b510-8003-b350-4d14e8a7d0a1)
+
+- [markdown 4,149 ⭐ Jan 2026](https://github.com/Python-Markdown/markdown): Classic Python Markdown with an extension ecosystem. Summary: biggest “default choice” in Python land; active releases; best when ecosystem compatibility matters. ([GitHub][2])
+- [mistune 2,959 ⭐ Jan 2026](https://github.com/lepture/mistune): Fast Markdown parser with renderers/plugins. Summary: strong speed + clean embedding; recent release v3.2.0. ([GitHub][3])
+- [python-markdown2 2,808 ⭐ Jan 2026](https://github.com/trentm/python-markdown2): Fast Markdown implementation with many “extras.” Summary: practical CLI-style feature surface; GitHub “Releases” not used, so cadence needs tag/commit checking. ([GitHub][13])
+- 🟡 [markdown-it-py 1,211 ⭐ Jan 2026](https://github.com/executablebooks/markdown-it-py): markdown-it port with CommonMark + plugin architecture. Summary: modern, spec-centric; great token pipeline; optional Rust speedups exist. ([GitHub][14])
+- [MyST-Parser 862 ⭐ Jan 2026](https://github.com/executablebooks/MyST-Parser): Extended CommonMark parser + Sphinx/docutils bridge. Summary: best for technical publishing workflows; feature work often tracks Sphinx/docutils compatibility.
+- [marko 442 ⭐ Jan 2026](https://github.com/frostming/marko): Extensible CommonMark-based parser. Summary: good if you’re building custom syntax; active issue flow includes performance hardening.
+- [mistletoe 1,012 ⭐ Jan 2026](https://github.com/miyuchina/mistletoe): Pure-Python CommonMark, AST + renderers. Summary: strong architecture; recent release v1.5.1; thread-safety concern noted.
+- [mdit-py-plugins 37 ⭐ Jan 2026](https://github.com/executablebooks/mdit-py-plugins): Core plugin pack for markdown-it-py. Summary: expands syntax/features without bespoke rule code.
+- [markdown-it-pyrs 54 ⭐ Jan 2026](https://github.com/chrisjsewell/markdown-it-pyrs): Rust binding for markdown-it.rs. Summary: benchmark leader in published table; beta caveat.
+- [pyromark 37 ⭐ Jan 2026](https://github.com/monosans/pyromark): Rust (pulldown-cmark) based parser. Summary: speed-first; expect native wheels and a narrower extension surface than markdown-it ecosystems.
+- [commonmark.py 238 ⭐ Mar 2022](https://github.com/readthedocs/commonmark.py): Deprecated CommonMark parser. Summary: don’t start here; maintainers recommend markdown-it-py.
+
 ## AVIF convertors, 22 Jan 2026
 
 [AVIF Compression Tools Comparison](https://gemini.google.com/share/39a34abb2428) [🔒](https://gemini.google.com/app/34a805564cc98e5b)
 
-- ⭐ **[libavif 1,983 ⭐ Jan 2026](https://github.com/AOMediaCodec/libavif):** The reference implementation; offers the absolute best compression density (via AOM) and control, but has a steeper learning curve. `avifenc --min 0 --max 63 -a end-usage=q -a cq-level=18 -a tune=ssim --speed 0 --jobs 4 input.png output.avif` gets the best compression.
+- 🟢 **[libavif 1,983 ⭐ Jan 2026](https://github.com/AOMediaCodec/libavif):** The reference implementation; offers the absolute best compression density (via AOM) and control, but has a steeper learning curve. `avifenc --min 0 --max 63 -a end-usage=q -a cq-level=18 -a tune=ssim --speed 0 --jobs 4 input.png output.avif` gets the best compression.
 - **[cavif-rs 655 ⭐ Jan 2026](https://github.com/kornelski/cavif-rs):** A user-friendly Rust tool that defaults to the faster `rav1e` encoder; excellent for speed and simplicity but slightly less efficient than `avifenc` at maximum settings.
 - **[FFmpeg](https://ffmpeg.org/):** The ubiquitous multimedia swiss-army knife; great if you already have it, but syntax is complex (`-c:v libaom-av1`) and defaults are often suboptimal for still images.
 - **[ImageMagick](https://imagemagick.org/):** The easiest syntax (`convert input.png output.avif`), but it acts as a wrapper that delegates to `libheif`/`libavif`, giving you less granular control over the encoding process.
