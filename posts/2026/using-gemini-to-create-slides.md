@@ -36,7 +36,6 @@ They went further, and prompted it to convert it to a slide deck:
 In 30 minutes, several people had created beautiful slide decks with no support! So now they can:
 
 - Create a first version, show it to analysts and say "Build something like this. But change ..."
-  - Or, just tell Gemini "But change ..."
 - Create half a dozen drafts and pick what they like
 
 But what excites me more is when we:
