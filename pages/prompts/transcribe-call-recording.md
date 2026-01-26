@@ -13,7 +13,7 @@ DO NOT MISS ANY PART OF THE CONVERSATION.
 Drop verbal tics and fillers (um, uh, etc).
 Correct spelling and grammar but otherwise don't modify the original words.
 Add English translations to any non-English parts.
-Mark inaudible or unclear segments as "[UNCLEAR]".
+Mark inaudible or unclear segments as "[inaudible]". Mark uncertain words with like "[word?]" or ambiguous possibilities like "[word1? word2?]".
 Break it into logical paragraphs. No timestamps.
 Begin each paragraph with a **Speaker**: ...., e.g. **Anand**: ...
 Guess speaker names. If unsure, use **Unsure**: ...

@@ -5,6 +5,15 @@ date: 2025-04-15T00:00:00Z
 
 Results of my software tool evaluations. 🟢 is my current choice and 🟡 is worth evaluating.
 
+## Code execution sandboxes, 26 Jan 2026
+
+- [Fly.io Sprites](https://sprites.dev/): ~$3/day (on demand). Persistent, fast-startup, checkpoint-able, public HTTPS URLs, SSH, port-forwarding, auto-sleep after 30s.
+- [CloudFlare Sandbox](https://sandbox.cloudflare.com/)
+- [e2b.dev](https://e2b.dev/): $1/day (on demand) with $100 one time credits. Self-hostable - but complex. [Discussion](https://www.reddit.com/r/LocalLLaMA/comments/1chsx7z/is_there_an_opensource_alternative_to_e2b_e2bdev/)
+- [Modal Sandbox](https://modal.com/docs/guide/sandboxes)
+- [AgentRun](https://github.com/tjmlabs/AgentRun): open source, via Docker
+- [nsjail](https://github.com/google/nsjail): by Google. Write your own API
+
 ## Python Markdown parsers, 23 Jan 2026
 
 [Markdown Parsers Evaluation](https://chatgpt.com/share/69736aa7-b510-8003-b350-4d14e8a7d0a1)

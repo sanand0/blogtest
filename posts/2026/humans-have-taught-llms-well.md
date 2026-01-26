@@ -24,3 +24,5 @@ categories:
 | **Self-Serving Bias**: Humans rate their own work more generously than external judges would, finding their own prose clearer and arguments more compelling                         | [**Self-Enhancement Bias**: LLMs favor outputs from themselves or similar models when evaluating responses](https://arxiv.org/abs/2303.16634)                                                                                   |
 
 Via [Claude](https://claude.ai/share/5998d509-aabf-479e-9ae0-464edc01ac46)
+
+Inspired by [LLM problems observed in humans](https://embd.cc/llm-problems-observed-in-humans).
