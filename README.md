@@ -19,6 +19,7 @@ Configuration & Code:
 - `setup.sh`: Build script to generate content and build site
 - `.github/workflows/deploy.yml`: Deployment workflow for GitHub Pages.
 - `layouts/`: Hugo layout overrides for theme customizations.
+  - `layouts/partials/head.html` generates `<title>` by capitalizing (e.g. [blog → Blog](https://www.s-anand.net/blog/)) and deduplicating site title (e.g. ["S Anand | S Anand" -> "S Anand"](https://www.s-anand.net/)).
 - `static/`: Static files (CSS overrides, favicon assets).
 - `themes/PaperMod/`: Hugo theme sources (vendored).
 - `scripts/`: Conversion and utility scripts.
