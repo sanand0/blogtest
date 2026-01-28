@@ -19,6 +19,14 @@ What excuses abandon these?
 How would one make this fail?
 ```
 
+Alternative:
+
+```markdown
+Did you fully address both the letter AND spirit of my question?
+List any shortcuts taken, corners cut, or ways you optimized for appearing correct rather than being correct.
+What did I actually want vs what you provided?
+```
+
 ## Brainstorming
 
 ```markdown
@@ -57,7 +65,10 @@ Other styles: Feynman, Tim Harford, Randall Munroe, etc. See [styles](/blog/prom
 ## Explain quotes
 
 ```markdown
-Sing the beauty of these words, and their meaning. (I don't really mean sing. I mean, write in a way that'd really make me appreciate the beauty. But without going overboard. I mean, some wicked humor is always welcome! In fact, I'd love for you to think about who some of the best authors are who achieve this balance and write in THEIR style.)
+Sing the beauty of these words, and their meaning.
+(I don't really mean sing. I mean, write in a way that'd really make me appreciate the beauty.
+But without going overboard. I mean, some wicked humor is always welcome!
+In fact, I'd love for you to think about who some of the best authors are who achieve this balance and write in THEIR style.)
 ```
 
 ## Read between Lines
@@ -94,14 +105,6 @@ Research best practices from modern research and ancient wisdom.
 - What would change your mind?
 - Ask me questions, Socratically, to discover the real need.
 
-## Confession / Post-mortem
-
-```markdown
-Did you fully address both the letter AND spirit of my question?
-List any shortcuts taken, corners cut, or ways you optimized for appearing correct rather than being correct.
-What did I actually want vs what you provided?
-```
-
 ## LinkedIn Post
 
 ```markdown
@@ -116,11 +119,14 @@ Draw this as a visually rich, intricately detailed, colorful, and funny, sketchn
 
 ## Slide deck
 
+```markdown
 Convert this into a beautiful slide deck, McKinsey style.
 Make the slides content rich, i.e. clear and self-explanatory with enough detail to help the audience understand without a narrator.
-Write as a single page HTML application.
 Use iconography, typography, stock images, etc. as appropriate.
+Write as a single page HTML application.
+```
 
+For Gemini, to generate Google Slides, remove the last (HTML) line.
 
 ## Handling ambiguity
 

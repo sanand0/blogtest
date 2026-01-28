@@ -24,17 +24,17 @@ date: 2026-01-25T11:39:28+05:30
   - **Founded by**: Prukalpa Sankar and Varun Banka. ([Forbes India](https://www.forbesindia.com/article/startups/atlan-putting-data-to-work/55003/1 "Atlan: Putting data to work"))
   - **Status**: No longer operating as the original “projects” startup; continued as a “data for social good community” while the team shifted focus to Atlan. ([Forbes India](https://www.forbesindia.com/article/startups/atlan-putting-data-to-work/55003/1 "Atlan: Putting data to work"))
   - **Offering**: Earlier: data-intelligence projects + internal tools; later opened up tools for data teams and pointed users to Atlan. ([Forbes India](https://www.forbesindia.com/article/startups/atlan-putting-data-to-work/55003/1 "Atlan: Putting data to work"))
-  - **Financials**: Tracxn lists total funding of **$320K (seed, Jul 30, 2014)**. ([Tracxn](https://tracxn.com/d/companies/socialcops/__zgrL6LvfkAORC900ADahsPTx2FrO1vRraWce3AJ5N2I/funding-and-investors?utm_source=chatgpt.com "2025 Funding Rounds & List of Investors - SocialCops"))
+  - **Financials**: Tracxn lists total funding of **$320K (seed, Jul 30, 2014)**. ([Tracxn](https://tracxn.com/d/companies/socialcops/__zgrL6LvfkAORC900ADahsPTx2FrO1vRraWce3AJ5N2I/funding-and-investors "2025 Funding Rounds & List of Investors - SocialCops"))
 - **FactChecker.in (2014)** _(product under IndiaSpend)_
   - **Founded by**: IndiaSpend/SPRF initiative ([PRS Legislative Research](https://prsindia.org/theprsblog/ministry-of-consumer-affairs-launches-national-transparency-portal-on-pds?page=2&per-page=1 "Ministry of Consumer Affairs launches National ..."))
   - **Status**: Active (as a fact-checking initiative associated with IndiaSpend) ([PRS Legislative Research](https://prsindia.org/theprsblog/ministry-of-consumer-affairs-launches-national-transparency-portal-on-pds?page=2&per-page=1 "Ministry of Consumer Affairs launches National ..."))
   - **Offering**: Sustained via IndiaSpend’s non-profit funding base ([Indiaspend](https://www.indiaspend.com/trustees-patrons "Trustees & Patrons"))
   - **Financials**: No separate public financials (bundled into parent org) ([Indiaspend](https://www.indiaspend.com/trustees-patrons "Trustees & Patrons"))
 - [How India Lives](https://howindialives.com/) (2014)
-  - **Founded by**: Avinash Singh, N S Ramnath, John Samuel Raja Duraipandy (Tracxn profile); HIL’s own team page also lists Avinash Singh + Avinash Celestine as “Co-founder”. ([Tracxn](https://tracxn.com/d/companies/how-india-lives/__zrqFXpqyV8_BlisojRmBKw6cJFaFw3_3C6IszZPrzfA?utm_source=chatgpt.com "How India Lives - 2025 Company Profile & Team"))
-  - **Status**: Active (site is live; products like “Gram” and “Sales Pulse” are being offered). ([howindialives.com](https://howindialives.com/gram/?utm_source=chatgpt.com "HIL || Home"))
-  - **Offering**: Public-data products (e.g., Gram, Sales Pulse) + consulting/services around identifying/extracting/analyzing/visualising public data. ([howindialives.com](https://howindialives.com/gram/aboutus.php?utm_source=chatgpt.com "HIL || Products & Services"))
-  - **Financials**: Tracxn lists annual revenue of **₹1.92 Cr (as on Mar 31, 2022)**; Sales Pulse lists pricing at **₹35,400/quarter** and **₹1,18,000/year** (incl. taxes). ([Tracxn](https://tracxn.com/d/companies/how-india-lives/__zrqFXpqyV8_BlisojRmBKw6cJFaFw3_3C6IszZPrzfA?utm_source=chatgpt.com "How India Lives - 2025 Company Profile & Team"))
+  - **Founded by**: Avinash Singh, N S Ramnath, John Samuel Raja Duraipandy (Tracxn profile); HIL’s own team page also lists Avinash Singh + Avinash Celestine as “Co-founder”. ([Tracxn](https://tracxn.com/d/companies/how-india-lives/__zrqFXpqyV8_BlisojRmBKw6cJFaFw3_3C6IszZPrzfA "How India Lives - 2025 Company Profile & Team"))
+  - **Status**: Active (site is live; products like “Gram” and “Sales Pulse” are being offered). ([howindialives.com](https://howindialives.com/gram/ "HIL || Home"))
+  - **Offering**: Public-data products (e.g., Gram, Sales Pulse) + consulting/services around identifying/extracting/analyzing/visualising public data. ([howindialives.com](https://howindialives.com/gram/aboutus.php "HIL || Products & Services"))
+  - **Financials**: Tracxn lists annual revenue of **₹1.92 Cr (as on Mar 31, 2022)**; Sales Pulse lists pricing at **₹35,400/quarter** and **₹1,18,000/year** (incl. taxes). ([Tracxn](https://tracxn.com/d/companies/how-india-lives/__zrqFXpqyV8_BlisojRmBKw6cJFaFw3_3C6IszZPrzfA "How India Lives - 2025 Company Profile & Team"))
 - **Data.gov.in / OGD Platform India (launched 2012)**
   - **Founded by**: Government of India (built/hosted by **NIC, MeitY**) ([Data.gov.in](https://www.data.gov.in/Godl "Government Open Data License - India"))
   - **Status**: Active ([Wikipedia](https://en.wikipedia.org/wiki/Data.gov.in "Data.gov.in"))
@@ -46,13 +46,13 @@ date: 2026-01-25T11:39:28+05:30
   - **Offering**: Subscription access to microdata for institutions/researchers ([The India Forum](https://www.theindiaforum.in/article/cmies-consumer-pyramids-household-surveys-assessment "CMIE's Consumer Pyramids Household Surveys"))
   - **Financials**: One public datapoint on pricing: “membership subscription fee … **$25,000 for one year**” (example cited) ([The India Forum](https://www.theindiaforum.in/article/cmies-consumer-pyramids-household-surveys-assessment "CMIE's Consumer Pyramids Household Surveys")) _(CMIE’s own full financials may not be openly published like listed companies)_
 - [Thurro](https://thurro.com/about-us/) (2016)
-  - **Founded by**: Karthik Ranganathan, Mrinalini Rao, Akhilesh Tilotia. ([Thurro](https://thurro.com/about-us/?utm_source=chatgpt.com "About Us"))
-  - **Status**: Active. ([Thurro](https://thurro.com/about-us/?utm_source=chatgpt.com "About Us"))
-  - **Offering**: Data/alternative-data driven “financial intelligence” (research, notebooks/analyses, data products). ([Thurro](https://thurro.com/about-us/?utm_source=chatgpt.com "About Us"))
-  - **Financials**: Tracxn lists annual revenue of **₹95.7L (as on Mar 31, 2024)** and **$0 funding**. ([Tracxn](https://tracxn.com/d/companies/thurro/__IohcH86Qg9gK62LNdNzVd1FXVK3Kzyrm0uA0dMjz9Yg?utm_source=chatgpt.com "Thurro - 2026 Company Profile & Team"))
+  - **Founded by**: Karthik Ranganathan, Mrinalini Rao, Akhilesh Tilotia. ([Thurro](https://thurro.com/about-us/ "About Us"))
+  - **Status**: Active. ([Thurro](https://thurro.com/about-us/ "About Us"))
+  - **Offering**: Data/alternative-data driven “financial intelligence” (research, notebooks/analyses, data products). ([Thurro](https://thurro.com/about-us/ "About Us"))
+  - **Financials**: Tracxn lists annual revenue of **₹95.7L (as on Mar 31, 2024)** and **$0 funding**. ([Tracxn](https://tracxn.com/d/companies/thurro/__IohcH86Qg9gK62LNdNzVd1FXVK3Kzyrm0uA0dMjz9Yg "Thurro - 2026 Company Profile & Team"))
 - [Alt News](https://www.altnews.in/) (Feb 2017)
-  - **Founded by**: Pratik Sinha, Mohammed Zubair. ([Wikipedia](https://en.wikipedia.org/wiki/Alt_News?utm_source=chatgpt.com "Alt News"))
-  - **Status**: Active. ([Wikipedia](https://en.wikipedia.org/wiki/Alt_News?utm_source=chatgpt.com "Alt News"))
+  - **Founded by**: Pratik Sinha, Mohammed Zubair. ([Wikipedia](https://en.wikipedia.org/wiki/Alt_News "Alt News"))
+  - **Status**: Active. ([Wikipedia](https://en.wikipedia.org/wiki/Alt_News "Alt News"))
   - **Offering**: Non-profit fact-checking; runs under Pravda Media Foundation (Section 8 company); funded via donations + grants. ([Alt News](https://www.altnews.in/transparency-of-funding/ "Transparency of funding - Alt News"))
   - **Financials**: Alt News discloses at least **₹3,00,000 received in FY2017–18 from Zindabad Trust**; Tracxn lists **Pravda Media Foundation revenue ~₹2.18 Cr (FY ending Mar 31, 2025)** (entity operating Alt News). ([Alt News](https://www.altnews.in/transparency-of-funding/ "Transparency of funding - Alt News"))
 - [OpenCity](https://www.re3data.org/repository/r3d100014471) (2017)
@@ -61,20 +61,20 @@ date: 2026-01-25T11:39:28+05:30
   - **Offering**: Open urban data portal consolidating city datasets for planners/researchers/citizens; civic-tech transparency + evidence-based governance use. ([re3data.org](https://www.re3data.org/repository/r3d100014471 "OpenCity-Urban Data Portal | re3data.org"))
   - **Financials**: No venture-level financials publicly stated in the repository description; best understood as a nonprofit programme/civic-tech initiative. ([re3data.org](https://www.re3data.org/repository/r3d100014471 "OpenCity-Urban Data Portal | re3data.org"))
 - [SatSure](https://satsure.co/) (Sep 2017)
-  - **Founded by**: Prateep Basu, Rashmit Singh Sukhmani, Abhishek Raju (core team/founders listed in profile coverage). ([YourStory.com](https://yourstory.com/companies/satsure?utm_source=chatgpt.com "SatSure Company Profile Funding & Investors"))
-  - **Status**: Active. ([YourStory.com](https://yourstory.com/companies/satsure?utm_source=chatgpt.com "SatSure Company Profile Funding & Investors"))
-  - **Offering**: Geospatial / satellite-data analytics for agriculture, infrastructure, climate-risk and decisioning. ([YourStory.com](https://yourstory.com/companies/satsure?utm_source=chatgpt.com "SatSure Company Profile Funding & Investors"))
-  - **Financials**: Tracxn lists **$27.7M total funding** and (for the Indian legal entity) **₹9.65 Cr revenue (FY ending Mar 31, 2024)**. ([Tracxn](https://tracxn.com/d/companies/satsure/__VwEdVJFx8Cug7LbM_A9eS2RoSqaCCx4VQxzm6i69hdo?utm_source=chatgpt.com "SatSure - 2025 Company Profile & Team"))
+  - **Founded by**: Prateep Basu, Rashmit Singh Sukhmani, Abhishek Raju (core team/founders listed in profile coverage). ([YourStory.com](https://yourstory.com/companies/satsure "SatSure Company Profile Funding & Investors"))
+  - **Status**: Active. ([YourStory.com](https://yourstory.com/companies/satsure "SatSure Company Profile Funding & Investors"))
+  - **Offering**: Geospatial / satellite-data analytics for agriculture, infrastructure, climate-risk and decisioning. ([YourStory.com](https://yourstory.com/companies/satsure "SatSure Company Profile Funding & Investors"))
+  - **Financials**: Tracxn lists **$27.7M total funding** and (for the Indian legal entity) **₹9.65 Cr revenue (FY ending Mar 31, 2024)**. ([Tracxn](https://tracxn.com/d/companies/satsure/__VwEdVJFx8Cug7LbM_A9eS2RoSqaCCx4VQxzm6i69hdo "SatSure - 2025 Company Profile & Team"))
 - [Data Sutram](https://datasutram.com/) (2018)
-  - **Founded by**: Rajit Bhattacharya, Aisik Paul, Ankit Das. ([datasutram.com](https://datasutram.com/blog?categories=35%2C53%2C48%2C39%2C33%2C43%2C52%2C47%2C38%2C22%2C9\&page=4\&utm_source=chatgpt.com "30 Startups To Watch"))
-  - **Status**: Active. ([YourStory.com](https://yourstory.com/2025/05/data-sutram-9m-series-a-funding-b-capital-lightspeed?utm_source=chatgpt.com "Data Sutram bags $9M series A funding led by B Capital, ..."))
-  - **Offering**: AI-driven external-data intelligence for fraud/risk/compliance (RegTech), used by banks/NBFCs/fintechs. ([YourStory.com](https://yourstory.com/2025/05/data-sutram-9m-series-a-funding-b-capital-lightspeed?utm_source=chatgpt.com "Data Sutram bags $9M series A funding led by B Capital, ..."))
-  - **Financials**: Raised **$9M Series A (May 22, 2025)** (mix of primary/secondary). Valuation is not disclosed publicly (some outlets report an estimated range, but the company hasn’t confirmed it). ([YourStory.com](https://yourstory.com/2025/05/data-sutram-9m-series-a-funding-b-capital-lightspeed?utm_source=chatgpt.com "Data Sutram bags $9M series A funding led by B Capital, ..."))
+  - **Founded by**: Rajit Bhattacharya, Aisik Paul, Ankit Das. ([datasutram.com](https://datasutram.com/blog?categories=35%2C53%2C48%2C39%2C33%2C43%2C52%2C47%2C38%2C22%2C9\&page=4 "30 Startups To Watch"))
+  - **Status**: Active. ([YourStory.com](https://yourstory.com/2025/05/data-sutram-9m-series-a-funding-b-capital-lightspeed "Data Sutram bags $9M series A funding led by B Capital, ..."))
+  - **Offering**: AI-driven external-data intelligence for fraud/risk/compliance (RegTech), used by banks/NBFCs/fintechs. ([YourStory.com](https://yourstory.com/2025/05/data-sutram-9m-series-a-funding-b-capital-lightspeed "Data Sutram bags $9M series A funding led by B Capital, ..."))
+  - **Financials**: Raised **$9M Series A (May 22, 2025)** (mix of primary/secondary). Valuation is not disclosed publicly (some outlets report an estimated range, but the company hasn’t confirmed it). ([YourStory.com](https://yourstory.com/2025/05/data-sutram-9m-series-a-funding-b-capital-lightspeed "Data Sutram bags $9M series A funding led by B Capital, ..."))
 - [health-check.in](https://www.health-check.in/) (Apr 2019)
-  - **Founded by**: Launched by **IndiaSpend** (as a dedicated public-health reporting resource). ([Indiaspend](https://www.indiaspend.com/about-us?utm_source=chatgpt.com "About Us"))
-  - **Status**: Active. ([Indiaspend](https://www.indiaspend.com/about-us?utm_source=chatgpt.com "About Us"))
-  - **Offering**: Health data journalism + analysis on public health, nutrition, lifestyle diseases, health finance & governance. ([HealthCheck](https://www.health-check.in/?utm_source=chatgpt.com "HealthCheck: Data journalism, analysis on health, nutrition ..."))
-  - **Financials**: No separate public financials for the vertical; it’s sustained as part of IndiaSpend’s broader newsroom model. ([Indiaspend](https://www.indiaspend.com/about-us?utm_source=chatgpt.com "About Us"))
+  - **Founded by**: Launched by **IndiaSpend** (as a dedicated public-health reporting resource). ([Indiaspend](https://www.indiaspend.com/about-us "About Us"))
+  - **Status**: Active. ([Indiaspend](https://www.indiaspend.com/about-us "About Us"))
+  - **Offering**: Health data journalism + analysis on public health, nutrition, lifestyle diseases, health finance & governance. ([HealthCheck](https://www.health-check.in/ "HealthCheck: Data journalism, analysis on health, nutrition ..."))
+  - **Financials**: No separate public financials for the vertical; it’s sustained as part of IndiaSpend’s broader newsroom model. ([Indiaspend](https://www.indiaspend.com/about-us "About Us"))
 - **National Data & Analytics Platform – NDAP (launched May 13, 2022)**
   - **Founded by**: **NITI Aayog** ([Press Information Bureau](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1825145 "NITI Aayog Launches the National Data & Analytics Platform"))
   - **Status**: Active ([National Data and Analytics Platform](https://ndap.niti.gov.in/ "NDAP - NITI Aayog"))
@@ -152,19 +152,19 @@ date: 2026-01-25T11:39:28+05:30
   * **Offering**: Health data journalism + analysis on public health, nutrition, lifestyle diseases, health finance & governance. ([HealthCheck][16])
   * **Financials**: No separate public financials for the vertical; it’s sustained as part of IndiaSpend’s broader newsroom model. ([Indiaspend][15])
 
-[1]: https://tracxn.com/d/companies/how-india-lives/__zrqFXpqyV8_BlisojRmBKw6cJFaFw3_3C6IszZPrzfA?utm_source=chatgpt.com "How India Lives - 2025 Company Profile & Team"
-[2]: https://howindialives.com/gram/?utm_source=chatgpt.com "HIL || Home"
-[3]: https://howindialives.com/gram/aboutus.php?utm_source=chatgpt.com "HIL || Products & Services"
-[4]: https://thurro.com/about-us/?utm_source=chatgpt.com "About Us"
-[5]: https://tracxn.com/d/companies/thurro/__IohcH86Qg9gK62LNdNzVd1FXVK3Kzyrm0uA0dMjz9Yg?utm_source=chatgpt.com "Thurro - 2026 Company Profile & Team"
+[1]: https://tracxn.com/d/companies/how-india-lives/__zrqFXpqyV8_BlisojRmBKw6cJFaFw3_3C6IszZPrzfA "How India Lives - 2025 Company Profile & Team"
+[2]: https://howindialives.com/gram/ "HIL || Home"
+[3]: https://howindialives.com/gram/aboutus.php "HIL || Products & Services"
+[4]: https://thurro.com/about-us/ "About Us"
+[5]: https://tracxn.com/d/companies/thurro/__IohcH86Qg9gK62LNdNzVd1FXVK3Kzyrm0uA0dMjz9Yg "Thurro - 2026 Company Profile & Team"
 [6]: https://www.forbesindia.com/article/startups/atlan-putting-data-to-work/55003/1 "Atlan: Putting data to work"
-[7]: https://tracxn.com/d/companies/socialcops/__zgrL6LvfkAORC900ADahsPTx2FrO1vRraWce3AJ5N2I/funding-and-investors?utm_source=chatgpt.com "2025 Funding Rounds & List of Investors - SocialCops"
-[8]: https://en.wikipedia.org/wiki/Alt_News?utm_source=chatgpt.com "Alt News"
+[7]: https://tracxn.com/d/companies/socialcops/__zgrL6LvfkAORC900ADahsPTx2FrO1vRraWce3AJ5N2I/funding-and-investors "2025 Funding Rounds & List of Investors - SocialCops"
+[8]: https://en.wikipedia.org/wiki/Alt_News "Alt News"
 [9]: https://www.altnews.in/transparency-of-funding/ "Transparency of funding - Alt News"
 [10]: https://www.re3data.org/repository/r3d100014471 "OpenCity-Urban Data Portal | re3data.org"
-[11]: https://yourstory.com/companies/satsure?utm_source=chatgpt.com "SatSure Company Profile Funding & Investors"
-[12]: https://tracxn.com/d/companies/satsure/__VwEdVJFx8Cug7LbM_A9eS2RoSqaCCx4VQxzm6i69hdo?utm_source=chatgpt.com "SatSure - 2025 Company Profile & Team"
-[13]: https://datasutram.com/blog?categories=35%2C53%2C48%2C39%2C33%2C43%2C52%2C47%2C38%2C22%2C9&page=4&utm_source=chatgpt.com "30 Startups To Watch"
-[14]: https://yourstory.com/2025/05/data-sutram-9m-series-a-funding-b-capital-lightspeed?utm_source=chatgpt.com "Data Sutram bags $9M series A funding led by B Capital, ..."
-[15]: https://www.indiaspend.com/about-us?utm_source=chatgpt.com "About Us"
-[16]: https://www.health-check.in/?utm_source=chatgpt.com "HealthCheck: Data journalism, analysis on health, nutrition ..."
+[11]: https://yourstory.com/companies/satsure "SatSure Company Profile Funding & Investors"
+[12]: https://tracxn.com/d/companies/satsure/__VwEdVJFx8Cug7LbM_A9eS2RoSqaCCx4VQxzm6i69hdo "SatSure - 2025 Company Profile & Team"
+[13]: https://datasutram.com/blog?categories=35%2C53%2C48%2C39%2C33%2C43%2C52%2C47%2C38%2C22%2C9&page=4 "30 Startups To Watch"
+[14]: https://yourstory.com/2025/05/data-sutram-9m-series-a-funding-b-capital-lightspeed "Data Sutram bags $9M series A funding led by B Capital, ..."
+[15]: https://www.indiaspend.com/about-us "About Us"
+[16]: https://www.health-check.in/ "HealthCheck: Data journalism, analysis on health, nutrition ..."

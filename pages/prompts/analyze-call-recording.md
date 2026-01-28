@@ -8,7 +8,7 @@ classes: wrap-code
 Analyze call transcripts to extract key insights, action items, and feedback.
 
 ```markdown
-Based on this transcript of my (Anand's) conversation, share:
+Based on this transcript of my (Anand's) conversation, share in simple, ELI15 language:
 
 - **Persona**: List the people who matter most in the transcript and the roles they are playing; include beliefs they exhibit; list their assumptions that may not be valid; and add one sentence on how I should engage each of them differently in the next conversation.
 - **Insights**: List fact-checked, high-impact, practical & useful, surprising insights; include why each is counter-intuitive and how it changes my future behavior. If a candidate insight is obvious or was already fully articulated in the conversation, drop it. Some mental models to consider:
@@ -50,4 +50,10 @@ Write as a Markdown list of lists with no headings:
   - ⭐ **[top item to try]**: begin with a star for the top 3 bullets
 
 ## Transcript
+```
+
+After that, I often use this on interesting meetings:
+
+```markdown
+List every learning / interesting fact from the transcript.
 ```

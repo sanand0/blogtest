@@ -73,9 +73,9 @@ If you tell me whether **Google login is truly non-negotiable** (vs “any login
 [5]: https://github.com/coralproject/talk "GitHub - coralproject/talk: A better commenting experience from Vox Media"
 [6]: https://github.com/disqus/disqus-react "GitHub - disqus/disqus-react: A React component for Disqus"
 [8]: https://gitlab.com/comentario/comentario "comentario / Comentario · GitLab"
-[9]: https://github.com/orgs/giscus/repositories?utm_source=chatgpt.com "giscus repositories"
-[10]: https://www.discourse.org/pricing?utm_source=chatgpt.com "Discourse pricing | Discourse - Civilized Discussion"
-[11]: https://disqus.com/profile/signup/?utm_source=chatgpt.com "Create Account - Try Disqus for Free"
+[9]: https://github.com/orgs/giscus/repositories "giscus repositories"
+[10]: https://www.discourse.org/pricing "Discourse pricing | Discourse - Civilized Discussion"
+[11]: https://disqus.com/profile/signup/ "Create Account - Try Disqus for Free"
 [12]: https://docs.comentario.app/en/getting-started/cloud/ "Cloud versions | Comentario Documentation"
 
 ## CORS proxies, 15 Jan 2026
